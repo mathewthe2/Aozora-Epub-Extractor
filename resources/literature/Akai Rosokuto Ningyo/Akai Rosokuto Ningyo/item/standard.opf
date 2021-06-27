@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package
+xmlns="http://www.idpf.org/2007/opf"
+version="3.0"
+xml:lang="ja"
+unique-identifier="jpecode"
+prefix="rendition: http://www.idpf.org/vocab/rendition/#
+ebpaj: http://www.ebpaj.jp/
+ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/"
+>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<!-- 作品名 -->
+<dc:title id="title">赤い蝋燭と人魚</dc:title>
+<meta refines="#title" property="file-as">アカイロウソクトニンギョ</meta>
+
+<!-- 著者名 -->
+<dc:creator id="creator01">小川未明</dc:creator>
+<meta refines="#creator01" property="role" scheme="marc:relators">aut</meta>
+<meta refines="#creator01" property="file-as">オガワミメイ</meta>
+<meta refines="#creator01" property="display-seq">1</meta>
+
+<!-- 出版社名 -->
+<dc:publisher id="publisher">青空朗読</dc:publisher>
+<meta refines="#publisher" property="file-as">アオゾラロウドク</meta>
+
+<!-- 言語 -->
+<dc:language>ja</dc:language>
+
+<!-- ファイルid：JP-eコードを記入 -->
+<dc:identifier id="jpecode">urn:uuid:f6aec547-527e-4ca7-9636-0381d8cc7bd2</dc:identifier>
+
+<!-- 更新日 -->
+<meta property="dcterms:modified">2016-03-01T00:00:00Z</meta>
+
+<!-- Fixed-Layout Documents指定 -->
+<meta property="rendition:layout">reflowable</meta>
+<meta property="rendition:spread">auto</meta>
+<meta property="rendition:orientation">auto</meta>
+
+<!-- etc. -->
+<meta property="ebpaj:guide-version">1.1.3</meta>
+<meta property="ibooks:specified-fonts">true</meta>
+<meta property="ibooks:binding">true</meta>
+<meta property="ibooks:version">1.0</meta>
+
+<meta property="media:duration" refines="#smil001">0:29:38</meta>
+<meta property="media:duration">0:29:38</meta>
+<meta content="0:29:38" name="media:duration"/>
+<meta property="media:active-class">media-overlay-active</meta>
+
+</metadata>
+
+<manifest>
+
+<!-- navigation -->
+<item media-type="application/xhtml+xml" id="toc" href="navigation-documents.xhtml" properties="nav" />
+
+<!-- style -->
+<item media-type="text/css" id="book-style" href="style/book-style.css" />
+<item media-type="text/css" id="style-advance" href="style/style-advance.css" />
+<item media-type="text/css" id="style-reset" href="style/style-reset.css" />
+<item media-type="text/css" id="style-standard" href="style/style-standard.css" />
+<item media-type="text/css" id="style-center" href="style/image-center.css" />
+
+<!-- image -->
+<item media-type="image/jpeg" id="cover" href="image/cover.jpg" properties="cover-image"/>
+
+<!-- xhtml -->
+<item media-type="application/xhtml+xml" id="p-001" href="xhtml/p-001.xhtml" media-overlay="smil001" properties="scripted"/>
+<item media-type="application/xhtml+xml" id="p-cover" href="xhtml/p-cover.xhtml"/>
+<item media-type="application/xhtml+xml" id="p-caution" href="xhtml/p-caution.xhtml"/>
+<item media-type="application/xhtml+xml" id="p-colophon" href="xhtml/p-colophon.xhtml"/>
+
+<!-- audio -->
+<item id="audio001" media-type="audio/mpeg" href="xhtml/rd185.mp3"/>
+
+<!-- smil -->
+<item id="smil001" media-type="application/smil+xml" href="xhtml/p-001.smil"/>
+
+<!-- javascript -->
+<item id="js000" media-type="application/javascript" href="js/rb_smil_emulator.js"/>
+<item id="js001" media-type="application/javascript" href="js/p-001.xhtml.smil.js"/>
+
+</manifest>
+
+<spine page-progression-direction="ltr">
+<itemref linear="yes" idref="p-cover" properties="rendition:page-spread-center"/>
+<itemref linear="yes" idref="p-caution"/>
+<itemref linear="yes" idref="p-001"/>
+<itemref linear="yes" idref="p-colophon"/>
+</spine>
+
+</package>

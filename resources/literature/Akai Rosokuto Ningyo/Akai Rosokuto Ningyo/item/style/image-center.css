@@ -1,0 +1,43 @@
+@charset "utf-8";
+
+body {
+	font-family: serif, sans-serif;
+	-epub-writing-mode: vertical-rl;
+	-webkit-writing-mode: vertical-rl;
+	text-align: justify;
+	text-justify: inter-ideograph;
+	-epub-text-emphasis-position: over;
+	-webkit-text-emphasis-position: over;
+	-epub-ruby-position: over;
+	-webkit-ruby-position: over;
+	margin: 0;
+	padding: 0;
+}
+p {
+	margin: 0;
+	line-height: 1.75em;
+}
+.img-center {
+	text-align: center;
+}
+.fit {
+	display: inline-block;
+	page-break-inside: avoid;
+	max-height: 100%;
+	max-width: 100%;
+	vertical-align: top; 
+}
+img {
+	margin: 0;
+	padding: 0;
+}
+
+.pagecenter0 {
+	display: inline-block; vertical-align: middle; -epub-writing-mode: horizontal-tb; width: 100%;
+}
+.pagecenter1 {
+	text-align: justify; display: inline-block; vertical-align: middle; height: 100%;
+}
+.pagecenter2{
+	text-align:center;
+}
