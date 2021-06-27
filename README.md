@@ -18,7 +18,7 @@ source env/bin/activate
 pip install -r requirements.txt
 ```
 ## Extracting an epub file
-Add the epub file with its parent folder under */resources*.
+Add the epub file with its parent folder under */resources/literature/*.
 
 ```python
 from main import unpack_aozora_epub
