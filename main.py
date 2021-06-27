@@ -23,7 +23,6 @@ def unpack_audio_from_epub(file, target_directory):
         for zip_info in zip.infolist():
             if zip_info.filename[-1] == '/':
                 continue
-            print(zip_info.filename)
             if 'm4a' in zip_info.filename:
                 print('m4a detected. Exporting to mp3')
                 zip_info.filename = 'temp.m4a'
@@ -33,7 +32,6 @@ def unpack_audio_from_epub(file, target_directory):
                 os.remove(Path(target_directory, 'temp.m4a'))
                 return str(Path(target_directory, AUDIO_FILE_NAME))
             if 'mp3' in zip_info.filename:
-                print('filename', zip_info.filename)
                 zip_info.filename = AUDIO_FILE_NAME
                 zip.extract(zip_info, target_directory)
                 return str(Path(target_directory, AUDIO_FILE_NAME))
@@ -73,14 +71,11 @@ def get_text(file):
         return items
 
 def remove_class_from_sentence(s):
-    print(s)
     if 'class=' in s:
-        print('class')
         if '<' in s:
             pre = s.split('<')[0]
             content = s.split('>')[1].split('<')[0]
             post = s.split('>')[len(s.split('>'))-1]
-            print(pre + content + post)
             return pre + content + post
         else:
             print('parsing failed for ', s)
@@ -123,6 +118,6 @@ def unpack_aozora_epub(file, skip_media=False):
     with open(Path(file_directory, TEXT_FILE_NAME), 'w', encoding='utf-8') as f:
         json.dump(text_objects, f, indent=4, ensure_ascii=False)
 
-name = "Akatonbo"
+name = "Ichono Mi"
 file = Path(bundle_path, 'resources', 'literature', name, name + '.epub')
 unpack_aozora_epub(file, skip_media=False)
