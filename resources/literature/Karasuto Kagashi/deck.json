@@ -1,0 +1,762 @@
+[
+    {
+        "id": "f000001",
+        "sentence": "小川未明　作",
+        "sentence_with_furigana": "小川未明　作"
+    },
+    {
+        "id": "f000002",
+        "sentence": "からすとかがし",
+        "sentence_with_furigana": "からすとかがし"
+    },
+    {
+        "id": "f000003",
+        "sentence": "太吉じいさんは、",
+        "sentence_with_furigana": "太吉[たきち]じいさんは、"
+    },
+    {
+        "id": "f000004",
+        "sentence": "百姓が、",
+        "sentence_with_furigana": "百 姓[しょう]が、"
+    },
+    {
+        "id": "f000005",
+        "sentence": "かさをかぶって、",
+        "sentence_with_furigana": "かさをかぶって、"
+    },
+    {
+        "id": "f000006",
+        "sentence": "手に弓を持って立っている、",
+        "sentence_with_furigana": "手[て]に 弓[ゆみ]を 持[も]って 立[た]っている、"
+    },
+    {
+        "id": "f000007",
+        "sentence": "かがしをつくる名人でした。",
+        "sentence_with_furigana": "かがしをつくる 名人[めいじん]でした。"
+    },
+    {
+        "id": "f000008",
+        "sentence": "それを見ると、",
+        "sentence_with_furigana": "それを 見[み]ると、"
+    },
+    {
+        "id": "f000009",
+        "sentence": "からすやすずめなどが、",
+        "sentence_with_furigana": "からすやすずめなどが、"
+    },
+    {
+        "id": "f000010",
+        "sentence": "そばへ寄りつきませんでした。",
+        "sentence_with_furigana": "そばへ 寄[よ]りつきませんでした。"
+    },
+    {
+        "id": "f000011",
+        "sentence": "それも、",
+        "sentence_with_furigana": "それも、"
+    },
+    {
+        "id": "f000012",
+        "sentence": "そのはずで、",
+        "sentence_with_furigana": "そのはずで、"
+    },
+    {
+        "id": "f000013",
+        "sentence": "おじいさんは若い時分から弓を射ることが上手で、",
+        "sentence_with_furigana": "おじいさんは 若[わか]い 時分[じぶん]から 弓[ゆみ]を 射[い]ることが 上手[じょうず]で、"
+    },
+    {
+        "id": "f000014",
+        "sentence": "どんな小さな鳥でも、",
+        "sentence_with_furigana": "どんな 小[ちい]さな 鳥[とり]でも、"
+    },
+    {
+        "id": "f000015",
+        "sentence": "ねらえば、",
+        "sentence_with_furigana": "ねらえば、"
+    },
+    {
+        "id": "f000016",
+        "sentence": "かならず射落としたものです。",
+        "sentence_with_furigana": "かならず 射落[いお]としたものです。"
+    },
+    {
+        "id": "f000017",
+        "sentence": "よく、",
+        "sentence_with_furigana": "よく、"
+    },
+    {
+        "id": "f000018",
+        "sentence": "晩方の空を飛んでいくかりを射落としたり、",
+        "sentence_with_furigana": "晩方[ばんがた]の 空[そら]を 飛[と]んでいくかりを 射落[いお]としたり、"
+    },
+    {
+        "id": "f000019",
+        "sentence": "はたけで遊んでいるすずめを射とめたりしました。",
+        "sentence_with_furigana": "はたけで 遊[あそ]んでいるすずめを 射[い]とめたりしました。"
+    },
+    {
+        "id": "f000020",
+        "sentence": "だからおじいさんを見ると、",
+        "sentence_with_furigana": "だからおじいさんを 見[み]ると、"
+    },
+    {
+        "id": "f000021",
+        "sentence": "小鳥たちは鳴くのをやめて、",
+        "sentence_with_furigana": "小鳥[ことり]たちは 鳴[な]くのをやめて、"
+    },
+    {
+        "id": "f000022",
+        "sentence": "どこへか姿をかくしてしまいました。",
+        "sentence_with_furigana": "どこへか 姿[すがた]をかくしてしまいました。"
+    },
+    {
+        "id": "f000023",
+        "sentence": "しかし、",
+        "sentence_with_furigana": "しかし、"
+    },
+    {
+        "id": "f000024",
+        "sentence": "このごろは、",
+        "sentence_with_furigana": "このごろは、"
+    },
+    {
+        "id": "f000025",
+        "sentence": "おじいさんも目がわるくなって、",
+        "sentence_with_furigana": "おじいさんも 目[め]がわるくなって、"
+    },
+    {
+        "id": "f000026",
+        "sentence": "ねらいがきかなくなりました。",
+        "sentence_with_furigana": "ねらいがきかなくなりました。"
+    },
+    {
+        "id": "f000027",
+        "sentence": "けれども、",
+        "sentence_with_furigana": "けれども、"
+    },
+    {
+        "id": "f000028",
+        "sentence": "鳥たちは、",
+        "sentence_with_furigana": "鳥[とり]たちは、"
+    },
+    {
+        "id": "f000029",
+        "sentence": "弓を持って立っいるかがしを見ると、",
+        "sentence_with_furigana": "弓[ゆみ]を 持[も]って 立[た]っいるかがしを 見[み]ると、"
+    },
+    {
+        "id": "f000030",
+        "sentence": "やはりおじいさんのような、",
+        "sentence_with_furigana": "やはりおじいさんのような、"
+    },
+    {
+        "id": "f000031",
+        "sentence": "怖ろしい人だと思ったのです。",
+        "sentence_with_furigana": "怖[おそ]ろしい 人[ひと]だと 思[おも]ったのです。"
+    },
+    {
+        "id": "f000032",
+        "sentence": "親鳥は、",
+        "sentence_with_furigana": "親鳥[おやどり]は、"
+    },
+    {
+        "id": "f000033",
+        "sentence": "子鳥にいいました。",
+        "sentence_with_furigana": "子鳥[ことり]にいいました。"
+    },
+    {
+        "id": "f000034",
+        "sentence": "「あの、",
+        "sentence_with_furigana": "「あの、"
+    },
+    {
+        "id": "f000035",
+        "sentence": "田の中に立っている人の手に持つのが、",
+        "sentence_with_furigana": "田[た]の 中[なか]に 立[た]っている 人[ひと]の 手[て]に 持[も]つのが、"
+    },
+    {
+        "id": "f000036",
+        "sentence": "おじいさんや、",
+        "sentence_with_furigana": "おじいさんや、"
+    },
+    {
+        "id": "f000037",
+        "sentence": "おばあさんから、",
+        "sentence_with_furigana": "おばあさんから、"
+    },
+    {
+        "id": "f000038",
+        "sentence": "話にきいた、",
+        "sentence_with_furigana": "話[はなし]にきいた、"
+    },
+    {
+        "id": "f000039",
+        "sentence": "怖ろしい弓というものだよ。",
+        "sentence_with_furigana": "怖[おそ]ろしい 弓[ゆみ]というものだよ。"
+    },
+    {
+        "id": "f000040",
+        "sentence": "いつ飛んできて、",
+        "sentence_with_furigana": "いつ 飛[と]んできて、"
+    },
+    {
+        "id": "f000041",
+        "sentence": "あたるかしれないから、",
+        "sentence_with_furigana": "あたるかしれないから、"
+    },
+    {
+        "id": "f000042",
+        "sentence": "そばにゆかないがいい。」",
+        "sentence_with_furigana": "そばにゆかないがいい。」"
+    },
+    {
+        "id": "f000043",
+        "sentence": "子鳥たちは、",
+        "sentence_with_furigana": "子鳥[ことり]たちは、"
+    },
+    {
+        "id": "f000044",
+        "sentence": "たびたび、",
+        "sentence_with_furigana": "たびたび、"
+    },
+    {
+        "id": "f000045",
+        "sentence": "いいきかされたのでよく守っていました。",
+        "sentence_with_furigana": "いいきかされたのでよく 守[まも]っていました。"
+    },
+    {
+        "id": "f000046",
+        "sentence": "また、",
+        "sentence_with_furigana": "また、"
+    },
+    {
+        "id": "f000047",
+        "sentence": "来年、",
+        "sentence_with_furigana": "来年[らいねん]、"
+    },
+    {
+        "id": "f000048",
+        "sentence": "稲の実るころになると、",
+        "sentence_with_furigana": "稲[いね]の 実[みの]るころになると、"
+    },
+    {
+        "id": "f000049",
+        "sentence": "太吉じいさんは、",
+        "sentence_with_furigana": "太吉[たきち]じいさんは、"
+    },
+    {
+        "id": "f000050",
+        "sentence": "新しいかがしを造りました。",
+        "sentence_with_furigana": "新[あたら]しいかがしを 造[つく]りました。"
+    },
+    {
+        "id": "f000051",
+        "sentence": "去年の子鳥たちはもう親鳥となって、",
+        "sentence_with_furigana": "去年[きょねん]の 子鳥[ことり]たちはもう 親鳥[おやどり]となって、"
+    },
+    {
+        "id": "f000052",
+        "sentence": "同じように、",
+        "sentence_with_furigana": "同[おな]じように、"
+    },
+    {
+        "id": "f000053",
+        "sentence": "その子供たちに向かって、",
+        "sentence_with_furigana": "その 子供[こども]たちに 向[む]かって、"
+    },
+    {
+        "id": "f000054",
+        "sentence": "「あれは、",
+        "sentence_with_furigana": "「あれは、"
+    },
+    {
+        "id": "f000055",
+        "sentence": "弓というものだよ。",
+        "sentence_with_furigana": "弓[ゆみ]というものだよ。"
+    },
+    {
+        "id": "f000056",
+        "sentence": "」と自分たちのきいた、",
+        "sentence_with_furigana": "」と 自分[じぶん]たちのきいた、"
+    },
+    {
+        "id": "f000057",
+        "sentence": "怖ろしい話をしてきかせました。",
+        "sentence_with_furigana": "怖[おそ]ろしい 話[はなし]をしてきかせました。"
+    },
+    {
+        "id": "f000058",
+        "sentence": "こうして、",
+        "sentence_with_furigana": "こうして、"
+    },
+    {
+        "id": "f000059",
+        "sentence": "鳥たちは、",
+        "sentence_with_furigana": "鳥[とり]たちは、"
+    },
+    {
+        "id": "f000060",
+        "sentence": "なるたけおじいさんのたんぼに近寄らないようにしていました。",
+        "sentence_with_furigana": "なるたけおじいさんのたんぼに 近寄[ちかよ]らないようにしていました。"
+    },
+    {
+        "id": "f000061",
+        "sentence": "ところが、",
+        "sentence_with_furigana": "ところが、"
+    },
+    {
+        "id": "f000062",
+        "sentence": "物忘れをするからすがありました。",
+        "sentence_with_furigana": "物忘[ものわす]れをするからすがありました。"
+    },
+    {
+        "id": "f000063",
+        "sentence": "きいた話を、",
+        "sentence_with_furigana": "きいた 話[はなし]を、"
+    },
+    {
+        "id": "f000064",
+        "sentence": "すっかり忘れて、",
+        "sentence_with_furigana": "すっかり 忘[わす]れて、"
+    },
+    {
+        "id": "f000065",
+        "sentence": "かがしの上にきて止まりました。",
+        "sentence_with_furigana": "かがしの 上[うえ]にきて 止[と]まりました。"
+    },
+    {
+        "id": "f000066",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、"
+    },
+    {
+        "id": "f000067",
+        "sentence": "カア、",
+        "sentence_with_furigana": "カア、"
+    },
+    {
+        "id": "f000068",
+        "sentence": "カアと鳴きながらかがしの頭をつつきました。",
+        "sentence_with_furigana": "カアと 鳴[な]きながらかがしの 頭[あたま]をつつきました。"
+    },
+    {
+        "id": "f000069",
+        "sentence": "これを見たすずめたちは、",
+        "sentence_with_furigana": "これを 見[み]たすずめたちは、"
+    },
+    {
+        "id": "f000070",
+        "sentence": "びっくりしてどうなるのかと目をまるくしていましたが、",
+        "sentence_with_furigana": "びっくりしてどうなるのかと 目[め]をまるくしていましたが、"
+    },
+    {
+        "id": "f000071",
+        "sentence": "しまいに、",
+        "sentence_with_furigana": "しまいに、"
+    },
+    {
+        "id": "f000072",
+        "sentence": "「なんだ、",
+        "sentence_with_furigana": "「なんだ、"
+    },
+    {
+        "id": "f000073",
+        "sentence": "からすがとまってもなんでもないじゃないか。",
+        "sentence_with_furigana": "からすがとまってもなんでもないじゃないか。"
+    },
+    {
+        "id": "f000074",
+        "sentence": "」といって、",
+        "sentence_with_furigana": "」といって、"
+    },
+    {
+        "id": "f000075",
+        "sentence": "どっと押しよせてきました。",
+        "sentence_with_furigana": "どっと 押[お]しよせてきました。"
+    },
+    {
+        "id": "f000076",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、"
+    },
+    {
+        "id": "f000077",
+        "sentence": "長い間自分たちをだましていた正体を見破ってしまいました。",
+        "sentence_with_furigana": "長[なが]い 間[あいだ] 自分[じぶん]たちをだましていた 正体[しょうたい]を 見破[みやぶ]ってしまいました。"
+    },
+    {
+        "id": "f000078",
+        "sentence": "「こんな、",
+        "sentence_with_furigana": "「こんな、"
+    },
+    {
+        "id": "f000079",
+        "sentence": "まがった竹がなんになるんだ。",
+        "sentence_with_furigana": "まがった 竹[たけ]がなんになるんだ。"
+    },
+    {
+        "id": "f000080",
+        "sentence": "」といって、",
+        "sentence_with_furigana": "」といって、"
+    },
+    {
+        "id": "f000081",
+        "sentence": "すずめたちは弓にとまりました。",
+        "sentence_with_furigana": "すずめたちは 弓[ゆみ]にとまりました。"
+    },
+    {
+        "id": "f000082",
+        "sentence": "旅をして帰った、",
+        "sentence_with_furigana": "旅[たび]をして 帰[かえ]った、"
+    },
+    {
+        "id": "f000083",
+        "sentence": "じいさんの息子が、",
+        "sentence_with_furigana": "じいさんの 息子[むすこ]が、"
+    },
+    {
+        "id": "f000084",
+        "sentence": "「いまごろ、",
+        "sentence_with_furigana": "「いまごろ、"
+    },
+    {
+        "id": "f000085",
+        "sentence": "弓なんか持ったかがしなんてあるものでない。",
+        "sentence_with_furigana": "弓[ゆみ]なんか 持[も]ったかがしなんてあるものでない。"
+    },
+    {
+        "id": "f000086",
+        "sentence": "どこの田や、",
+        "sentence_with_furigana": "どこの 田[た]や、"
+    },
+    {
+        "id": "f000087",
+        "sentence": "圃でも、",
+        "sentence_with_furigana": "圃[はたけ]でも、"
+    },
+    {
+        "id": "f000088",
+        "sentence": "鉄砲を持った、",
+        "sentence_with_furigana": "鉄砲[てっぽう]を 持[も]った、"
+    },
+    {
+        "id": "f000089",
+        "sentence": "勇ましいかがしを立てている。",
+        "sentence_with_furigana": "勇[いさ]ましいかがしを 立[た]てている。"
+    },
+    {
+        "id": "f000090",
+        "sentence": "」といいました。",
+        "sentence_with_furigana": "」といいました。"
+    },
+    {
+        "id": "f000091",
+        "sentence": "これをきいて、",
+        "sentence_with_furigana": "これをきいて、"
+    },
+    {
+        "id": "f000092",
+        "sentence": "太吉じいさんは、",
+        "sentence_with_furigana": "太吉[たきち]じいさんは、"
+    },
+    {
+        "id": "f000093",
+        "sentence": "「なるほどそうかな、",
+        "sentence_with_furigana": "「なるほどそうかな、"
+    },
+    {
+        "id": "f000094",
+        "sentence": "弓なんて、",
+        "sentence_with_furigana": "弓[ゆみ]なんて、"
+    },
+    {
+        "id": "f000095",
+        "sentence": "なにするものか、",
+        "sentence_with_furigana": "なにするものか、"
+    },
+    {
+        "id": "f000096",
+        "sentence": "昔の鳥は知っても、",
+        "sentence_with_furigana": "昔[むかし]の 鳥[とり]は 知[し]っても、"
+    },
+    {
+        "id": "f000097",
+        "sentence": "このごろの鳥たちは知るまいて。",
+        "sentence_with_furigana": "このごろの 鳥[とり]たちは 知[し]るまいて。"
+    },
+    {
+        "id": "f000098",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000099",
+        "sentence": "いって、",
+        "sentence_with_furigana": "いって、"
+    },
+    {
+        "id": "f000100",
+        "sentence": "おじいさんは弓のかわりに、",
+        "sentence_with_furigana": "おじいさんは 弓[ゆみ]のかわりに、"
+    },
+    {
+        "id": "f000101",
+        "sentence": "鉄砲を持って立っている、",
+        "sentence_with_furigana": "鉄砲[てっぽう]を 持[も]って 立[た]っている、"
+    },
+    {
+        "id": "f000102",
+        "sentence": "かがしをつくりました。",
+        "sentence_with_furigana": "かがしをつくりました。"
+    },
+    {
+        "id": "f000103",
+        "sentence": "「見てくれ、",
+        "sentence_with_furigana": "「 見[み]てくれ、"
+    },
+    {
+        "id": "f000104",
+        "sentence": "これなら、",
+        "sentence_with_furigana": "これなら、"
+    },
+    {
+        "id": "f000105",
+        "sentence": "いいだろう。",
+        "sentence_with_furigana": "いいだろう。"
+    },
+    {
+        "id": "f000106",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000107",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、"
+    },
+    {
+        "id": "f000108",
+        "sentence": "ききました。",
+        "sentence_with_furigana": "ききました。"
+    },
+    {
+        "id": "f000109",
+        "sentence": "「ああ、",
+        "sentence_with_furigana": "「ああ、"
+    },
+    {
+        "id": "f000110",
+        "sentence": "よくできました。",
+        "sentence_with_furigana": "よくできました。"
+    },
+    {
+        "id": "f000111",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000112",
+        "sentence": "息子は、",
+        "sentence_with_furigana": "息子[むすこ]は、"
+    },
+    {
+        "id": "f000113",
+        "sentence": "答えました。",
+        "sentence_with_furigana": "答[こた]えました。"
+    },
+    {
+        "id": "f000114",
+        "sentence": "これを見たすずめたちは、",
+        "sentence_with_furigana": "これを 見[み]たすずめたちは、"
+    },
+    {
+        "id": "f000115",
+        "sentence": "ふるえあがりました。",
+        "sentence_with_furigana": "ふるえあがりました。"
+    },
+    {
+        "id": "f000116",
+        "sentence": "「あれは鉄砲だよ。",
+        "sentence_with_furigana": "「あれは 鉄砲[てっぽう]だよ。"
+    },
+    {
+        "id": "f000117",
+        "sentence": "近寄ると、",
+        "sentence_with_furigana": "近寄[ちかよ]ると、"
+    },
+    {
+        "id": "f000118",
+        "sentence": "ズドンといって、",
+        "sentence_with_furigana": "ズドンといって、"
+    },
+    {
+        "id": "f000119",
+        "sentence": "みんな殺されてしまうのだよ。",
+        "sentence_with_furigana": "みんな 殺[ころ]されてしまうのだよ。"
+    },
+    {
+        "id": "f000120",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000121",
+        "sentence": "親すずめは子すずめにいいきかせました。",
+        "sentence_with_furigana": "親[おや]すずめは 子[こ]すずめにいいきかせました。"
+    },
+    {
+        "id": "f000122",
+        "sentence": "ところが、",
+        "sentence_with_furigana": "ところが、"
+    },
+    {
+        "id": "f000123",
+        "sentence": "いつかの物忘れのからすがやってきて、",
+        "sentence_with_furigana": "いつかの 物忘[ものわす]れのからすがやってきて、"
+    },
+    {
+        "id": "f000124",
+        "sentence": "かがしの上に止まりました。",
+        "sentence_with_furigana": "かがしの 上[うえ]に 止[と]まりました。"
+    },
+    {
+        "id": "f000125",
+        "sentence": "「どうしたのだろうな。",
+        "sentence_with_furigana": "「どうしたのだろうな。"
+    },
+    {
+        "id": "f000126",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000127",
+        "sentence": "おじいさんが、",
+        "sentence_with_furigana": "おじいさんが、"
+    },
+    {
+        "id": "f000128",
+        "sentence": "頸をかしげました。",
+        "sentence_with_furigana": "頸[くび]をかしげました。"
+    },
+    {
+        "id": "f000129",
+        "sentence": "すると、",
+        "sentence_with_furigana": "すると、"
+    },
+    {
+        "id": "f000130",
+        "sentence": "そのからすは、",
+        "sentence_with_furigana": "そのからすは、"
+    },
+    {
+        "id": "f000131",
+        "sentence": "「知っていますよ、",
+        "sentence_with_furigana": "「 知[し]っていますよ、"
+    },
+    {
+        "id": "f000132",
+        "sentence": "なにを持っても打てないことを。",
+        "sentence_with_furigana": "なにを 持[も]っても 打[う]てないことを。"
+    },
+    {
+        "id": "f000133",
+        "sentence": "ばか、",
+        "sentence_with_furigana": "ばか、"
+    },
+    {
+        "id": "f000134",
+        "sentence": "ばか。",
+        "sentence_with_furigana": "ばか。"
+    },
+    {
+        "id": "f000135",
+        "sentence": "」といって、",
+        "sentence_with_furigana": "」といって、"
+    },
+    {
+        "id": "f000136",
+        "sentence": "笑いました。",
+        "sentence_with_furigana": "笑[わら]いました。"
+    },
+    {
+        "id": "f000137",
+        "sentence": "他の鳥たちは、",
+        "sentence_with_furigana": "他[ほか]の 鳥[とり]たちは、"
+    },
+    {
+        "id": "f000138",
+        "sentence": "からすの勇気に感心しました。",
+        "sentence_with_furigana": "からすの 勇気[ゆうき]に 感心[かんしん]しました。"
+    },
+    {
+        "id": "f000139",
+        "sentence": "いままで、",
+        "sentence_with_furigana": "いままで、"
+    },
+    {
+        "id": "f000140",
+        "sentence": "ばかにされたからすが、",
+        "sentence_with_furigana": "ばかにされたからすが、"
+    },
+    {
+        "id": "f000141",
+        "sentence": "いちばんりこうな鳥といわれるようになりました。",
+        "sentence_with_furigana": "いちばんりこうな 鳥[とり]といわれるようになりました。"
+    },
+    {
+        "id": "f000142",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、"
+    },
+    {
+        "id": "f000143",
+        "sentence": "すずめたちは、",
+        "sentence_with_furigana": "すずめたちは、"
+    },
+    {
+        "id": "f000144",
+        "sentence": "かがしを侮って、",
+        "sentence_with_furigana": "かがしを 侮[あなど]って、"
+    },
+    {
+        "id": "f000145",
+        "sentence": "稲を荒らしましたが、",
+        "sentence_with_furigana": "稲[いね]を 荒[あ]らしましたが、"
+    },
+    {
+        "id": "f000146",
+        "sentence": "ある日、",
+        "sentence_with_furigana": "ある 日[ひ]、"
+    },
+    {
+        "id": "f000147",
+        "sentence": "おじいさんの息子の打った、",
+        "sentence_with_furigana": "おじいさんの 息子[むすこ]の 打[う]った、"
+    },
+    {
+        "id": "f000148",
+        "sentence": "ほんとうの鉄砲で、",
+        "sentence_with_furigana": "ほんとうの 鉄砲[てっぽう]で、"
+    },
+    {
+        "id": "f000149",
+        "sentence": "みんな殺されてしまいました。",
+        "sentence_with_furigana": "みんな 殺[ころ]されてしまいました。"
+    },
+    {
+        "id": "f000150",
+        "sentence": "いつでも、",
+        "sentence_with_furigana": "いつでも、"
+    },
+    {
+        "id": "f000151",
+        "sentence": "ばかとりこうとは、",
+        "sentence_with_furigana": "ばかとりこうとは、"
+    },
+    {
+        "id": "f000152",
+        "sentence": "ちょっと見分けのつかぬものです。",
+        "sentence_with_furigana": "ちょっと 見分[みわ]けのつかぬものです。"
+    }
+]

@@ -1,0 +1,1462 @@
+[
+    {
+        "id": "f000001",
+        "sentence": "林芙美子　作",
+        "sentence_with_furigana": "林芙美子　作"
+    },
+    {
+        "id": "f000002",
+        "sentence": "狐物語",
+        "sentence_with_furigana": "狐物語"
+    },
+    {
+        "id": "f000003",
+        "sentence": "四國のある山の中に、",
+        "sentence_with_furigana": "四國のある山の中に、"
+    },
+    {
+        "id": "f000004",
+        "sentence": "おもしろい狐がすんでいました。",
+        "sentence_with_furigana": "おもしろい狐がすんでいました。"
+    },
+    {
+        "id": "f000005",
+        "sentence": "いつも、",
+        "sentence_with_furigana": "いつも、"
+    },
+    {
+        "id": "f000006",
+        "sentence": "ひとりで歩くことがすきでしたが、",
+        "sentence_with_furigana": "ひとりで歩くことがすきでしたが、"
+    },
+    {
+        "id": "f000007",
+        "sentence": "ある雨の日、",
+        "sentence_with_furigana": "ある雨の日、"
+    },
+    {
+        "id": "f000008",
+        "sentence": "いつものように餌をあさってぼつぼつ歩いていますと、",
+        "sentence_with_furigana": "いつものように餌をあさってぼつぼつ歩いていますと、"
+    },
+    {
+        "id": "f000009",
+        "sentence": "男の子が四五人、",
+        "sentence_with_furigana": "男の子が四五人、"
+    },
+    {
+        "id": "f000010",
+        "sentence": "がやがや話しながら山を下っていました。",
+        "sentence_with_furigana": "がやがや話しながら山を下っていました。"
+    },
+    {
+        "id": "f000011",
+        "sentence": "狐は、",
+        "sentence_with_furigana": "狐は、"
+    },
+    {
+        "id": "f000012",
+        "sentence": "時々人間をみたことがあったし、",
+        "sentence_with_furigana": "時々人間をみたことがあったし、"
+    },
+    {
+        "id": "f000013",
+        "sentence": "人間は二本の足で立って歩いているので、",
+        "sentence_with_furigana": "人間は二本の足で立って歩いているので、"
+    },
+    {
+        "id": "f000014",
+        "sentence": "狐は珍らしくて仕方がないのです。",
+        "sentence_with_furigana": "狐は珍らしくて仕方がないのです。"
+    },
+    {
+        "id": "f000015",
+        "sentence": "狐のおかあさんは、",
+        "sentence_with_furigana": "狐のおかあさんは、"
+    },
+    {
+        "id": "f000016",
+        "sentence": "「人間のところへ行くとひどいめにあうから、",
+        "sentence_with_furigana": "「人間のところへ行くとひどいめにあうから、"
+    },
+    {
+        "id": "f000017",
+        "sentence": "人間のところへぜったいに近づいてはいけませんよ。",
+        "sentence_with_furigana": "人間のところへぜったいに近づいてはいけませんよ。"
+    },
+    {
+        "id": "f000018",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000019",
+        "sentence": "いつもいうのですけれど、",
+        "sentence_with_furigana": "いつもいうのですけれど、"
+    },
+    {
+        "id": "f000020",
+        "sentence": "狐は、",
+        "sentence_with_furigana": "狐は、"
+    },
+    {
+        "id": "f000021",
+        "sentence": "人間の姿がおかしくて仕方がなかったし、",
+        "sentence_with_furigana": "人間の姿がおかしくて仕方がなかったし、"
+    },
+    {
+        "id": "f000022",
+        "sentence": "第一、",
+        "sentence_with_furigana": "第一、"
+    },
+    {
+        "id": "f000023",
+        "sentence": "ひょろひょろと、",
+        "sentence_with_furigana": "ひょろひょろと、"
+    },
+    {
+        "id": "f000024",
+        "sentence": "立って歩いているのがおかしくてしかたがないのです。",
+        "sentence_with_furigana": "立って歩いているのがおかしくてしかたがないのです。"
+    },
+    {
+        "id": "f000025",
+        "sentence": "狐は子供たちのうしろからそっとついて行きました。",
+        "sentence_with_furigana": "狐は子供たちのうしろからそっとついて行きました。"
+    },
+    {
+        "id": "f000026",
+        "sentence": "「このへんは六兵衞狐の出るところだぞ。」",
+        "sentence_with_furigana": "「このへんは六兵衞狐の出るところだぞ。」"
+    },
+    {
+        "id": "f000027",
+        "sentence": "一人の子供がいいました。",
+        "sentence_with_furigana": "一人の子供がいいました。"
+    },
+    {
+        "id": "f000028",
+        "sentence": "「晝間から出ることはないだろう。」",
+        "sentence_with_furigana": "「晝間から出ることはないだろう。」"
+    },
+    {
+        "id": "f000029",
+        "sentence": "また一人の子供がいいました。",
+        "sentence_with_furigana": "また一人の子供がいいました。"
+    },
+    {
+        "id": "f000030",
+        "sentence": "「晝間でも雨が降っているから出るかもしれん。」",
+        "sentence_with_furigana": "「晝間でも雨が降っているから出るかもしれん。」"
+    },
+    {
+        "id": "f000031",
+        "sentence": "また、",
+        "sentence_with_furigana": "また、"
+    },
+    {
+        "id": "f000032",
+        "sentence": "もう一人の子供がいいました。",
+        "sentence_with_furigana": "もう一人の子供がいいました。"
+    },
+    {
+        "id": "f000033",
+        "sentence": "時々、",
+        "sentence_with_furigana": "時々、"
+    },
+    {
+        "id": "f000034",
+        "sentence": "とおくで雷が鳴っています。",
+        "sentence_with_furigana": "とおくで雷が鳴っています。"
+    },
+    {
+        "id": "f000035",
+        "sentence": "子供たちは、",
+        "sentence_with_furigana": "子供たちは、"
+    },
+    {
+        "id": "f000036",
+        "sentence": "何となく氣味がわるくなったのでしょう、",
+        "sentence_with_furigana": "何となく氣味がわるくなったのでしょう、"
+    },
+    {
+        "id": "f000037",
+        "sentence": "歩いていた子供たちは、",
+        "sentence_with_furigana": "歩いていた子供たちは、"
+    },
+    {
+        "id": "f000038",
+        "sentence": "ふっと足をとめて耳をそばたてました。",
+        "sentence_with_furigana": "ふっと足をとめて耳をそばたてました。"
+    },
+    {
+        "id": "f000039",
+        "sentence": "すると、",
+        "sentence_with_furigana": "すると、"
+    },
+    {
+        "id": "f000040",
+        "sentence": "一人の子供がふいに後をふりかえって、",
+        "sentence_with_furigana": "一人の子供がふいに後をふりかえって、"
+    },
+    {
+        "id": "f000041",
+        "sentence": "狐をみました。",
+        "sentence_with_furigana": "狐をみました。"
+    },
+    {
+        "id": "f000042",
+        "sentence": "「あッ、",
+        "sentence_with_furigana": "「あッ、"
+    },
+    {
+        "id": "f000043",
+        "sentence": "狐が出おったぞッ。」",
+        "sentence_with_furigana": "狐が出おったぞッ。」"
+    },
+    {
+        "id": "f000044",
+        "sentence": "子供たちはびっくりして、",
+        "sentence_with_furigana": "子供たちはびっくりして、"
+    },
+    {
+        "id": "f000045",
+        "sentence": "まるで豆がはぜたようなすさまじい勢で、",
+        "sentence_with_furigana": "まるで豆がはぜたようなすさまじい勢で、"
+    },
+    {
+        "id": "f000046",
+        "sentence": "走って山を下りはじめました。",
+        "sentence_with_furigana": "走って山を下りはじめました。"
+    },
+    {
+        "id": "f000047",
+        "sentence": "狐もびっくりしました。",
+        "sentence_with_furigana": "狐もびっくりしました。"
+    },
+    {
+        "id": "f000048",
+        "sentence": "どうしてあんなに子供達がさっと走って行ったのだろうと思いました。",
+        "sentence_with_furigana": "どうしてあんなに子供達がさっと走って行ったのだろうと思いました。"
+    },
+    {
+        "id": "f000049",
+        "sentence": "雨の降るなかを、",
+        "sentence_with_furigana": "雨の降るなかを、"
+    },
+    {
+        "id": "f000050",
+        "sentence": "狐もぬれながら、",
+        "sentence_with_furigana": "狐もぬれながら、"
+    },
+    {
+        "id": "f000051",
+        "sentence": "子供たちの後を追いかけてゆきました。",
+        "sentence_with_furigana": "子供たちの後を追いかけてゆきました。"
+    },
+    {
+        "id": "f000052",
+        "sentence": "細い山道をいくまがりもして、",
+        "sentence_with_furigana": "細い山道をいくまがりもして、"
+    },
+    {
+        "id": "f000053",
+        "sentence": "やっと、",
+        "sentence_with_furigana": "やっと、"
+    },
+    {
+        "id": "f000054",
+        "sentence": "人間の通るらしい道の近くへ來ますと、",
+        "sentence_with_furigana": "人間の通るらしい道の近くへ來ますと、"
+    },
+    {
+        "id": "f000055",
+        "sentence": "山の田圃ぞいのところで、",
+        "sentence_with_furigana": "山の田圃ぞいのところで、"
+    },
+    {
+        "id": "f000056",
+        "sentence": "大きい牛がもうもうとないていました。",
+        "sentence_with_furigana": "大きい牛がもうもうとないていました。"
+    },
+    {
+        "id": "f000057",
+        "sentence": "狐は自分たちよりも大きい動物をみて、",
+        "sentence_with_furigana": "狐は自分たちよりも大きい動物をみて、"
+    },
+    {
+        "id": "f000058",
+        "sentence": "しばらくあきれて眺めていました。",
+        "sentence_with_furigana": "しばらくあきれて眺めていました。"
+    },
+    {
+        "id": "f000059",
+        "sentence": "何て大きいのだろう……。",
+        "sentence_with_furigana": "何て大きいのだろう……。"
+    },
+    {
+        "id": "f000060",
+        "sentence": "お尻は箱のように四角くて、",
+        "sentence_with_furigana": "お尻は箱のように四角くて、"
+    },
+    {
+        "id": "f000061",
+        "sentence": "骨ばっていたし、",
+        "sentence_with_furigana": "骨ばっていたし、"
+    },
+    {
+        "id": "f000062",
+        "sentence": "たれさがった腹や脚が泥だらけです。",
+        "sentence_with_furigana": "たれさがった腹や脚が泥だらけです。"
+    },
+    {
+        "id": "f000063",
+        "sentence": "そしておもしろいことには、",
+        "sentence_with_furigana": "そしておもしろいことには、"
+    },
+    {
+        "id": "f000064",
+        "sentence": "大きい鼻の穴にまあるいかんをつけて太い紐がついていました。",
+        "sentence_with_furigana": "大きい鼻の穴にまあるいかんをつけて太い紐がついていました。"
+    },
+    {
+        "id": "f000065",
+        "sentence": "狐はおずおず牛の前へ行って、",
+        "sentence_with_furigana": "狐はおずおず牛の前へ行って、"
+    },
+    {
+        "id": "f000066",
+        "sentence": "ていねいに頭をさげました。",
+        "sentence_with_furigana": "ていねいに頭をさげました。"
+    },
+    {
+        "id": "f000067",
+        "sentence": "牛はびっくりして狐をみました。",
+        "sentence_with_furigana": "牛はびっくりして狐をみました。"
+    },
+    {
+        "id": "f000068",
+        "sentence": "「あなたはいったい、",
+        "sentence_with_furigana": "「あなたはいったい、"
+    },
+    {
+        "id": "f000069",
+        "sentence": "どなたさまですか。」",
+        "sentence_with_furigana": "どなたさまですか。」"
+    },
+    {
+        "id": "f000070",
+        "sentence": "と、",
+        "sentence_with_furigana": "と、"
+    },
+    {
+        "id": "f000071",
+        "sentence": "狐がききました。",
+        "sentence_with_furigana": "狐がききました。"
+    },
+    {
+        "id": "f000072",
+        "sentence": "牛は正直者でしたから、",
+        "sentence_with_furigana": "牛は正直者でしたから、"
+    },
+    {
+        "id": "f000073",
+        "sentence": "わたしは、",
+        "sentence_with_furigana": "わたしは、"
+    },
+    {
+        "id": "f000074",
+        "sentence": "桑助さんの家の牛で、",
+        "sentence_with_furigana": "桑助さんの家の牛で、"
+    },
+    {
+        "id": "f000075",
+        "sentence": "赤兵衞というものだとこたえました。",
+        "sentence_with_furigana": "赤兵衞というものだとこたえました。"
+    },
+    {
+        "id": "f000076",
+        "sentence": "狐は王樣のようだと感心しました。",
+        "sentence_with_furigana": "狐は王樣のようだと感心しました。"
+    },
+    {
+        "id": "f000077",
+        "sentence": "「そうですか、",
+        "sentence_with_furigana": "「そうですか、"
+    },
+    {
+        "id": "f000078",
+        "sentence": "わたしは山の中から來た六兵衞という狐ですが、",
+        "sentence_with_furigana": "わたしは山の中から來た六兵衞という狐ですが、"
+    },
+    {
+        "id": "f000079",
+        "sentence": "このさきへは行かれますか。」",
+        "sentence_with_furigana": "このさきへは行かれますか。」"
+    },
+    {
+        "id": "f000080",
+        "sentence": "と、",
+        "sentence_with_furigana": "と、"
+    },
+    {
+        "id": "f000081",
+        "sentence": "たずねてみました。",
+        "sentence_with_furigana": "たずねてみました。"
+    },
+    {
+        "id": "f000082",
+        "sentence": "「ええ行かれますとも、",
+        "sentence_with_furigana": "「ええ行かれますとも、"
+    },
+    {
+        "id": "f000083",
+        "sentence": "道はどこまでもつづいていて、",
+        "sentence_with_furigana": "道はどこまでもつづいていて、"
+    },
+    {
+        "id": "f000084",
+        "sentence": "にぎやかな河口までつづいていますよ。」",
+        "sentence_with_furigana": "にぎやかな河口までつづいていますよ。」"
+    },
+    {
+        "id": "f000086",
+        "sentence": "と、教えてくれました。",
+        "sentence_with_furigana": "と、教えてくれました。"
+    },
+    {
+        "id": "f000087",
+        "sentence": "狐はていねいにあいさつをして、",
+        "sentence_with_furigana": "狐はていねいにあいさつをして、"
+    },
+    {
+        "id": "f000088",
+        "sentence": "雨の中を歩きました。",
+        "sentence_with_furigana": "雨の中を歩きました。"
+    },
+    {
+        "id": "f000089",
+        "sentence": "しばらく行くと、",
+        "sentence_with_furigana": "しばらく行くと、"
+    },
+    {
+        "id": "f000090",
+        "sentence": "小さい村がありました。",
+        "sentence_with_furigana": "小さい村がありました。"
+    },
+    {
+        "id": "f000091",
+        "sentence": "村のとっつきの家では、",
+        "sentence_with_furigana": "村のとっつきの家では、"
+    },
+    {
+        "id": "f000092",
+        "sentence": "鷄が三びきほど遊んでいました。",
+        "sentence_with_furigana": "鷄が三びきほど遊んでいました。"
+    },
+    {
+        "id": "f000093",
+        "sentence": "狐は何も彼も珍らしくて仕方がありません。",
+        "sentence_with_furigana": "狐は何も彼も珍らしくて仕方がありません。"
+    },
+    {
+        "id": "f000094",
+        "sentence": "これは何というものだろうと思いました。",
+        "sentence_with_furigana": "これは何というものだろうと思いました。"
+    },
+    {
+        "id": "f000095",
+        "sentence": "それで、",
+        "sentence_with_furigana": "それで、"
+    },
+    {
+        "id": "f000096",
+        "sentence": "また、",
+        "sentence_with_furigana": "また、"
+    },
+    {
+        "id": "f000097",
+        "sentence": "ていねいに頭をさげますと、",
+        "sentence_with_furigana": "ていねいに頭をさげますと、"
+    },
+    {
+        "id": "f000098",
+        "sentence": "三びきのあわてものの鷄はけたたましくなきたてて鷄小舍の屋根へ飛び上ってゆきました。",
+        "sentence_with_furigana": "三びきのあわてものの鷄はけたたましくなきたてて鷄小舍の屋根へ飛び上ってゆきました。"
+    },
+    {
+        "id": "f000099",
+        "sentence": "すると、",
+        "sentence_with_furigana": "すると、"
+    },
+    {
+        "id": "f000100",
+        "sentence": "家のなかから、",
+        "sentence_with_furigana": "家のなかから、"
+    },
+    {
+        "id": "f000101",
+        "sentence": "おそろしく脊の高いおじいさんが棒を持って出て來ました。",
+        "sentence_with_furigana": "おそろしく脊の高いおじいさんが棒を持って出て來ました。"
+    },
+    {
+        "id": "f000102",
+        "sentence": "「これッ、",
+        "sentence_with_furigana": "「これッ、"
+    },
+    {
+        "id": "f000103",
+        "sentence": "狐の奴め、",
+        "sentence_with_furigana": "狐の奴め、"
+    },
+    {
+        "id": "f000104",
+        "sentence": "お前、",
+        "sentence_with_furigana": "お前、"
+    },
+    {
+        "id": "f000105",
+        "sentence": "うちのとりを食うつもりだなッ。」",
+        "sentence_with_furigana": "うちのとりを食うつもりだなッ。」"
+    },
+    {
+        "id": "f000106",
+        "sentence": "狐はびっくりしました。",
+        "sentence_with_furigana": "狐はびっくりしました。"
+    },
+    {
+        "id": "f000107",
+        "sentence": "鷄なんか一度も食べた事がないのに、",
+        "sentence_with_furigana": "鷄なんか一度も食べた事がないのに、"
+    },
+    {
+        "id": "f000108",
+        "sentence": "この人間は妙な事をいうと思ってぼんやりしていますと、",
+        "sentence_with_furigana": "この人間は妙な事をいうと思ってぼんやりしていますと、"
+    },
+    {
+        "id": "f000109",
+        "sentence": "こおンと固い音をたてて狐は額をいやというほどなぐられてしまいました。",
+        "sentence_with_furigana": "こおンと固い音をたてて狐は額をいやというほどなぐられてしまいました。"
+    },
+    {
+        "id": "f000110",
+        "sentence": "思わず尻餅をついているところを、",
+        "sentence_with_furigana": "思わず尻餅をついているところを、"
+    },
+    {
+        "id": "f000111",
+        "sentence": "狐はとうとう人間につかまってしまって、",
+        "sentence_with_furigana": "狐はとうとう人間につかまってしまって、"
+    },
+    {
+        "id": "f000112",
+        "sentence": "木箱の中へいれられてしまいました。",
+        "sentence_with_furigana": "木箱の中へいれられてしまいました。"
+    },
+    {
+        "id": "f000113",
+        "sentence": "その晩、",
+        "sentence_with_furigana": "その晩、"
+    },
+    {
+        "id": "f000114",
+        "sentence": "人間たちはこんなことを話しあっていました。",
+        "sentence_with_furigana": "人間たちはこんなことを話しあっていました。"
+    },
+    {
+        "id": "f000115",
+        "sentence": "「六兵衞狐というのはひどい奴で、",
+        "sentence_with_furigana": "「六兵衞狐というのはひどい奴で、"
+    },
+    {
+        "id": "f000116",
+        "sentence": "五作さんの家からかえる時、",
+        "sentence_with_furigana": "五作さんの家からかえる時、"
+    },
+    {
+        "id": "f000117",
+        "sentence": "おれはおこわめしをみやげにもらっていたンだが、",
+        "sentence_with_furigana": "おれはおこわめしをみやげにもらっていたンだが、"
+    },
+    {
+        "id": "f000118",
+        "sentence": "祖谷を下る途中、",
+        "sentence_with_furigana": "祖谷[いや]を下る途中、"
+    },
+    {
+        "id": "f000119",
+        "sentence": "とうとう六兵衞に化かされて、",
+        "sentence_with_furigana": "とうとう六兵衞に化かされて、"
+    },
+    {
+        "id": "f000120",
+        "sentence": "おこわめしをぬすまれて、",
+        "sentence_with_furigana": "おこわめしをぬすまれて、"
+    },
+    {
+        "id": "f000121",
+        "sentence": "ひでえめにあったよ。」",
+        "sentence_with_furigana": "ひでえめにあったよ。」"
+    },
+    {
+        "id": "f000122",
+        "sentence": "「おれも、",
+        "sentence_with_furigana": "「おれも、"
+    },
+    {
+        "id": "f000123",
+        "sentence": "この六兵衞には痛いめにおうたぞ、",
+        "sentence_with_furigana": "この六兵衞には痛いめにおうたぞ、"
+    },
+    {
+        "id": "f000124",
+        "sentence": "妙正寺の番僧に化けて、",
+        "sentence_with_furigana": "妙正寺の番僧に化けて、"
+    },
+    {
+        "id": "f000125",
+        "sentence": "おれから財布をとりあげて、",
+        "sentence_with_furigana": "おれから財布をとりあげて、"
+    },
+    {
+        "id": "f000126",
+        "sentence": "あげくのはてに、",
+        "sentence_with_furigana": "あげくのはてに、"
+    },
+    {
+        "id": "f000127",
+        "sentence": "河の中へつつきおとされてしまったものな……。」",
+        "sentence_with_furigana": "河の中へつつきおとされてしまったものな……。」"
+    },
+    {
+        "id": "f000128",
+        "sentence": "六兵衞狐は、",
+        "sentence_with_furigana": "六兵衞狐は、"
+    },
+    {
+        "id": "f000129",
+        "sentence": "箱の中で、",
+        "sentence_with_furigana": "箱の中で、"
+    },
+    {
+        "id": "f000130",
+        "sentence": "こんな話をきいていてびっくりしました。",
+        "sentence_with_furigana": "こんな話をきいていてびっくりしました。"
+    },
+    {
+        "id": "f000131",
+        "sentence": "人間というものは何という嘘つきなのだろうと思いました。",
+        "sentence_with_furigana": "人間というものは何という嘘つきなのだろうと思いました。"
+    },
+    {
+        "id": "f000132",
+        "sentence": "六兵衞狐は、",
+        "sentence_with_furigana": "六兵衞狐は、"
+    },
+    {
+        "id": "f000133",
+        "sentence": "いままでにまだ一度も里へ降りたことはなかったし、",
+        "sentence_with_furigana": "いままでにまだ一度も里へ降りたことはなかったし、"
+    },
+    {
+        "id": "f000134",
+        "sentence": "第一、",
+        "sentence_with_furigana": "第一、"
+    },
+    {
+        "id": "f000135",
+        "sentence": "人間のようなかしこい動物を、",
+        "sentence_with_furigana": "人間のようなかしこい動物を、"
+    },
+    {
+        "id": "f000136",
+        "sentence": "化したりなぞしたことは一度もなかったのです。",
+        "sentence_with_furigana": "化したりなぞしたことは一度もなかったのです。"
+    },
+    {
+        "id": "f000137",
+        "sentence": "人間はおかしなことをいうものだと思いました。",
+        "sentence_with_furigana": "人間はおかしなことをいうものだと思いました。"
+    },
+    {
+        "id": "f000138",
+        "sentence": "晝間、",
+        "sentence_with_furigana": "晝間、"
+    },
+    {
+        "id": "f000139",
+        "sentence": "頭をなぐられたところに、",
+        "sentence_with_furigana": "頭をなぐられたところに、"
+    },
+    {
+        "id": "f000140",
+        "sentence": "大きなこぶが出來て、",
+        "sentence_with_furigana": "大きなこぶが出來て、"
+    },
+    {
+        "id": "f000141",
+        "sentence": "それが痛くて仕方がありません。",
+        "sentence_with_furigana": "それが痛くて仕方がありません。"
+    },
+    {
+        "id": "f000142",
+        "sentence": "山の中へ早くかえりたいと思いました。",
+        "sentence_with_furigana": "山の中へ早くかえりたいと思いました。"
+    },
+    {
+        "id": "f000143",
+        "sentence": "こんな嘘つきのところにいると何をされるかしれないので、",
+        "sentence_with_furigana": "こんな嘘つきのところにいると何をされるかしれないので、"
+    },
+    {
+        "id": "f000144",
+        "sentence": "狐はだんだんこわくなってしまいました。",
+        "sentence_with_furigana": "狐はだんだんこわくなってしまいました。"
+    },
+    {
+        "id": "f000145",
+        "sentence": "「おれのところでは、",
+        "sentence_with_furigana": "「おれのところでは、"
+    },
+    {
+        "id": "f000146",
+        "sentence": "鷄をもう二度も六兵衞に食われっちまったンだからな……。」",
+        "sentence_with_furigana": "鷄をもう二度も六兵衞に食われっちまったンだからな……。」"
+    },
+    {
+        "id": "f000147",
+        "sentence": "「狐ぐらい動物のうちで惡い奴はないのう。",
+        "sentence_with_furigana": "「狐ぐらい動物のうちで惡い奴はないのう。"
+    },
+    {
+        "id": "f000148",
+        "sentence": "あれは魔物だからなア。",
+        "sentence_with_furigana": "あれは魔物だからなア。"
+    },
+    {
+        "id": "f000149",
+        "sentence": "雨の降る晩は、",
+        "sentence_with_furigana": "雨の降る晩は、"
+    },
+    {
+        "id": "f000150",
+        "sentence": "かならず山に灯をつけてからかうし、",
+        "sentence_with_furigana": "かならず山に灯をつけてからかうし、"
+    },
+    {
+        "id": "f000151",
+        "sentence": "ろくな事をせんぞ。",
+        "sentence_with_furigana": "ろくな事をせんぞ。"
+    },
+    {
+        "id": "f000152",
+        "sentence": "二三日、",
+        "sentence_with_furigana": "二三日、"
+    },
+    {
+        "id": "f000153",
+        "sentence": "六兵衞はひぼしにして、",
+        "sentence_with_furigana": "六兵衞はひぼしにして、"
+    },
+    {
+        "id": "f000154",
+        "sentence": "腹をきれいに干して、",
+        "sentence_with_furigana": "腹をきれいに干して、"
+    },
+    {
+        "id": "f000155",
+        "sentence": "いっぺん狐汁でもしてみんなで食おうじゃないか。」",
+        "sentence_with_furigana": "いっぺん狐汁でもしてみんなで食おうじゃないか。」"
+    },
+    {
+        "id": "f000156",
+        "sentence": "「うん、",
+        "sentence_with_furigana": "「うん、"
+    },
+    {
+        "id": "f000157",
+        "sentence": "狸汁はうめえそうだが、",
+        "sentence_with_furigana": "狸汁はうめえそうだが、"
+    },
+    {
+        "id": "f000158",
+        "sentence": "おれは、",
+        "sentence_with_furigana": "おれは、"
+    },
+    {
+        "id": "f000159",
+        "sentence": "狐汁というのは始めてだ……。」",
+        "sentence_with_furigana": "狐汁というのは始めてだ……。」"
+    },
+    {
+        "id": "f000160",
+        "sentence": "狐はびっくりしました。",
+        "sentence_with_furigana": "狐はびっくりしました。"
+    },
+    {
+        "id": "f000161",
+        "sentence": "急にお母さんがなつかしくなり、",
+        "sentence_with_furigana": "急にお母さんがなつかしくなり、"
+    },
+    {
+        "id": "f000162",
+        "sentence": "涙をいっぱいためて息をころしていました。",
+        "sentence_with_furigana": "涙をいっぱいためて息をころしていました。"
+    },
+    {
+        "id": "f000163",
+        "sentence": "夜が更けてから、",
+        "sentence_with_furigana": "夜が更けてから、"
+    },
+    {
+        "id": "f000164",
+        "sentence": "狐は一生懸命に箱の蓋をもちあげてみました。",
+        "sentence_with_furigana": "狐は一生懸命に箱の蓋をもちあげてみました。"
+    },
+    {
+        "id": "f000165",
+        "sentence": "石でものっかっているとみえて、",
+        "sentence_with_furigana": "石でものっかっているとみえて、"
+    },
+    {
+        "id": "f000166",
+        "sentence": "蓋を持ちあげるたび、",
+        "sentence_with_furigana": "蓋を持ちあげるたび、"
+    },
+    {
+        "id": "f000167",
+        "sentence": "ごろっごろっと石が少しずつ動いている樣子です。",
+        "sentence_with_furigana": "ごろっごろっと石が少しずつ動いている樣子です。"
+    },
+    {
+        "id": "f000168",
+        "sentence": "狐は根氣よく蓋を持ちあげて、",
+        "sentence_with_furigana": "狐は根氣よく蓋を持ちあげて、"
+    },
+    {
+        "id": "f000169",
+        "sentence": "とうとう長いことかかって扇子がたに、",
+        "sentence_with_furigana": "とうとう長いことかかって扇子がたに、"
+    },
+    {
+        "id": "f000170",
+        "sentence": "箱の蓋をずらすことが出來ました。",
+        "sentence_with_furigana": "箱の蓋をずらすことが出來ました。"
+    },
+    {
+        "id": "f000171",
+        "sentence": "そっと首を出しますと、",
+        "sentence_with_furigana": "そっと首を出しますと、"
+    },
+    {
+        "id": "f000172",
+        "sentence": "あたりはうすぐらいのです。",
+        "sentence_with_furigana": "あたりはうすぐらいのです。"
+    },
+    {
+        "id": "f000173",
+        "sentence": "かすかに障子の破れから月の光がさしている樣子なので、",
+        "sentence_with_furigana": "かすかに障子の破れから月の光がさしている樣子なので、"
+    },
+    {
+        "id": "f000174",
+        "sentence": "狐はやっとの思いで土間へはい出す事が出來ました。",
+        "sentence_with_furigana": "狐はやっとの思いで土間へはい出す事が出來ました。"
+    },
+    {
+        "id": "f000175",
+        "sentence": "人間はとてもおそろしい動物だとお母さんがいっていたけれど、",
+        "sentence_with_furigana": "人間はとてもおそろしい動物だとお母さんがいっていたけれど、"
+    },
+    {
+        "id": "f000176",
+        "sentence": "本當だと思いました。",
+        "sentence_with_furigana": "本當だと思いました。"
+    },
+    {
+        "id": "f000177",
+        "sentence": "だから、",
+        "sentence_with_furigana": "だから、"
+    },
+    {
+        "id": "f000178",
+        "sentence": "自分達の仲間は晝間は穴の中にひっこんでいて、",
+        "sentence_with_furigana": "自分達の仲間は晝間は穴の中にひっこんでいて、"
+    },
+    {
+        "id": "f000179",
+        "sentence": "人間にみつからないようにしているのだなと思いました。",
+        "sentence_with_furigana": "人間にみつからないようにしているのだなと思いました。"
+    },
+    {
+        "id": "f000180",
+        "sentence": "狐は土間へ出て、",
+        "sentence_with_furigana": "狐は土間へ出て、"
+    },
+    {
+        "id": "f000181",
+        "sentence": "縁の下からそとへ出ることが出來ました。",
+        "sentence_with_furigana": "縁の下からそとへ出ることが出來ました。"
+    },
+    {
+        "id": "f000182",
+        "sentence": "まんまるいお月樣が高くのぼって、",
+        "sentence_with_furigana": "まんまるいお月樣が高くのぼって、"
+    },
+    {
+        "id": "f000183",
+        "sentence": "山の方でなつかしい梟の啼く聲がしています。",
+        "sentence_with_furigana": "山の方でなつかしい梟の啼く聲がしています。"
+    },
+    {
+        "id": "f000184",
+        "sentence": "祖谷の山々が、",
+        "sentence_with_furigana": "祖谷[いや]の山々が、"
+    },
+    {
+        "id": "f000185",
+        "sentence": "こんもりとしていて、",
+        "sentence_with_furigana": "こんもりとしていて、"
+    },
+    {
+        "id": "f000186",
+        "sentence": "六兵衞よ、",
+        "sentence_with_furigana": "六兵衞よ、"
+    },
+    {
+        "id": "f000187",
+        "sentence": "お母さんがとても心配しているから、",
+        "sentence_with_furigana": "お母さんがとても心配しているから、"
+    },
+    {
+        "id": "f000188",
+        "sentence": "早くかえっておいでといっているようにみえました。",
+        "sentence_with_furigana": "早くかえっておいでといっているようにみえました。"
+    },
+    {
+        "id": "f000189",
+        "sentence": "狐は急におなかがへってきましたし、",
+        "sentence_with_furigana": "狐は急におなかがへってきましたし、"
+    },
+    {
+        "id": "f000190",
+        "sentence": "頭のこぶは、",
+        "sentence_with_furigana": "頭のこぶは、"
+    },
+    {
+        "id": "f000191",
+        "sentence": "しいたけみたいに大きくもりあがっていてとても熱をもっていました。",
+        "sentence_with_furigana": "しいたけみたいに大きくもりあがっていてとても熱をもっていました。"
+    },
+    {
+        "id": "f000192",
+        "sentence": "よろよろと歩いていますと、",
+        "sentence_with_furigana": "よろよろと歩いていますと、"
+    },
+    {
+        "id": "f000193",
+        "sentence": "ある家のところで、",
+        "sentence_with_furigana": "ある家のところで、"
+    },
+    {
+        "id": "f000194",
+        "sentence": "もう、",
+        "sentence_with_furigana": "もう、"
+    },
+    {
+        "id": "f000195",
+        "sentence": "もう、",
+        "sentence_with_furigana": "もう、"
+    },
+    {
+        "id": "f000196",
+        "sentence": "もう、",
+        "sentence_with_furigana": "もう、"
+    },
+    {
+        "id": "f000197",
+        "sentence": "と、",
+        "sentence_with_furigana": "と、"
+    },
+    {
+        "id": "f000198",
+        "sentence": "牛が啼いていました。",
+        "sentence_with_furigana": "牛が啼いていました。"
+    },
+    {
+        "id": "f000199",
+        "sentence": "「ああ、",
+        "sentence_with_furigana": "「ああ、"
+    },
+    {
+        "id": "f000200",
+        "sentence": "桑助さんの家の赤兵衞さんだな。",
+        "sentence_with_furigana": "桑助さんの家の赤兵衞さんだな。"
+    },
+    {
+        "id": "f000201",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000202",
+        "sentence": "狐が牛小舍の前へ來て「こんばんわ。",
+        "sentence_with_furigana": "狐が牛小舍の前へ來て「こんばんわ。"
+    },
+    {
+        "id": "f000203",
+        "sentence": "」と聲をかけました。",
+        "sentence_with_furigana": "」と聲をかけました。"
+    },
+    {
+        "id": "f000204",
+        "sentence": "すると、",
+        "sentence_with_furigana": "すると、"
+    },
+    {
+        "id": "f000205",
+        "sentence": "眠れないでいたとみえて、",
+        "sentence_with_furigana": "眠れないでいたとみえて、"
+    },
+    {
+        "id": "f000206",
+        "sentence": "赤兵衞は口をもぐりもぐりうごかしながら、",
+        "sentence_with_furigana": "赤兵衞は口をもぐりもぐりうごかしながら、"
+    },
+    {
+        "id": "f000207",
+        "sentence": "「ああ、",
+        "sentence_with_furigana": "「ああ、"
+    },
+    {
+        "id": "f000208",
+        "sentence": "こんばんわ。",
+        "sentence_with_furigana": "こんばんわ。"
+    },
+    {
+        "id": "f000209",
+        "sentence": "どうしました。",
+        "sentence_with_furigana": "どうしました。"
+    },
+    {
+        "id": "f000210",
+        "sentence": "河口まで行ってみたのかね。」",
+        "sentence_with_furigana": "河口まで行ってみたのかね。」"
+    },
+    {
+        "id": "f000211",
+        "sentence": "と、",
+        "sentence_with_furigana": "と、"
+    },
+    {
+        "id": "f000212",
+        "sentence": "やさしく牛はたずねるのです。",
+        "sentence_with_furigana": "やさしく牛はたずねるのです。"
+    },
+    {
+        "id": "f000213",
+        "sentence": "狐はひどいめにあって、",
+        "sentence_with_furigana": "狐はひどいめにあって、"
+    },
+    {
+        "id": "f000214",
+        "sentence": "いままで箱の中にいた話をしますと、",
+        "sentence_with_furigana": "いままで箱の中にいた話をしますと、"
+    },
+    {
+        "id": "f000215",
+        "sentence": "「それは氣の毒でしたね。",
+        "sentence_with_furigana": "「それは氣の毒でしたね。"
+    },
+    {
+        "id": "f000216",
+        "sentence": "人間というものは何とも勝手なもので、",
+        "sentence_with_furigana": "人間というものは何とも勝手なもので、"
+    },
+    {
+        "id": "f000217",
+        "sentence": "わしらのようなものまで、",
+        "sentence_with_furigana": "わしらのようなものまで、"
+    },
+    {
+        "id": "f000218",
+        "sentence": "尻をひっぱたくのだからいやになるのさ。",
+        "sentence_with_furigana": "尻をひっぱたくのだからいやになるのさ。"
+    },
+    {
+        "id": "f000219",
+        "sentence": "わしだって、",
+        "sentence_with_furigana": "わしだって、"
+    },
+    {
+        "id": "f000220",
+        "sentence": "たまには、",
+        "sentence_with_furigana": "たまには、"
+    },
+    {
+        "id": "f000221",
+        "sentence": "からだのだるい時もあるのだが、",
+        "sentence_with_furigana": "からだのだるい時もあるのだが、"
+    },
+    {
+        "id": "f000222",
+        "sentence": "何にしても、",
+        "sentence_with_furigana": "何にしても、"
+    },
+    {
+        "id": "f000223",
+        "sentence": "一日も無駄にはやすませてくれないでねえ……無理な仕事をする時、",
+        "sentence_with_furigana": "一日も無駄にはやすませてくれないでねえ……無理な仕事をする時、"
+    },
+    {
+        "id": "f000224",
+        "sentence": "わしは時々、",
+        "sentence_with_furigana": "わしは時々、"
+    },
+    {
+        "id": "f000225",
+        "sentence": "泣くこともあるのさ。",
+        "sentence_with_furigana": "泣くこともあるのさ。"
+    },
+    {
+        "id": "f000226",
+        "sentence": "いくらこんな生れあわせだといっても、",
+        "sentence_with_furigana": "いくらこんな生れあわせだといっても、"
+    },
+    {
+        "id": "f000227",
+        "sentence": "これも神さまのおぼしめしで、",
+        "sentence_with_furigana": "これも神さまのおぼしめしで、"
+    },
+    {
+        "id": "f000228",
+        "sentence": "こんなものに生れてきているのだもの、",
+        "sentence_with_furigana": "こんなものに生れてきているのだもの、"
+    },
+    {
+        "id": "f000229",
+        "sentence": "一つだってわしは惡いこともしたことはないのに、",
+        "sentence_with_furigana": "一つだってわしは惡いこともしたことはないのに、"
+    },
+    {
+        "id": "f000230",
+        "sentence": "尻をぴしりツぴしりツとむちでなぐられる時は、",
+        "sentence_with_furigana": "尻をぴしりツぴしりツとむちでなぐられる時は、"
+    },
+    {
+        "id": "f000231",
+        "sentence": "つくづく泣きたくなってしまうよ。",
+        "sentence_with_furigana": "つくづく泣きたくなってしまうよ。"
+    },
+    {
+        "id": "f000232",
+        "sentence": "生れあわせで仕方がないけど、",
+        "sentence_with_furigana": "生れあわせで仕方がないけど、"
+    },
+    {
+        "id": "f000233",
+        "sentence": "お前さんのように身輕るに山の中で自由に住める身がうらやましいさ……。」",
+        "sentence_with_furigana": "お前さんのように身輕るに山の中で自由に住める身がうらやましいさ……。」"
+    },
+    {
+        "id": "f000234",
+        "sentence": "と、いいます。",
+        "sentence_with_furigana": "と、いいます。"
+    },
+    {
+        "id": "f000236",
+        "sentence": "狐も何だか牛がかわいそうで仕方がありませんでした。",
+        "sentence_with_furigana": "狐も何だか牛がかわいそうで仕方がありませんでした。"
+    },
+    {
+        "id": "f000237",
+        "sentence": "「ほんとに赤兵衞さん、",
+        "sentence_with_furigana": "「ほんとに赤兵衞さん、"
+    },
+    {
+        "id": "f000238",
+        "sentence": "そうですね。",
+        "sentence_with_furigana": "そうですね。"
+    },
+    {
+        "id": "f000239",
+        "sentence": "わたしたちだって、",
+        "sentence_with_furigana": "わたしたちだって、"
+    },
+    {
+        "id": "f000240",
+        "sentence": "人間だって、",
+        "sentence_with_furigana": "人間だって、"
+    },
+    {
+        "id": "f000241",
+        "sentence": "そうながくは生きられないのだから、",
+        "sentence_with_furigana": "そうながくは生きられないのだから、"
+    },
+    {
+        "id": "f000242",
+        "sentence": "嘘なんかいわないで、",
+        "sentence_with_furigana": "嘘なんかいわないで、"
+    },
+    {
+        "id": "f000243",
+        "sentence": "たいらに世の中をくらしたら、",
+        "sentence_with_furigana": "たいらに世の中をくらしたら、"
+    },
+    {
+        "id": "f000244",
+        "sentence": "それが一番いいですね。",
+        "sentence_with_furigana": "それが一番いいですね。"
+    },
+    {
+        "id": "f000245",
+        "sentence": "あなたは、",
+        "sentence_with_furigana": "あなたは、"
+    },
+    {
+        "id": "f000246",
+        "sentence": "さっきから口をもぐもぐしていますが、",
+        "sentence_with_furigana": "さっきから口をもぐもぐしていますが、"
+    },
+    {
+        "id": "f000247",
+        "sentence": "何をたべているンですか。」",
+        "sentence_with_furigana": "何をたべているンですか。」"
+    },
+    {
+        "id": "f000248",
+        "sentence": "「別に何もたべてはいないのですよ。",
+        "sentence_with_furigana": "「別に何もたべてはいないのですよ。"
+    },
+    {
+        "id": "f000249",
+        "sentence": "夕方たべたわらをいま食べなおして、",
+        "sentence_with_furigana": "夕方たべたわらをいま食べなおして、"
+    },
+    {
+        "id": "f000250",
+        "sentence": "胃からもどしているンです。」",
+        "sentence_with_furigana": "胃からもどしているンです。」"
+    },
+    {
+        "id": "f000251",
+        "sentence": "「今夜はいい月夜ですね。」",
+        "sentence_with_furigana": "「今夜はいい月夜ですね。」"
+    },
+    {
+        "id": "f000252",
+        "sentence": "「ああ、",
+        "sentence_with_furigana": "「ああ、"
+    },
+    {
+        "id": "f000253",
+        "sentence": "わたしは夜が一番樂しみです。",
+        "sentence_with_furigana": "わたしは夜が一番樂しみです。"
+    },
+    {
+        "id": "f000254",
+        "sentence": "人間がねてしまうと、",
+        "sentence_with_furigana": "人間がねてしまうと、"
+    },
+    {
+        "id": "f000255",
+        "sentence": "もうわたしはひとりで何を考えてもいいのですからね。",
+        "sentence_with_furigana": "もうわたしはひとりで何を考えてもいいのですからね。"
+    },
+    {
+        "id": "f000256",
+        "sentence": "尻をひっぱたく人もないし、",
+        "sentence_with_furigana": "尻をひっぱたく人もないし、"
+    },
+    {
+        "id": "f000257",
+        "sentence": "一番樂々とします。」",
+        "sentence_with_furigana": "一番樂々とします。」"
+    },
+    {
+        "id": "f000258",
+        "sentence": "狐はほろりとしました。",
+        "sentence_with_furigana": "狐はほろりとしました。"
+    },
+    {
+        "id": "f000259",
+        "sentence": "こんなに王樣のようなからだをしていても、",
+        "sentence_with_furigana": "こんなに王樣のようなからだをしていても、"
+    },
+    {
+        "id": "f000260",
+        "sentence": "自分たちよりつらいことがたくさんあるのだなと同情しました。",
+        "sentence_with_furigana": "自分たちよりつらいことがたくさんあるのだなと同情しました。"
+    },
+    {
+        "id": "f000261",
+        "sentence": "「わたしは、",
+        "sentence_with_furigana": "「わたしは、"
+    },
+    {
+        "id": "f000262",
+        "sentence": "このまま山へかえってしまえば、",
+        "sentence_with_furigana": "このまま山へかえってしまえば、"
+    },
+    {
+        "id": "f000263",
+        "sentence": "もう二度と里へはおりて來ませんけれど、",
+        "sentence_with_furigana": "もう二度と里へはおりて來ませんけれど、"
+    },
+    {
+        "id": "f000264",
+        "sentence": "元氣でいて下さい。",
+        "sentence_with_furigana": "元氣でいて下さい。"
+    },
+    {
+        "id": "f000265",
+        "sentence": "そのかわり、",
+        "sentence_with_furigana": "そのかわり、"
+    },
+    {
+        "id": "f000266",
+        "sentence": "夜の夜中に、",
+        "sentence_with_furigana": "夜の夜中に、"
+    },
+    {
+        "id": "f000267",
+        "sentence": "山の上で、",
+        "sentence_with_furigana": "山の上で、"
+    },
+    {
+        "id": "f000268",
+        "sentence": "わたしは時々うたをうたってあげましょう。",
+        "sentence_with_furigana": "わたしは時々うたをうたってあげましょう。"
+    },
+    {
+        "id": "f000269",
+        "sentence": "あああの時の六兵衞狐は元氣だと思って下さい。",
+        "sentence_with_furigana": "あああの時の六兵衞狐は元氣だと思って下さい。"
+    },
+    {
+        "id": "f000270",
+        "sentence": "──ほら、",
+        "sentence_with_furigana": "──ほら、"
+    },
+    {
+        "id": "f000271",
+        "sentence": "かすかに梟がないているでしょう。",
+        "sentence_with_furigana": "かすかに梟がないているでしょう。"
+    },
+    {
+        "id": "f000272",
+        "sentence": "あの木のそばにわたしの巣があるのです。",
+        "sentence_with_furigana": "あの木のそばにわたしの巣があるのです。"
+    },
+    {
+        "id": "f000273",
+        "sentence": "きっときいて下さい……。」",
+        "sentence_with_furigana": "きっときいて下さい……。」"
+    },
+    {
+        "id": "f000274",
+        "sentence": "六兵衞狐は、",
+        "sentence_with_furigana": "六兵衞狐は、"
+    },
+    {
+        "id": "f000275",
+        "sentence": "氣のいい正直者の牛と別れて、",
+        "sentence_with_furigana": "氣のいい正直者の牛と別れて、"
+    },
+    {
+        "id": "f000276",
+        "sentence": "淋しい山道を祖谷の山の中へいそいそと登ってゆきました。",
+        "sentence_with_furigana": "淋しい山道を 祖谷[いや]の山の中へいそいそと登ってゆきました。"
+    },
+    {
+        "id": "f000277",
+        "sentence": "「ああ助かってよかった。",
+        "sentence_with_furigana": "「ああ助かってよかった。"
+    },
+    {
+        "id": "f000278",
+        "sentence": "何といっても自分の天地が一番いい。",
+        "sentence_with_furigana": "何といっても自分の天地が一番いい。"
+    },
+    {
+        "id": "f000279",
+        "sentence": "おかあさんはどんなに喜んでくれるだろう。」",
+        "sentence_with_furigana": "おかあさんはどんなに喜んでくれるだろう。」"
+    },
+    {
+        "id": "f000280",
+        "sentence": "六兵衞は腹のへったのも忘れて、",
+        "sentence_with_furigana": "六兵衞は腹のへったのも忘れて、"
+    },
+    {
+        "id": "f000281",
+        "sentence": "まるで飛ぶようにしてお山へかえりました。",
+        "sentence_with_furigana": "まるで飛ぶようにしてお山へかえりました。"
+    },
+    {
+        "id": "f000282",
+        "sentence": "晝間の雨はからりと晴れて、",
+        "sentence_with_furigana": "晝間の雨はからりと晴れて、"
+    },
+    {
+        "id": "f000283",
+        "sentence": "まるで晝のように明るいお月樣が山や森を照しています。",
+        "sentence_with_furigana": "まるで晝のように明るいお月樣が山や森を照しています。"
+    },
+    {
+        "id": "f000284",
+        "sentence": "それから毎晩、",
+        "sentence_with_furigana": "それから毎晩、"
+    },
+    {
+        "id": "f000285",
+        "sentence": "狐は里に近い岩鼻の上に出て、",
+        "sentence_with_furigana": "狐は里に近い岩鼻の上に出て、"
+    },
+    {
+        "id": "f000286",
+        "sentence": "赤兵衞にきこえるように、",
+        "sentence_with_furigana": "赤兵衞にきこえるように、"
+    },
+    {
+        "id": "f000287",
+        "sentence": "「こおーん、",
+        "sentence_with_furigana": "「こおーん、"
+    },
+    {
+        "id": "f000288",
+        "sentence": "こんこん、",
+        "sentence_with_furigana": "こんこん、"
+    },
+    {
+        "id": "f000289",
+        "sentence": "こおーん、",
+        "sentence_with_furigana": "こおーん、"
+    },
+    {
+        "id": "f000290",
+        "sentence": "こんこん。",
+        "sentence_with_furigana": "こんこん。"
+    },
+    {
+        "id": "f000291",
+        "sentence": "」となきました。",
+        "sentence_with_furigana": "」となきました。"
+    },
+    {
+        "id": "f000292",
+        "sentence": "晴れた夜は、",
+        "sentence_with_furigana": "晴れた夜は、"
+    },
+    {
+        "id": "f000293",
+        "sentence": "村じゅうに、",
+        "sentence_with_furigana": "村じゅうに、"
+    },
+    {
+        "id": "f000294",
+        "sentence": "六兵衞のなく聲がよくひびいてきこえたそうです。",
+        "sentence_with_furigana": "六兵衞のなく聲がよくひびいてきこえたそうです。"
+    }
+]

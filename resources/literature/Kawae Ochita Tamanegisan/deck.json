@@ -1,0 +1,932 @@
+[
+    {
+        "id": "f000001",
+        "sentence": "村山籌子　作",
+        "sentence_with_furigana": "村山籌子　作"
+    },
+    {
+        "id": "f000002",
+        "sentence": "川へおちた玉ねぎさん",
+        "sentence_with_furigana": "川へおちた玉ねぎさん"
+    },
+    {
+        "id": "f000003",
+        "sentence": "ある町にジヤガイモ・ホテルといふ宿屋がありました。",
+        "sentence_with_furigana": "ある町にジヤガイモ・ホテルといふ宿屋がありました。"
+    },
+    {
+        "id": "f000004",
+        "sentence": "主人といふのが、",
+        "sentence_with_furigana": "主人といふのが、"
+    },
+    {
+        "id": "f000005",
+        "sentence": "ジヤガイモだつたからです。",
+        "sentence_with_furigana": "ジヤガイモだつたからです。"
+    },
+    {
+        "id": "f000006",
+        "sentence": "主人のジヤガイモさんは大変親切な人だつたので、",
+        "sentence_with_furigana": "主人のジヤガイモさんは大変親切な人だつたので、"
+    },
+    {
+        "id": "f000007",
+        "sentence": "このホテルにはお客様がいつも多すぎて、",
+        "sentence_with_furigana": "このホテルにはお客様がいつも多すぎて、"
+    },
+    {
+        "id": "f000008",
+        "sentence": "どうかすると、",
+        "sentence_with_furigana": "どうかすると、"
+    },
+    {
+        "id": "f000009",
+        "sentence": "一晩に、",
+        "sentence_with_furigana": "一晩に、"
+    },
+    {
+        "id": "f000010",
+        "sentence": "二人や三人のお客様をことわらなければならぬこともありました。",
+        "sentence_with_furigana": "二人や三人のお客様をことわらなければならぬこともありました。"
+    },
+    {
+        "id": "f000011",
+        "sentence": "ある夕方、",
+        "sentence_with_furigana": "ある夕方、"
+    },
+    {
+        "id": "f000012",
+        "sentence": "もう、",
+        "sentence_with_furigana": "もう、"
+    },
+    {
+        "id": "f000013",
+        "sentence": "この上一人のお客様も泊めることが出来ない程、",
+        "sentence_with_furigana": "この上一人のお客様も泊めることが出来ない程、"
+    },
+    {
+        "id": "f000014",
+        "sentence": "満員になりましたので、",
+        "sentence_with_furigana": "満員になりましたので、"
+    },
+    {
+        "id": "f000015",
+        "sentence": "「満員になりましたから、",
+        "sentence_with_furigana": "「満員になりましたから、"
+    },
+    {
+        "id": "f000016",
+        "sentence": "お気の毒でも、",
+        "sentence_with_furigana": "お気の毒でも、"
+    },
+    {
+        "id": "f000017",
+        "sentence": "今晩は、",
+        "sentence_with_furigana": "今晩は、"
+    },
+    {
+        "id": "f000018",
+        "sentence": "どなたもお泊め出来ません。",
+        "sentence_with_furigana": "どなたもお泊め出来ません。"
+    },
+    {
+        "id": "f000019",
+        "sentence": "」といふ大きな満員札をジヤガイモさんは、",
+        "sentence_with_furigana": "」といふ大きな満員札をジヤガイモさんは、"
+    },
+    {
+        "id": "f000020",
+        "sentence": "ホテルの入口にかけようとしました。",
+        "sentence_with_furigana": "ホテルの入口にかけようとしました。"
+    },
+    {
+        "id": "f000021",
+        "sentence": "すると、",
+        "sentence_with_furigana": "すると、"
+    },
+    {
+        "id": "f000022",
+        "sentence": "そこへ、",
+        "sentence_with_furigana": "そこへ、"
+    },
+    {
+        "id": "f000023",
+        "sentence": "立派な玉ねぎの紳士がやつて来て、",
+        "sentence_with_furigana": "立派な玉ねぎの紳士がやつて来て、"
+    },
+    {
+        "id": "f000024",
+        "sentence": "ジヤガイモさんに言ひました。",
+        "sentence_with_furigana": "ジヤガイモさんに言ひました。"
+    },
+    {
+        "id": "f000025",
+        "sentence": "「どうか、",
+        "sentence_with_furigana": "「どうか、"
+    },
+    {
+        "id": "f000026",
+        "sentence": "ジヤガイモさん、",
+        "sentence_with_furigana": "ジヤガイモさん、"
+    },
+    {
+        "id": "f000027",
+        "sentence": "私を泊めて下さい。",
+        "sentence_with_furigana": "私を泊めて下さい。"
+    },
+    {
+        "id": "f000028",
+        "sentence": "大変つかれてゐますから。」",
+        "sentence_with_furigana": "大変つかれてゐますから。」"
+    },
+    {
+        "id": "f000029",
+        "sentence": "ジヤガイモさんは、",
+        "sentence_with_furigana": "ジヤガイモさんは、"
+    },
+    {
+        "id": "f000030",
+        "sentence": "気の毒に思ひましたけれども、",
+        "sentence_with_furigana": "気の毒に思ひましたけれども、"
+    },
+    {
+        "id": "f000031",
+        "sentence": "空いてゐる部屋がないので、",
+        "sentence_with_furigana": "空いてゐる部屋がないので、"
+    },
+    {
+        "id": "f000032",
+        "sentence": "「お気の毒ですけれども、",
+        "sentence_with_furigana": "「お気の毒ですけれども、"
+    },
+    {
+        "id": "f000033",
+        "sentence": "何分、",
+        "sentence_with_furigana": "何分、"
+    },
+    {
+        "id": "f000034",
+        "sentence": "もう満員になつてしまひましたから。",
+        "sentence_with_furigana": "もう満員になつてしまひましたから。"
+    },
+    {
+        "id": "f000035",
+        "sentence": "」とことわりました。",
+        "sentence_with_furigana": "」とことわりました。"
+    },
+    {
+        "id": "f000036",
+        "sentence": "けれども、",
+        "sentence_with_furigana": "けれども、"
+    },
+    {
+        "id": "f000037",
+        "sentence": "玉ねぎさんは、",
+        "sentence_with_furigana": "玉ねぎさんは、"
+    },
+    {
+        "id": "f000038",
+        "sentence": "朝から遠い道を歩きつゞけて、",
+        "sentence_with_furigana": "朝から遠い道を歩きつゞけて、"
+    },
+    {
+        "id": "f000039",
+        "sentence": "くたくたにつかれてゐるので、",
+        "sentence_with_furigana": "くたくたにつかれてゐるので、"
+    },
+    {
+        "id": "f000040",
+        "sentence": "この上歩くことが出来ません。",
+        "sentence_with_furigana": "この上歩くことが出来ません。"
+    },
+    {
+        "id": "f000041",
+        "sentence": "「馬小屋でも、",
+        "sentence_with_furigana": "「馬小屋でも、"
+    },
+    {
+        "id": "f000042",
+        "sentence": "屋根裏でも、",
+        "sentence_with_furigana": "屋根裏でも、"
+    },
+    {
+        "id": "f000043",
+        "sentence": "どこでもいゝから、",
+        "sentence_with_furigana": "どこでもいゝから、"
+    },
+    {
+        "id": "f000044",
+        "sentence": "どうぞ泊めて下さい。",
+        "sentence_with_furigana": "どうぞ泊めて下さい。"
+    },
+    {
+        "id": "f000045",
+        "sentence": "」とたのみました。",
+        "sentence_with_furigana": "」とたのみました。"
+    },
+    {
+        "id": "f000046",
+        "sentence": "そこで、",
+        "sentence_with_furigana": "そこで、"
+    },
+    {
+        "id": "f000047",
+        "sentence": "ジヤガイモさんは考へました。",
+        "sentence_with_furigana": "ジヤガイモさんは考へました。"
+    },
+    {
+        "id": "f000048",
+        "sentence": "犬さんや、",
+        "sentence_with_furigana": "犬さんや、"
+    },
+    {
+        "id": "f000049",
+        "sentence": "お猫さんならいざ知らず、",
+        "sentence_with_furigana": "お猫さんならいざ知らず、"
+    },
+    {
+        "id": "f000050",
+        "sentence": "玉ねぎさんを馬小屋になんぞ泊めたら、",
+        "sentence_with_furigana": "玉ねぎさんを馬小屋になんぞ泊めたら、"
+    },
+    {
+        "id": "f000051",
+        "sentence": "いやしんぼの馬が、",
+        "sentence_with_furigana": "いやしんぼの馬が、"
+    },
+    {
+        "id": "f000052",
+        "sentence": "玉ねぎさんを食べてしまふだらう。",
+        "sentence_with_furigana": "玉ねぎさんを食べてしまふだらう。"
+    },
+    {
+        "id": "f000053",
+        "sentence": "屋根裏に泊めたら、",
+        "sentence_with_furigana": "屋根裏に泊めたら、"
+    },
+    {
+        "id": "f000054",
+        "sentence": "遠慮なしのくもが巣をかけるだらう。",
+        "sentence_with_furigana": "遠慮なしのくもが巣をかけるだらう。"
+    },
+    {
+        "id": "f000055",
+        "sentence": "ジヤガイモさんは大変困りましたが、",
+        "sentence_with_furigana": "ジヤガイモさんは大変困りましたが、"
+    },
+    {
+        "id": "f000056",
+        "sentence": "地下室のことを思ひ出して、",
+        "sentence_with_furigana": "地下室のことを思ひ出して、"
+    },
+    {
+        "id": "f000057",
+        "sentence": "「では、",
+        "sentence_with_furigana": "「では、"
+    },
+    {
+        "id": "f000058",
+        "sentence": "地下室でも、",
+        "sentence_with_furigana": "地下室でも、"
+    },
+    {
+        "id": "f000059",
+        "sentence": "よろしければお泊めします。",
+        "sentence_with_furigana": "よろしければお泊めします。"
+    },
+    {
+        "id": "f000060",
+        "sentence": "」と申しました。",
+        "sentence_with_furigana": "」と申しました。"
+    },
+    {
+        "id": "f000061",
+        "sentence": "玉ねぎさんは大変よろこんで、",
+        "sentence_with_furigana": "玉ねぎさんは大変よろこんで、"
+    },
+    {
+        "id": "f000062",
+        "sentence": "泊めてもらふことにしました。",
+        "sentence_with_furigana": "泊めてもらふことにしました。"
+    },
+    {
+        "id": "f000063",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、"
+    },
+    {
+        "id": "f000064",
+        "sentence": "ジヤガイモさんに案内してもらつて、",
+        "sentence_with_furigana": "ジヤガイモさんに案内してもらつて、"
+    },
+    {
+        "id": "f000065",
+        "sentence": "地下室に行きました。",
+        "sentence_with_furigana": "地下室に行きました。"
+    },
+    {
+        "id": "f000066",
+        "sentence": "そこは、",
+        "sentence_with_furigana": "そこは、"
+    },
+    {
+        "id": "f000067",
+        "sentence": "真くらで、",
+        "sentence_with_furigana": "真くらで、"
+    },
+    {
+        "id": "f000068",
+        "sentence": "何にも見ることが出来ませんでしたので、",
+        "sentence_with_furigana": "何にも見ることが出来ませんでしたので、"
+    },
+    {
+        "id": "f000069",
+        "sentence": "玉ねぎさんは手さぐりで、",
+        "sentence_with_furigana": "玉ねぎさんは手さぐりで、"
+    },
+    {
+        "id": "f000070",
+        "sentence": "小さいベツドを見付けて、",
+        "sentence_with_furigana": "小さいベツドを見付けて、"
+    },
+    {
+        "id": "f000071",
+        "sentence": "そこへ横になるなり、",
+        "sentence_with_furigana": "そこへ横になるなり、"
+    },
+    {
+        "id": "f000072",
+        "sentence": "ぐつすり寝込んでしまひました。",
+        "sentence_with_furigana": "ぐつすり寝込んでしまひました。"
+    },
+    {
+        "id": "f000073",
+        "sentence": "すると、",
+        "sentence_with_furigana": "すると、"
+    },
+    {
+        "id": "f000074",
+        "sentence": "不思議なことに、",
+        "sentence_with_furigana": "不思議なことに、"
+    },
+    {
+        "id": "f000075",
+        "sentence": "そのベツドが少しづゝ、",
+        "sentence_with_furigana": "そのベツドが少しづゝ、"
+    },
+    {
+        "id": "f000076",
+        "sentence": "コツトン、",
+        "sentence_with_furigana": "コツトン、"
+    },
+    {
+        "id": "f000077",
+        "sentence": "コツトンと窓の方へ動き初めました。",
+        "sentence_with_furigana": "コツトンと窓の方へ動き初めました。"
+    },
+    {
+        "id": "f000078",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、"
+    },
+    {
+        "id": "f000079",
+        "sentence": "窓ぎはの所まで来ると一緒に、",
+        "sentence_with_furigana": "窓ぎはの所まで来ると一緒に、"
+    },
+    {
+        "id": "f000080",
+        "sentence": "ベツドは、",
+        "sentence_with_furigana": "ベツドは、"
+    },
+    {
+        "id": "f000081",
+        "sentence": "急に、",
+        "sentence_with_furigana": "急に、"
+    },
+    {
+        "id": "f000082",
+        "sentence": "パンとひつくりかへつて、",
+        "sentence_with_furigana": "パンとひつくりかへつて、"
+    },
+    {
+        "id": "f000083",
+        "sentence": "そのはずみに、",
+        "sentence_with_furigana": "そのはずみに、"
+    },
+    {
+        "id": "f000084",
+        "sentence": "玉ねぎさんは、",
+        "sentence_with_furigana": "玉ねぎさんは、"
+    },
+    {
+        "id": "f000085",
+        "sentence": "窓の外へ投げ出されてしまひました。",
+        "sentence_with_furigana": "窓の外へ投げ出されてしまひました。"
+    },
+    {
+        "id": "f000086",
+        "sentence": "あ、",
+        "sentence_with_furigana": "あ、"
+    },
+    {
+        "id": "f000087",
+        "sentence": "あ、",
+        "sentence_with_furigana": "あ、"
+    },
+    {
+        "id": "f000088",
+        "sentence": "皆さん、",
+        "sentence_with_furigana": "皆さん、"
+    },
+    {
+        "id": "f000089",
+        "sentence": "窓の外には、",
+        "sentence_with_furigana": "窓の外には、"
+    },
+    {
+        "id": "f000090",
+        "sentence": "何があつたかごぞんじですか。",
+        "sentence_with_furigana": "何があつたかごぞんじですか。"
+    },
+    {
+        "id": "f000091",
+        "sentence": "窓の外には、",
+        "sentence_with_furigana": "窓の外には、"
+    },
+    {
+        "id": "f000092",
+        "sentence": "大きな川が流れてゐたのです。",
+        "sentence_with_furigana": "大きな川が流れてゐたのです。"
+    },
+    {
+        "id": "f000093",
+        "sentence": "玉ねぎさんは、",
+        "sentence_with_furigana": "玉ねぎさんは、"
+    },
+    {
+        "id": "f000094",
+        "sentence": "あつ、",
+        "sentence_with_furigana": "あつ、"
+    },
+    {
+        "id": "f000095",
+        "sentence": "と言ふ間もなく、",
+        "sentence_with_furigana": "と言ふ間もなく、"
+    },
+    {
+        "id": "f000096",
+        "sentence": "川のなかへ、",
+        "sentence_with_furigana": "川のなかへ、"
+    },
+    {
+        "id": "f000097",
+        "sentence": "ざぶんとおつこちて、",
+        "sentence_with_furigana": "ざぶんとおつこちて、"
+    },
+    {
+        "id": "f000098",
+        "sentence": "見てゐるうちに、",
+        "sentence_with_furigana": "見てゐるうちに、"
+    },
+    {
+        "id": "f000099",
+        "sentence": "水のなかへ沈んで見えなくなつてしまひました。",
+        "sentence_with_furigana": "水のなかへ沈んで見えなくなつてしまひました。"
+    },
+    {
+        "id": "f000100",
+        "sentence": "かはいさうに、",
+        "sentence_with_furigana": "かはいさうに、"
+    },
+    {
+        "id": "f000101",
+        "sentence": "玉ねぎさんは、",
+        "sentence_with_furigana": "玉ねぎさんは、"
+    },
+    {
+        "id": "f000102",
+        "sentence": "野菜の皮を外にすてるために、",
+        "sentence_with_furigana": "野菜の皮を外にすてるために、"
+    },
+    {
+        "id": "f000103",
+        "sentence": "こしらへてあつた、",
+        "sentence_with_furigana": "こしらへてあつた、"
+    },
+    {
+        "id": "f000104",
+        "sentence": "電気仕かけの箱をベツドとまちがへて、",
+        "sentence_with_furigana": "電気仕かけの箱をベツドとまちがへて、"
+    },
+    {
+        "id": "f000105",
+        "sentence": "そのなかにはいつて寝てゐたのです。",
+        "sentence_with_furigana": "そのなかにはいつて寝てゐたのです。"
+    },
+    {
+        "id": "f000106",
+        "sentence": "しかし——",
+        "sentence_with_furigana": "しかし——"
+    },
+    {
+        "id": "f000107",
+        "sentence": "そのうちに、",
+        "sentence_with_furigana": "そのうちに、"
+    },
+    {
+        "id": "f000108",
+        "sentence": "夜が明けました。",
+        "sentence_with_furigana": "夜が明けました。"
+    },
+    {
+        "id": "f000109",
+        "sentence": "",
+        "sentence_with_furigana": ""
+    },
+    {
+        "id": "f000110",
+        "sentence": "朝になつたので、",
+        "sentence_with_furigana": "朝になつたので、"
+    },
+    {
+        "id": "f000111",
+        "sentence": "ジヤガイモ・ホテルの主人のジヤガイモさんは、",
+        "sentence_with_furigana": "ジヤガイモ・ホテルの主人のジヤガイモさんは、"
+    },
+    {
+        "id": "f000112",
+        "sentence": "地下室へ、",
+        "sentence_with_furigana": "地下室へ、"
+    },
+    {
+        "id": "f000113",
+        "sentence": "パンと紅茶を銀のおぼんにのつけて、",
+        "sentence_with_furigana": "パンと紅茶を銀のおぼんにのつけて、"
+    },
+    {
+        "id": "f000114",
+        "sentence": "来て見ますと、",
+        "sentence_with_furigana": "来て見ますと、"
+    },
+    {
+        "id": "f000115",
+        "sentence": "昨日の晩に、",
+        "sentence_with_furigana": "昨日の晩に、"
+    },
+    {
+        "id": "f000116",
+        "sentence": "とまつた筈の玉ねぎさんの姿は、",
+        "sentence_with_furigana": "とまつた 筈[はず]の玉ねぎさんの姿は、"
+    },
+    {
+        "id": "f000117",
+        "sentence": "影も形もありません。",
+        "sentence_with_furigana": "影も形もありません。"
+    },
+    {
+        "id": "f000118",
+        "sentence": "玉ねぎさんの持つて来たトランクが、",
+        "sentence_with_furigana": "玉ねぎさんの持つて来たトランクが、"
+    },
+    {
+        "id": "f000119",
+        "sentence": "のこつてゐるだけでした。",
+        "sentence_with_furigana": "のこつてゐるだけでした。"
+    },
+    {
+        "id": "f000120",
+        "sentence": "ジヤガイモさんは、",
+        "sentence_with_furigana": "ジヤガイモさんは、"
+    },
+    {
+        "id": "f000121",
+        "sentence": "大変に心配して、",
+        "sentence_with_furigana": "大変に心配して、"
+    },
+    {
+        "id": "f000122",
+        "sentence": "早速新聞社へ行つて、",
+        "sentence_with_furigana": "早速新聞社へ行つて、"
+    },
+    {
+        "id": "f000123",
+        "sentence": "次のやうな広告を出してもらひました。",
+        "sentence_with_furigana": "次のやうな広告を出してもらひました。"
+    },
+    {
+        "id": "f000124",
+        "sentence": "「キノフノバン、",
+        "sentence_with_furigana": "「キノフノバン、"
+    },
+    {
+        "id": "f000125",
+        "sentence": "私ノウチノ地下室ニトマツタ玉ネギサンガ、",
+        "sentence_with_furigana": "私ノウチノ地下室ニトマツタ玉ネギサンガ、"
+    },
+    {
+        "id": "f000126",
+        "sentence": "行方不明ニナリマシタ。",
+        "sentence_with_furigana": "行方不明ニナリマシタ。"
+    },
+    {
+        "id": "f000127",
+        "sentence": "オ心アタリノ方ハ私ノトコロマデオ知ラセ下サイ。",
+        "sentence_with_furigana": "オ心アタリノ方ハ私ノトコロマデオ知ラセ下サイ。"
+    },
+    {
+        "id": "f000128",
+        "sentence": "知ラセテ下サツタ方ニハ、",
+        "sentence_with_furigana": "知ラセテ下サツタ方ニハ、"
+    },
+    {
+        "id": "f000129",
+        "sentence": "オ礼ヲ一円サシアゲマス。",
+        "sentence_with_furigana": "オ礼ヲ一円サシアゲマス。"
+    },
+    {
+        "id": "f000130",
+        "sentence": "ジヤガイモ・ホテル。」",
+        "sentence_with_furigana": "ジヤガイモ・ホテル。」"
+    },
+    {
+        "id": "f000131",
+        "sentence": "すると、",
+        "sentence_with_furigana": "すると、"
+    },
+    {
+        "id": "f000132",
+        "sentence": "その日の夕方、",
+        "sentence_with_furigana": "その日の夕方、"
+    },
+    {
+        "id": "f000133",
+        "sentence": "ひよつくり、",
+        "sentence_with_furigana": "ひよつくり、"
+    },
+    {
+        "id": "f000134",
+        "sentence": "昨日ゐなくなつた玉ねぎさんが帰つて来ました。",
+        "sentence_with_furigana": "昨日ゐなくなつた玉ねぎさんが帰つて来ました。"
+    },
+    {
+        "id": "f000135",
+        "sentence": "ジヤガイモさんは、",
+        "sentence_with_furigana": "ジヤガイモさんは、"
+    },
+    {
+        "id": "f000136",
+        "sentence": "「まあ、",
+        "sentence_with_furigana": "「まあ、"
+    },
+    {
+        "id": "f000137",
+        "sentence": "よく帰つて下さいました。",
+        "sentence_with_furigana": "よく帰つて下さいました。"
+    },
+    {
+        "id": "f000138",
+        "sentence": "どんなに心配したか知れません。",
+        "sentence_with_furigana": "どんなに心配したか知れません。"
+    },
+    {
+        "id": "f000139",
+        "sentence": "」と言ひましたので、",
+        "sentence_with_furigana": "」と言ひましたので、"
+    },
+    {
+        "id": "f000140",
+        "sentence": "玉ねぎさんは、",
+        "sentence_with_furigana": "玉ねぎさんは、"
+    },
+    {
+        "id": "f000141",
+        "sentence": "どんなに、",
+        "sentence_with_furigana": "どんなに、"
+    },
+    {
+        "id": "f000142",
+        "sentence": "ベツドから川のなかへ落ちたか、",
+        "sentence_with_furigana": "ベツドから川のなかへ落ちたか、"
+    },
+    {
+        "id": "f000143",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、"
+    },
+    {
+        "id": "f000144",
+        "sentence": "どんなに、",
+        "sentence_with_furigana": "どんなに、"
+    },
+    {
+        "id": "f000145",
+        "sentence": "あわてておよいで岸に這ひ上つたか、",
+        "sentence_with_furigana": "あわてておよいで岸に 這[は]ひ上つたか、"
+    },
+    {
+        "id": "f000146",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、"
+    },
+    {
+        "id": "f000147",
+        "sentence": "岸の上で、",
+        "sentence_with_furigana": "岸の上で、"
+    },
+    {
+        "id": "f000148",
+        "sentence": "新聞の広告をよんだかを話しました。",
+        "sentence_with_furigana": "新聞の広告をよんだかを話しました。"
+    },
+    {
+        "id": "f000149",
+        "sentence": "すると、",
+        "sentence_with_furigana": "すると、"
+    },
+    {
+        "id": "f000150",
+        "sentence": "ジヤガイモさんは頭をかいて申しました。",
+        "sentence_with_furigana": "ジヤガイモさんは頭をかいて申しました。"
+    },
+    {
+        "id": "f000151",
+        "sentence": "「それは、",
+        "sentence_with_furigana": "「それは、"
+    },
+    {
+        "id": "f000152",
+        "sentence": "まことにお気の毒なことを致しました。",
+        "sentence_with_furigana": "まことにお気の毒なことを致しました。"
+    },
+    {
+        "id": "f000153",
+        "sentence": "その代り、",
+        "sentence_with_furigana": "その代り、"
+    },
+    {
+        "id": "f000154",
+        "sentence": "今晩は、",
+        "sentence_with_furigana": "今晩は、"
+    },
+    {
+        "id": "f000155",
+        "sentence": "とても、",
+        "sentence_with_furigana": "とても、"
+    },
+    {
+        "id": "f000156",
+        "sentence": "すばらしいお部屋があいてゐますから、",
+        "sentence_with_furigana": "すばらしいお部屋があいてゐますから、"
+    },
+    {
+        "id": "f000157",
+        "sentence": "泊つて下さい。",
+        "sentence_with_furigana": "泊つて下さい。"
+    },
+    {
+        "id": "f000158",
+        "sentence": "」と申しました。",
+        "sentence_with_furigana": "」と申しました。"
+    },
+    {
+        "id": "f000159",
+        "sentence": "玉ねぎさんは笑ひながら言ひました。",
+        "sentence_with_furigana": "玉ねぎさんは笑ひながら言ひました。"
+    },
+    {
+        "id": "f000160",
+        "sentence": "「あ、",
+        "sentence_with_furigana": "「あ、"
+    },
+    {
+        "id": "f000161",
+        "sentence": "あ、",
+        "sentence_with_furigana": "あ、"
+    },
+    {
+        "id": "f000162",
+        "sentence": "僕がもう一日おそく、",
+        "sentence_with_furigana": "僕がもう一日おそく、"
+    },
+    {
+        "id": "f000163",
+        "sentence": "こゝへ来たら、",
+        "sentence_with_furigana": "こゝへ来たら、"
+    },
+    {
+        "id": "f000164",
+        "sentence": "昨日のやうな、",
+        "sentence_with_furigana": "昨日のやうな、"
+    },
+    {
+        "id": "f000165",
+        "sentence": "ひどい目には会はなかつたよ。",
+        "sentence_with_furigana": "ひどい目には会はなかつたよ。"
+    },
+    {
+        "id": "f000166",
+        "sentence": "」と申しました。",
+        "sentence_with_furigana": "」と申しました。"
+    },
+    {
+        "id": "f000167",
+        "sentence": "けれども、",
+        "sentence_with_furigana": "けれども、"
+    },
+    {
+        "id": "f000168",
+        "sentence": "不思議なことに、",
+        "sentence_with_furigana": "不思議なことに、"
+    },
+    {
+        "id": "f000169",
+        "sentence": "玉ねぎさんは、",
+        "sentence_with_furigana": "玉ねぎさんは、"
+    },
+    {
+        "id": "f000170",
+        "sentence": "ひどく、",
+        "sentence_with_furigana": "ひどく、"
+    },
+    {
+        "id": "f000171",
+        "sentence": "このジヤガイモ・ホテルが気に入つてしまつて、",
+        "sentence_with_furigana": "このジヤガイモ・ホテルが気に入つてしまつて、"
+    },
+    {
+        "id": "f000172",
+        "sentence": "一生涯、",
+        "sentence_with_furigana": "一生涯、"
+    },
+    {
+        "id": "f000173",
+        "sentence": "この、",
+        "sentence_with_furigana": "この、"
+    },
+    {
+        "id": "f000174",
+        "sentence": "ジヤガイモ・ホテルの番頭さんになつて、",
+        "sentence_with_furigana": "ジヤガイモ・ホテルの番頭さんになつて、"
+    },
+    {
+        "id": "f000175",
+        "sentence": "ジヤガイモさんと一しよに住むことになりました。",
+        "sentence_with_furigana": "ジヤガイモさんと一しよに住むことになりました。"
+    },
+    {
+        "id": "f000176",
+        "sentence": "それですから皆さん、",
+        "sentence_with_furigana": "それですから皆さん、"
+    },
+    {
+        "id": "f000177",
+        "sentence": "あなた方のめしあがる洋食で、",
+        "sentence_with_furigana": "あなた方のめしあがる洋食で、"
+    },
+    {
+        "id": "f000178",
+        "sentence": "ジヤガイモのついてゐるお皿には、",
+        "sentence_with_furigana": "ジヤガイモのついてゐるお皿には、"
+    },
+    {
+        "id": "f000179",
+        "sentence": "きつと、",
+        "sentence_with_furigana": "きつと、"
+    },
+    {
+        "id": "f000180",
+        "sentence": "玉ねぎがついてゐるでせう。",
+        "sentence_with_furigana": "玉ねぎがついてゐるでせう。"
+    },
+    {
+        "id": "f000181",
+        "sentence": "それは、",
+        "sentence_with_furigana": "それは、"
+    },
+    {
+        "id": "f000182",
+        "sentence": "こんなわけです。",
+        "sentence_with_furigana": "こんなわけです。"
+    },
+    {
+        "id": "f000183",
+        "sentence": "その翌る日から、",
+        "sentence_with_furigana": "その 翌[あく]る日から、"
+    },
+    {
+        "id": "f000184",
+        "sentence": "ホテルの看板が、",
+        "sentence_with_furigana": "ホテルの看板が、"
+    },
+    {
+        "id": "f000185",
+        "sentence": "こんな風に書き変へられました。",
+        "sentence_with_furigana": "こんな風に書き変へられました。"
+    },
+    {
+        "id": "f000186",
+        "sentence": "「ジヤガイモ・玉ネギ・ホテル」と。",
+        "sentence_with_furigana": "「ジヤガイモ・玉ネギ・ホテル」と。"
+    }
+]
