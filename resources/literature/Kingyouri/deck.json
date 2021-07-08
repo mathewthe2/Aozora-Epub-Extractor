@@ -1,0 +1,1627 @@
+[
+    {
+        "id": "f000001",
+        "sentence": "小川未明　作",
+        "sentence_with_furigana": "小川未明　作"
+    },
+    {
+        "id": "f000002",
+        "sentence": "金魚売り",
+        "sentence_with_furigana": "金魚売り"
+    },
+    {
+        "id": "f000003",
+        "sentence": "たくさんな金魚の子が、",
+        "sentence_with_furigana": "たくさんな 金魚[きんぎょ]の 子[こ]が、"
+    },
+    {
+        "id": "f000004",
+        "sentence": "おけの中で、",
+        "sentence_with_furigana": "おけの 中[なか]で、"
+    },
+    {
+        "id": "f000005",
+        "sentence": "あふ、",
+        "sentence_with_furigana": "あふ、"
+    },
+    {
+        "id": "f000006",
+        "sentence": "あふとして泳いでいました。",
+        "sentence_with_furigana": "あふとして 泳[およ]いでいました。"
+    },
+    {
+        "id": "f000007",
+        "sentence": "体じゅうがすっかり赤いのや、",
+        "sentence_with_furigana": "体[からだ]じゅうがすっかり 赤[あか]いのや、"
+    },
+    {
+        "id": "f000008",
+        "sentence": "白と赤のまだらのや、",
+        "sentence_with_furigana": "白[しろ]と 赤[あか]のまだらのや、"
+    },
+    {
+        "id": "f000009",
+        "sentence": "頭のさきが、",
+        "sentence_with_furigana": "頭[あたま]のさきが、"
+    },
+    {
+        "id": "f000010",
+        "sentence": "ちょっと黒いのや、",
+        "sentence_with_furigana": "ちょっと 黒[くろ]いのや、"
+    },
+    {
+        "id": "f000011",
+        "sentence": "いろいろあったのです。",
+        "sentence_with_furigana": "いろいろあったのです。"
+    },
+    {
+        "id": "f000012",
+        "sentence": "それを前と後ろに二つのおけの中にいれて、",
+        "sentence_with_furigana": "それを 前[まえ]と 後[うし]ろに二つのおけの 中[なか]にいれて、"
+    },
+    {
+        "id": "f000013",
+        "sentence": "肩にかついで、",
+        "sentence_with_furigana": "肩[かた]にかついで、"
+    },
+    {
+        "id": "f000014",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、"
+    },
+    {
+        "id": "f000015",
+        "sentence": "春のさびしい道を歩いていました。",
+        "sentence_with_furigana": "春[はる]のさびしい 道[みち]を 歩[ある]いていました。"
+    },
+    {
+        "id": "f000016",
+        "sentence": "このおじいさんは、",
+        "sentence_with_furigana": "このおじいさんは、"
+    },
+    {
+        "id": "f000017",
+        "sentence": "これらの金魚を仲買や、",
+        "sentence_with_furigana": "これらの 金魚[きんぎょ]を 仲買[なかがい]や、"
+    },
+    {
+        "id": "f000018",
+        "sentence": "卸屋などから買ってきたのではありません。",
+        "sentence_with_furigana": "卸屋[おろしや]などから 買[か]ってきたのではありません。"
+    },
+    {
+        "id": "f000019",
+        "sentence": "自分で卵から養成したのでありますから、",
+        "sentence_with_furigana": "自分[じぶん]で 卵[たまご]から 養成[ようせい]したのでありますから、"
+    },
+    {
+        "id": "f000020",
+        "sentence": "ほんとうに、",
+        "sentence_with_furigana": "ほんとうに、"
+    },
+    {
+        "id": "f000021",
+        "sentence": "自分の子供のように、",
+        "sentence_with_furigana": "自分[じぶん]の 子供[こども]のように、"
+    },
+    {
+        "id": "f000022",
+        "sentence": "かわいく思っていたのです。",
+        "sentence_with_furigana": "かわいく 思[おも]っていたのです。"
+    },
+    {
+        "id": "f000023",
+        "sentence": "「これを売らなければならぬとは、",
+        "sentence_with_furigana": "「これを 売[う]らなければならぬとは、"
+    },
+    {
+        "id": "f000024",
+        "sentence": "なんと悲しいことだろう。」",
+        "sentence_with_furigana": "なんと 悲[かな]しいことだろう。」"
+    },
+    {
+        "id": "f000025",
+        "sentence": "こう、",
+        "sentence_with_furigana": "こう、"
+    },
+    {
+        "id": "f000026",
+        "sentence": "おじいさんは思ったのでした。",
+        "sentence_with_furigana": "おじいさんは 思[おも]ったのでした。"
+    },
+    {
+        "id": "f000027",
+        "sentence": "春の風は、",
+        "sentence_with_furigana": "春[はる]の 風[かぜ]は、"
+    },
+    {
+        "id": "f000028",
+        "sentence": "やわらかに吹いて、",
+        "sentence_with_furigana": "やわらかに 吹[ふ]いて、"
+    },
+    {
+        "id": "f000029",
+        "sentence": "おじいさんの顔をなで過ぎました。",
+        "sentence_with_furigana": "おじいさんの 顔[かお]をなで 過[す]ぎました。"
+    },
+    {
+        "id": "f000030",
+        "sentence": "道端には、",
+        "sentence_with_furigana": "道端[みちばた]には、"
+    },
+    {
+        "id": "f000031",
+        "sentence": "すみれや、",
+        "sentence_with_furigana": "すみれや、"
+    },
+    {
+        "id": "f000032",
+        "sentence": "たんぽぽ、",
+        "sentence_with_furigana": "たんぽぽ、"
+    },
+    {
+        "id": "f000033",
+        "sentence": "あざみなどの花が、",
+        "sentence_with_furigana": "あざみなどの 花[はな]が、"
+    },
+    {
+        "id": "f000034",
+        "sentence": "夢でも見ながら眠っているように咲いていました。",
+        "sentence_with_furigana": "夢[ゆめ]でも 見[み]ながら 眠[ねむ]っているように 咲[さ]いていました。"
+    },
+    {
+        "id": "f000035",
+        "sentence": "あちらの野原は、",
+        "sentence_with_furigana": "あちらの 野原[のはら]は、"
+    },
+    {
+        "id": "f000036",
+        "sentence": "かすんでいました。",
+        "sentence_with_furigana": "かすんでいました。"
+    },
+    {
+        "id": "f000037",
+        "sentence": "いろいろの思い出は、",
+        "sentence_with_furigana": "いろいろの 思[おも]い 出[で]は、"
+    },
+    {
+        "id": "f000038",
+        "sentence": "おじいさんの頭の中にあらわれて、",
+        "sentence_with_furigana": "おじいさんの 頭[あたま]の 中[なか]にあらわれて、"
+    },
+    {
+        "id": "f000039",
+        "sentence": "笑い声をたてたり、",
+        "sentence_with_furigana": "笑[わら]い 声[ごえ]をたてたり、"
+    },
+    {
+        "id": "f000040",
+        "sentence": "また悲しい泣き声をたてたかと思うと、",
+        "sentence_with_furigana": "また 悲[かな]しい 泣[な]き 声[ごえ]をたてたかと 思[おも]うと、"
+    },
+    {
+        "id": "f000041",
+        "sentence": "いつのまにか、",
+        "sentence_with_furigana": "いつのまにか、"
+    },
+    {
+        "id": "f000042",
+        "sentence": "跡も形もなく消えてしまって、",
+        "sentence_with_furigana": "跡[あと]も 形[かたち]もなく 消[き]えてしまって、"
+    },
+    {
+        "id": "f000043",
+        "sentence": "さらに、",
+        "sentence_with_furigana": "さらに、"
+    },
+    {
+        "id": "f000044",
+        "sentence": "新しい、",
+        "sentence_with_furigana": "新[あたら]しい、"
+    },
+    {
+        "id": "f000045",
+        "sentence": "別の空想が、",
+        "sentence_with_furigana": "別[べつ]の 空想[くうそう]が、"
+    },
+    {
+        "id": "f000046",
+        "sentence": "顔を出したのです。",
+        "sentence_with_furigana": "顔[かお]を 出[だ]したのです。"
+    },
+    {
+        "id": "f000047",
+        "sentence": "人家のあるところまでくると、",
+        "sentence_with_furigana": "人家[じんか]のあるところまでくると、"
+    },
+    {
+        "id": "f000048",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、"
+    },
+    {
+        "id": "f000049",
+        "sentence": "「金魚やい、",
+        "sentence_with_furigana": "「 金魚[きんぎょ]やい、"
+    },
+    {
+        "id": "f000050",
+        "sentence": "金魚やい——",
+        "sentence_with_furigana": "金魚[きんぎょ]やい——"
+    },
+    {
+        "id": "f000051",
+        "sentence": "。」と、",
+        "sentence_with_furigana": "。」と、"
+    },
+    {
+        "id": "f000052",
+        "sentence": "呼びました。",
+        "sentence_with_furigana": "呼[よ]びました。"
+    },
+    {
+        "id": "f000053",
+        "sentence": "子供たちが、",
+        "sentence_with_furigana": "子供[こども]たちが、"
+    },
+    {
+        "id": "f000054",
+        "sentence": "その声を聞きつけて、",
+        "sentence_with_furigana": "その 声[こえ]を 聞[き]きつけて、"
+    },
+    {
+        "id": "f000055",
+        "sentence": "どこからかたくさん集まってきます。",
+        "sentence_with_furigana": "どこからかたくさん 集[あつ]まってきます。"
+    },
+    {
+        "id": "f000056",
+        "sentence": "その子供たちは、",
+        "sentence_with_furigana": "その 子供[こども]たちは、"
+    },
+    {
+        "id": "f000057",
+        "sentence": "なんとなく乱暴そうに見えました。",
+        "sentence_with_furigana": "なんとなく 乱暴[らんぼう]そうに 見[み]えました。"
+    },
+    {
+        "id": "f000058",
+        "sentence": "金魚の泳いでいる中へ棒をいれて、",
+        "sentence_with_furigana": "金魚[きんぎょ]の 泳[およ]いでいる 中[なか]へ 棒[ぼう]をいれて、"
+    },
+    {
+        "id": "f000059",
+        "sentence": "かきまわしかねないように見えました。",
+        "sentence_with_furigana": "かきまわしかねないように 見[み]えました。"
+    },
+    {
+        "id": "f000060",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、"
+    },
+    {
+        "id": "f000061",
+        "sentence": "そうした子供たちには、",
+        "sentence_with_furigana": "そうした 子供[こども]たちには、"
+    },
+    {
+        "id": "f000062",
+        "sentence": "売りたいとは思いませんでした。",
+        "sentence_with_furigana": "売[う]りたいとは 思[おも]いませんでした。"
+    },
+    {
+        "id": "f000063",
+        "sentence": "「きれいな金魚だね。」",
+        "sentence_with_furigana": "「きれいな 金魚[きんぎょ]だね。」"
+    },
+    {
+        "id": "f000064",
+        "sentence": "「僕は、",
+        "sentence_with_furigana": "「 僕[ぼく]は、"
+    },
+    {
+        "id": "f000065",
+        "sentence": "こいのほうがいいな。」",
+        "sentence_with_furigana": "こいのほうがいいな。」"
+    },
+    {
+        "id": "f000066",
+        "sentence": "「こいは、",
+        "sentence_with_furigana": "「こいは、"
+    },
+    {
+        "id": "f000067",
+        "sentence": "河にすんでいるだろう。」",
+        "sentence_with_furigana": "河[かわ]にすんでいるだろう。」"
+    },
+    {
+        "id": "f000068",
+        "sentence": "「いつか、",
+        "sentence_with_furigana": "「いつか、"
+    },
+    {
+        "id": "f000069",
+        "sentence": "僕、",
+        "sentence_with_furigana": "僕[ぼく]、"
+    },
+    {
+        "id": "f000070",
+        "sentence": "釣りにいったら、",
+        "sentence_with_furigana": "釣[つ]りにいったら、"
+    },
+    {
+        "id": "f000071",
+        "sentence": "大きなこいが、",
+        "sentence_with_furigana": "大[おお]きなこいが、"
+    },
+    {
+        "id": "f000072",
+        "sentence": "ぱくぱく、",
+        "sentence_with_furigana": "ぱくぱく、"
+    },
+    {
+        "id": "f000073",
+        "sentence": "すぐ僕の釣りをしている前のところへ浮いたのを見たよ。」",
+        "sentence_with_furigana": "すぐ 僕[ぼく]の 釣[つ]りをしている 前[まえ]のところへ 浮[う]いたのを 見[み]たよ。」"
+    },
+    {
+        "id": "f000074",
+        "sentence": "「赤かったかい。」",
+        "sentence_with_furigana": "「 赤[あか]かったかい。」"
+    },
+    {
+        "id": "f000075",
+        "sentence": "「黒かった。",
+        "sentence_with_furigana": "「 黒[くろ]かった。"
+    },
+    {
+        "id": "f000076",
+        "sentence": "すこし、",
+        "sentence_with_furigana": "すこし、"
+    },
+    {
+        "id": "f000077",
+        "sentence": "赤かった。」",
+        "sentence_with_furigana": "赤[あか]かった。」"
+    },
+    {
+        "id": "f000078",
+        "sentence": "「うそでない。",
+        "sentence_with_furigana": "「うそでない。"
+    },
+    {
+        "id": "f000079",
+        "sentence": "ほんとうだ。」",
+        "sentence_with_furigana": "ほんとうだ。」"
+    },
+    {
+        "id": "f000080",
+        "sentence": "その乱暴そうな子供たちは、",
+        "sentence_with_furigana": "その 乱暴[らんぼう]そうな 子供[こども]たちは、"
+    },
+    {
+        "id": "f000081",
+        "sentence": "もう金魚のことなんか忘れてしまって、",
+        "sentence_with_furigana": "もう 金魚[きんぎょ]のことなんか 忘[わす]れてしまって、"
+    },
+    {
+        "id": "f000082",
+        "sentence": "棒を持って、",
+        "sentence_with_furigana": "棒[ぼう]を 持[も]って、"
+    },
+    {
+        "id": "f000083",
+        "sentence": "戦争ごっこをはじめたのです。",
+        "sentence_with_furigana": "戦争[せんそう]ごっこをはじめたのです。"
+    },
+    {
+        "id": "f000084",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、"
+    },
+    {
+        "id": "f000085",
+        "sentence": "笑い顔をして、",
+        "sentence_with_furigana": "笑[わら]い 顔[がお]をして、"
+    },
+    {
+        "id": "f000086",
+        "sentence": "子供たちが無邪気に遊んでいるのをながめていましたが、",
+        "sentence_with_furigana": "子供[こども]たちが 無邪気[むじゃき]に 遊[あそ]んでいるのをながめていましたが、"
+    },
+    {
+        "id": "f000087",
+        "sentence": "やがて、",
+        "sentence_with_furigana": "やがて、"
+    },
+    {
+        "id": "f000088",
+        "sentence": "あちらへ歩いてゆきました。",
+        "sentence_with_furigana": "あちらへ 歩[ある]いてゆきました。"
+    },
+    {
+        "id": "f000089",
+        "sentence": "村を離れると、",
+        "sentence_with_furigana": "村[むら]を 離[はな]れると、"
+    },
+    {
+        "id": "f000090",
+        "sentence": "松の並木のつづく街道へ出たのであります。",
+        "sentence_with_furigana": "松[まつ]の 並木[なみき]のつづく 街道[かいどう]へ 出[で]たのであります。"
+    },
+    {
+        "id": "f000091",
+        "sentence": "その松の木の根に腰をかけて、",
+        "sentence_with_furigana": "その 松[まつ]の 木[き]の 根[ね]に 腰[こし]をかけて、"
+    },
+    {
+        "id": "f000092",
+        "sentence": "じっと、",
+        "sentence_with_furigana": "じっと、"
+    },
+    {
+        "id": "f000093",
+        "sentence": "おけの中にはいっているたくさんな金魚の姿をながめていました。",
+        "sentence_with_furigana": "おけの 中[なか]にはいっているたくさんな 金魚[きんぎょ]の 姿[すがた]をながめていました。"
+    },
+    {
+        "id": "f000094",
+        "sentence": "こうして、",
+        "sentence_with_furigana": "こうして、"
+    },
+    {
+        "id": "f000095",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、"
+    },
+    {
+        "id": "f000096",
+        "sentence": "自分の育てた金魚は、",
+        "sentence_with_furigana": "自分[じぶん]の 育[そだ]てた 金魚[きんぎょ]は、"
+    },
+    {
+        "id": "f000097",
+        "sentence": "残らず目の中に、",
+        "sentence_with_furigana": "残[のこ]らず 目[め]の 中[なか]に、"
+    },
+    {
+        "id": "f000098",
+        "sentence": "はっきりとはいっていたのでした。",
+        "sentence_with_furigana": "はっきりとはいっていたのでした。"
+    },
+    {
+        "id": "f000099",
+        "sentence": "長い道をおじいさんにかつがれて、",
+        "sentence_with_furigana": "長[なが]い 道[みち]をおじいさんにかつがれて、"
+    },
+    {
+        "id": "f000100",
+        "sentence": "知らぬ町から町へ、",
+        "sentence_with_furigana": "知[し]らぬ 町[まち]から 町[まち]へ、"
+    },
+    {
+        "id": "f000101",
+        "sentence": "村から村へゆく間に、",
+        "sentence_with_furigana": "村[むら]から 村[むら]へゆく 間[あいだ]に、"
+    },
+    {
+        "id": "f000102",
+        "sentence": "金魚は、",
+        "sentence_with_furigana": "金魚[きんぎょ]は、"
+    },
+    {
+        "id": "f000103",
+        "sentence": "自分の兄弟や、",
+        "sentence_with_furigana": "自分[じぶん]の 兄弟[きょうだい]や、"
+    },
+    {
+        "id": "f000104",
+        "sentence": "友だちと別れなければなりませんでした。",
+        "sentence_with_furigana": "友[とも]だちと 別[わか]れなければなりませんでした。"
+    },
+    {
+        "id": "f000105",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、"
+    },
+    {
+        "id": "f000106",
+        "sentence": "それらの兄弟や、",
+        "sentence_with_furigana": "それらの 兄弟[きょうだい]や、"
+    },
+    {
+        "id": "f000107",
+        "sentence": "友だちとは、",
+        "sentence_with_furigana": "友[とも]だちとは、"
+    },
+    {
+        "id": "f000108",
+        "sentence": "永久に、",
+        "sentence_with_furigana": "永久[えいきゅう]に、"
+    },
+    {
+        "id": "f000109",
+        "sentence": "またいっしょに暮らすこともなければ、",
+        "sentence_with_furigana": "またいっしょに 暮[く]らすこともなければ、"
+    },
+    {
+        "id": "f000110",
+        "sentence": "泳ぐこともなかったのです。",
+        "sentence_with_furigana": "泳[およ]ぐこともなかったのです。"
+    },
+    {
+        "id": "f000111",
+        "sentence": "もとより自分たちの生まれて、",
+        "sentence_with_furigana": "もとより 自分[じぶん]たちの 生[う]まれて、"
+    },
+    {
+        "id": "f000112",
+        "sentence": "育てられた故郷の小さな池へは帰ることがなかったでしょう。",
+        "sentence_with_furigana": "育[そだ]てられた 故郷[こきょう]の 小[ちい]さな 池[いけ]へは 帰[かえ]ることがなかったでしょう。"
+    },
+    {
+        "id": "f000113",
+        "sentence": "金魚は、",
+        "sentence_with_furigana": "金魚[きんぎょ]は、"
+    },
+    {
+        "id": "f000114",
+        "sentence": "なにもいわなかったけれど、",
+        "sentence_with_furigana": "なにもいわなかったけれど、"
+    },
+    {
+        "id": "f000115",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、"
+    },
+    {
+        "id": "f000116",
+        "sentence": "よく、",
+        "sentence_with_furigana": "よく、"
+    },
+    {
+        "id": "f000117",
+        "sentence": "金魚の心持ちがわかるようでした。",
+        "sentence_with_furigana": "金魚[きんぎょ]の 心持[こころも]ちがわかるようでした。"
+    },
+    {
+        "id": "f000118",
+        "sentence": "あまり長い、",
+        "sentence_with_furigana": "あまり 長[なが]い、"
+    },
+    {
+        "id": "f000119",
+        "sentence": "毎日の旅にゆられて、",
+        "sentence_with_furigana": "毎日[まいにち]の 旅[たび]にゆられて、"
+    },
+    {
+        "id": "f000120",
+        "sentence": "中には、",
+        "sentence_with_furigana": "中[なか]には、"
+    },
+    {
+        "id": "f000121",
+        "sentence": "弱った金魚もありました。",
+        "sentence_with_furigana": "弱[よわ]った 金魚[きんぎょ]もありました。"
+    },
+    {
+        "id": "f000122",
+        "sentence": "そんなのは、",
+        "sentence_with_furigana": "そんなのは、"
+    },
+    {
+        "id": "f000123",
+        "sentence": "別の器の中にいれて、",
+        "sentence_with_furigana": "別[べつ]の 器[うつわ]の 中[なか]にいれて、"
+    },
+    {
+        "id": "f000124",
+        "sentence": "みんなと別にしてやりました。",
+        "sentence_with_furigana": "みんなと 別[べつ]にしてやりました。"
+    },
+    {
+        "id": "f000125",
+        "sentence": "なぜなら、",
+        "sentence_with_furigana": "なぜなら、"
+    },
+    {
+        "id": "f000126",
+        "sentence": "達者で、",
+        "sentence_with_furigana": "達者[たっしゃ]で、"
+    },
+    {
+        "id": "f000127",
+        "sentence": "元気のいいのがばかにするからです。",
+        "sentence_with_furigana": "元気[げんき]のいいのがばかにするからです。"
+    },
+    {
+        "id": "f000128",
+        "sentence": "そのことは、",
+        "sentence_with_furigana": "そのことは、"
+    },
+    {
+        "id": "f000129",
+        "sentence": "ちょうど人間の社会におけると違いがありません。",
+        "sentence_with_furigana": "ちょうど 人間[にんげん]の 社会[しゃかい]におけると 違[ちが]いがありません。"
+    },
+    {
+        "id": "f000130",
+        "sentence": "弱いものに対して、",
+        "sentence_with_furigana": "弱[よわ]いものに 対[たい]して、"
+    },
+    {
+        "id": "f000131",
+        "sentence": "憐れむものもあれば、",
+        "sentence_with_furigana": "憐[あわ]れむものもあれば、"
+    },
+    {
+        "id": "f000132",
+        "sentence": "かえって、",
+        "sentence_with_furigana": "かえって、"
+    },
+    {
+        "id": "f000133",
+        "sentence": "それをあざけり、",
+        "sentence_with_furigana": "それをあざけり、"
+    },
+    {
+        "id": "f000134",
+        "sentence": "いじめるようなものもありました。",
+        "sentence_with_furigana": "いじめるようなものもありました。"
+    },
+    {
+        "id": "f000135",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、"
+    },
+    {
+        "id": "f000136",
+        "sentence": "おけに鼻を打たれたり、",
+        "sentence_with_furigana": "おけに 鼻[はな]を 打[う]たれたり、"
+    },
+    {
+        "id": "f000137",
+        "sentence": "また揺られたために弱った金魚をいっそうかわいがってやりました。",
+        "sentence_with_furigana": "また 揺[ゆ]られたために 弱[よわ]った 金魚[きんぎょ]をいっそうかわいがってやりました。"
+    },
+    {
+        "id": "f000138",
+        "sentence": "ある日のこと、",
+        "sentence_with_furigana": "ある 日[ひ]のこと、"
+    },
+    {
+        "id": "f000139",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、"
+    },
+    {
+        "id": "f000140",
+        "sentence": "金魚のおけをかついで、",
+        "sentence_with_furigana": "金魚[きんぎょ]のおけをかついで、"
+    },
+    {
+        "id": "f000141",
+        "sentence": "「金魚やい、",
+        "sentence_with_furigana": "「 金魚[きんぎょ]やい、"
+    },
+    {
+        "id": "f000142",
+        "sentence": "金魚やい——",
+        "sentence_with_furigana": "金魚[きんぎょ]やい——"
+    },
+    {
+        "id": "f000143",
+        "sentence": "。」と呼びながら、",
+        "sentence_with_furigana": "。」と 呼[よ]びながら、"
+    },
+    {
+        "id": "f000144",
+        "sentence": "小さな町へはいってきました。",
+        "sentence_with_furigana": "小[ちい]さな 町[まち]へはいってきました。"
+    },
+    {
+        "id": "f000145",
+        "sentence": "そのとき、",
+        "sentence_with_furigana": "そのとき、"
+    },
+    {
+        "id": "f000146",
+        "sentence": "十二、",
+        "sentence_with_furigana": "十二、"
+    },
+    {
+        "id": "f000147",
+        "sentence": "三になる少年が、",
+        "sentence_with_furigana": "三になる 少年[しょうねん]が、"
+    },
+    {
+        "id": "f000148",
+        "sentence": "とある一軒の家から飛び出してきて、",
+        "sentence_with_furigana": "とある一 軒[けん]の 家[うち]から 飛[と]び 出[だ]してきて、"
+    },
+    {
+        "id": "f000149",
+        "sentence": "いきいきとした目でおじいさんを仰ぎながら、",
+        "sentence_with_furigana": "いきいきとした 目[め]でおじいさんを 仰[あお]ぎながら、"
+    },
+    {
+        "id": "f000150",
+        "sentence": "「金魚を見せておくれ。",
+        "sentence_with_furigana": "「 金魚[きんぎょ]を 見[み]せておくれ。"
+    },
+    {
+        "id": "f000151",
+        "sentence": "」といいました。",
+        "sentence_with_furigana": "」といいました。"
+    },
+    {
+        "id": "f000152",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、"
+    },
+    {
+        "id": "f000153",
+        "sentence": "おとなしい、",
+        "sentence_with_furigana": "おとなしい、"
+    },
+    {
+        "id": "f000154",
+        "sentence": "よい子供だと思いましたから、",
+        "sentence_with_furigana": "よい 子供[こども]だと 思[おも]いましたから、"
+    },
+    {
+        "id": "f000155",
+        "sentence": "「さあ、",
+        "sentence_with_furigana": "「さあ、"
+    },
+    {
+        "id": "f000156",
+        "sentence": "見てください。",
+        "sentence_with_furigana": "見[み]てください。"
+    },
+    {
+        "id": "f000157",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000158",
+        "sentence": "答えて、",
+        "sentence_with_furigana": "答[こた]えて、"
+    },
+    {
+        "id": "f000159",
+        "sentence": "おけをおろして見せました。",
+        "sentence_with_furigana": "おけをおろして 見[み]せました。"
+    },
+    {
+        "id": "f000160",
+        "sentence": "少年は、",
+        "sentence_with_furigana": "少年[しょうねん]は、"
+    },
+    {
+        "id": "f000161",
+        "sentence": "二つのおけの中にはいっている金魚を熱心に見くらべていましたが、",
+        "sentence_with_furigana": "二つのおけの 中[なか]にはいっている 金魚[きんぎょ]を 熱心[ねっしん]に 見[み]くらべていましたが、"
+    },
+    {
+        "id": "f000162",
+        "sentence": "おじいさんが別にしておいた、",
+        "sentence_with_furigana": "おじいさんが 別[べつ]にしておいた、"
+    },
+    {
+        "id": "f000163",
+        "sentence": "弱った金魚へ、",
+        "sentence_with_furigana": "弱[よわ]った 金魚[きんぎょ]へ、"
+    },
+    {
+        "id": "f000164",
+        "sentence": "その目を移したのです。",
+        "sentence_with_furigana": "その 目[め]を 移[うつ]したのです。"
+    },
+    {
+        "id": "f000165",
+        "sentence": "「この円い、",
+        "sentence_with_furigana": "「この 円[まる]い、"
+    },
+    {
+        "id": "f000166",
+        "sentence": "尾の長い金魚をくださいな。",
+        "sentence_with_furigana": "尾[お]の 長[なが]い 金魚[きんぎょ]をくださいな。"
+    },
+    {
+        "id": "f000167",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000168",
+        "sentence": "子供はいいました。",
+        "sentence_with_furigana": "子供[こども]はいいました。"
+    },
+    {
+        "id": "f000169",
+        "sentence": "「坊ちゃん、",
+        "sentence_with_furigana": "「 坊[ぼっ]ちゃん、"
+    },
+    {
+        "id": "f000170",
+        "sentence": "この金魚は、",
+        "sentence_with_furigana": "この 金魚[きんぎょ]は、"
+    },
+    {
+        "id": "f000171",
+        "sentence": "いい金魚ですけれど、",
+        "sentence_with_furigana": "いい 金魚[きんぎょ]ですけれど、"
+    },
+    {
+        "id": "f000172",
+        "sentence": "すこし弱っていますよ。",
+        "sentence_with_furigana": "すこし 弱[よわ]っていますよ。"
+    },
+    {
+        "id": "f000173",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000174",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、"
+    },
+    {
+        "id": "f000175",
+        "sentence": "目を細くして答えました。",
+        "sentence_with_furigana": "目[め]を 細[ほそ]くして 答[こた]えました。"
+    },
+    {
+        "id": "f000176",
+        "sentence": "「どうして弱っているの？」",
+        "sentence_with_furigana": "「どうして 弱[よわ]っているの？」"
+    },
+    {
+        "id": "f000177",
+        "sentence": "「長い旅をして頭をおけで打って疲れているのですよ。」",
+        "sentence_with_furigana": "「 長[なが]い 旅[たび]をして 頭[あたま]をおけで 打[う]って 疲[つか]れているのですよ。」"
+    },
+    {
+        "id": "f000178",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、"
+    },
+    {
+        "id": "f000179",
+        "sentence": "やさしい、",
+        "sentence_with_furigana": "やさしい、"
+    },
+    {
+        "id": "f000180",
+        "sentence": "いい子供だと思って見ていました。",
+        "sentence_with_furigana": "いい 子供[こども]だと 思[おも]って 見[み]ていました。"
+    },
+    {
+        "id": "f000181",
+        "sentence": "「僕、",
+        "sentence_with_furigana": "「 僕[ぼく]、"
+    },
+    {
+        "id": "f000182",
+        "sentence": "大事にして、",
+        "sentence_with_furigana": "大事[だいじ]にして、"
+    },
+    {
+        "id": "f000183",
+        "sentence": "この金魚を飼ってやろうかしらん……。」",
+        "sentence_with_furigana": "この 金魚[きんぎょ]を 飼[か]ってやろうかしらん……。」"
+    },
+    {
+        "id": "f000184",
+        "sentence": "「そうしてくだされば、",
+        "sentence_with_furigana": "「そうしてくだされば、"
+    },
+    {
+        "id": "f000185",
+        "sentence": "金魚は喜びますよ。",
+        "sentence_with_furigana": "金魚[きんぎょ]は 喜[よろこ]びますよ。"
+    },
+    {
+        "id": "f000186",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000187",
+        "sentence": "おじいさんはいいました。",
+        "sentence_with_furigana": "おじいさんはいいました。"
+    },
+    {
+        "id": "f000188",
+        "sentence": "子供は、",
+        "sentence_with_furigana": "子供[こども]は、"
+    },
+    {
+        "id": "f000189",
+        "sentence": "円い尾の長い、",
+        "sentence_with_furigana": "円[まる]い 尾[お]の 長[なが]い、"
+    },
+    {
+        "id": "f000190",
+        "sentence": "赤と白のまだらの金魚を買いました。",
+        "sentence_with_furigana": "赤[あか]と 白[しろ]のまだらの 金魚[きんぎょ]を 買[か]いました。"
+    },
+    {
+        "id": "f000191",
+        "sentence": "そのほかにも二、",
+        "sentence_with_furigana": "そのほかにも二、"
+    },
+    {
+        "id": "f000192",
+        "sentence": "三びき買って家の中へ入ろうとして、",
+        "sentence_with_furigana": "三びき 買[か]って 家[うち]の 中[なか]へ 入[はい]ろうとして、"
+    },
+    {
+        "id": "f000193",
+        "sentence": "「おじいさんは、",
+        "sentence_with_furigana": "「おじいさんは、"
+    },
+    {
+        "id": "f000194",
+        "sentence": "また、",
+        "sentence_with_furigana": "また、"
+    },
+    {
+        "id": "f000195",
+        "sentence": "こっちへやってくるの？",
+        "sentence_with_furigana": "こっちへやってくるの？"
+    },
+    {
+        "id": "f000196",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000197",
+        "sentence": "少年は聞きました。",
+        "sentence_with_furigana": "少年[しょうねん]は 聞[き]きました。"
+    },
+    {
+        "id": "f000198",
+        "sentence": "「また、",
+        "sentence_with_furigana": "「また、"
+    },
+    {
+        "id": "f000199",
+        "sentence": "来年きますよ。",
+        "sentence_with_furigana": "来年[らいねん]きますよ。"
+    },
+    {
+        "id": "f000200",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、"
+    },
+    {
+        "id": "f000201",
+        "sentence": "金魚がじょうぶでいるか、",
+        "sentence_with_furigana": "金魚[きんぎょ]がじょうぶでいるか、"
+    },
+    {
+        "id": "f000202",
+        "sentence": "お家へいってみますよ。",
+        "sentence_with_furigana": "お 家[うち]へいってみますよ。"
+    },
+    {
+        "id": "f000203",
+        "sentence": "」といいました。",
+        "sentence_with_furigana": "」といいました。"
+    },
+    {
+        "id": "f000204",
+        "sentence": "少年は、",
+        "sentence_with_furigana": "少年[しょうねん]は、"
+    },
+    {
+        "id": "f000205",
+        "sentence": "うれしそうにして、",
+        "sentence_with_furigana": "うれしそうにして、"
+    },
+    {
+        "id": "f000206",
+        "sentence": "金魚をいれ物にいれて、",
+        "sentence_with_furigana": "金魚[きんぎょ]をいれ 物[もの]にいれて、"
+    },
+    {
+        "id": "f000207",
+        "sentence": "家へはいりました。",
+        "sentence_with_furigana": "家[うち]へはいりました。"
+    },
+    {
+        "id": "f000208",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、"
+    },
+    {
+        "id": "f000209",
+        "sentence": "かわいがっていた金魚の行く末をおもいながら、",
+        "sentence_with_furigana": "かわいがっていた 金魚[きんぎょ]の 行[ゆ]く 末[すえ]をおもいながら、"
+    },
+    {
+        "id": "f000210",
+        "sentence": "人のよさそうな顔に笑いをたたえて、",
+        "sentence_with_furigana": "人[ひと]のよさそうな 顔[かお]に 笑[わら]いをたたえて、"
+    },
+    {
+        "id": "f000211",
+        "sentence": "荷をかつぐと子供のはいった家の方を見かえりながら去ったのでした。",
+        "sentence_with_furigana": "荷[に]をかつぐと 子供[こども]のはいった 家[うち]の 方[ほう]を 見[み]かえりながら 去[さ]ったのでした。"
+    },
+    {
+        "id": "f000212",
+        "sentence": "「金魚やい、",
+        "sentence_with_furigana": "「 金魚[きんぎょ]やい、"
+    },
+    {
+        "id": "f000213",
+        "sentence": "金魚やい——",
+        "sentence_with_furigana": "金魚[きんぎょ]やい——"
+    },
+    {
+        "id": "f000214",
+        "sentence": "。」という声が、",
+        "sentence_with_furigana": "。」という 声[こえ]が、"
+    },
+    {
+        "id": "f000215",
+        "sentence": "だんだん遠ざかってゆきました。",
+        "sentence_with_furigana": "だんだん 遠[とお]ざかってゆきました。"
+    },
+    {
+        "id": "f000216",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、"
+    },
+    {
+        "id": "f000217",
+        "sentence": "それから、",
+        "sentence_with_furigana": "それから、"
+    },
+    {
+        "id": "f000218",
+        "sentence": "いろいろの町を歩き、",
+        "sentence_with_furigana": "いろいろの 町[まち]を 歩[ある]き、"
+    },
+    {
+        "id": "f000219",
+        "sentence": "また村をまわって、",
+        "sentence_with_furigana": "また 村[むら]をまわって、"
+    },
+    {
+        "id": "f000220",
+        "sentence": "春から、",
+        "sentence_with_furigana": "春[はる]から、"
+    },
+    {
+        "id": "f000221",
+        "sentence": "夏へと呼び歩いたのです。",
+        "sentence_with_furigana": "夏[なつ]へと 呼[よ]び 歩[ある]いたのです。"
+    },
+    {
+        "id": "f000222",
+        "sentence": "こうして、",
+        "sentence_with_furigana": "こうして、"
+    },
+    {
+        "id": "f000223",
+        "sentence": "自分の育てた金魚は、",
+        "sentence_with_furigana": "自分[じぶん]の 育[そだ]てた 金魚[きんぎょ]は、"
+    },
+    {
+        "id": "f000224",
+        "sentence": "方々の家へ買われてゆきました。",
+        "sentence_with_furigana": "方々[ほうぼう]の 家[うち]へ 買[か]われてゆきました。"
+    },
+    {
+        "id": "f000225",
+        "sentence": "おじいさんから、",
+        "sentence_with_furigana": "おじいさんから、"
+    },
+    {
+        "id": "f000226",
+        "sentence": "弱った金魚を買った子供はその金魚をいたわってやりました。",
+        "sentence_with_furigana": "弱[よわ]った 金魚[きんぎょ]を 買[か]った 子供[こども]はその 金魚[きんぎょ]をいたわってやりました。"
+    },
+    {
+        "id": "f000227",
+        "sentence": "金魚は、",
+        "sentence_with_furigana": "金魚[きんぎょ]は、"
+    },
+    {
+        "id": "f000228",
+        "sentence": "急に、",
+        "sentence_with_furigana": "急[きゅう]に、"
+    },
+    {
+        "id": "f000229",
+        "sentence": "みんなから離れて、",
+        "sentence_with_furigana": "みんなから 離[はな]れて、"
+    },
+    {
+        "id": "f000230",
+        "sentence": "さびしくなったけれど、",
+        "sentence_with_furigana": "さびしくなったけれど、"
+    },
+    {
+        "id": "f000231",
+        "sentence": "静かな明るい水の中で、",
+        "sentence_with_furigana": "静[しず]かな 明[あか]るい 水[みず]の 中[なか]で、"
+    },
+    {
+        "id": "f000232",
+        "sentence": "二、",
+        "sentence_with_furigana": "二、"
+    },
+    {
+        "id": "f000233",
+        "sentence": "三の友だちといっしょにおちつくことができたので、",
+        "sentence_with_furigana": "三の 友[とも]だちといっしょにおちつくことができたので、"
+    },
+    {
+        "id": "f000234",
+        "sentence": "だんだん元気を恢復してきました。",
+        "sentence_with_furigana": "だんだん 元気[げんき]を 恢復[かいふく]してきました。"
+    },
+    {
+        "id": "f000235",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、"
+    },
+    {
+        "id": "f000236",
+        "sentence": "五日たち、",
+        "sentence_with_furigana": "五日[いつか]たち、"
+    },
+    {
+        "id": "f000237",
+        "sentence": "七日たつうちに、",
+        "sentence_with_furigana": "七日[なのか]たつうちに、"
+    },
+    {
+        "id": "f000238",
+        "sentence": "もとのじょうぶな体となったのであります。",
+        "sentence_with_furigana": "もとのじょうぶな 体[からだ]となったのであります。"
+    },
+    {
+        "id": "f000239",
+        "sentence": "金魚は、",
+        "sentence_with_furigana": "金魚[きんぎょ]は、"
+    },
+    {
+        "id": "f000240",
+        "sentence": "水の中から、",
+        "sentence_with_furigana": "水[みず]の 中[なか]から、"
+    },
+    {
+        "id": "f000241",
+        "sentence": "庭さきに、",
+        "sentence_with_furigana": "庭[にわ]さきに、"
+    },
+    {
+        "id": "f000242",
+        "sentence": "いろいろの咲いた花をながめました。",
+        "sentence_with_furigana": "いろいろの 咲[さ]いた 花[はな]をながめました。"
+    },
+    {
+        "id": "f000243",
+        "sentence": "また、",
+        "sentence_with_furigana": "また、"
+    },
+    {
+        "id": "f000244",
+        "sentence": "ある夜はやわらかに照らす月の光をながめました。",
+        "sentence_with_furigana": "ある 夜[よ]はやわらかに 照[て]らす 月[つき]の 光[ひかり]をながめました。"
+    },
+    {
+        "id": "f000245",
+        "sentence": "自分たちをかわいがってくれた、",
+        "sentence_with_furigana": "自分[じぶん]たちをかわいがってくれた、"
+    },
+    {
+        "id": "f000246",
+        "sentence": "おじいさんの顔はふたたび、",
+        "sentence_with_furigana": "おじいさんの 顔[かお]はふたたび、"
+    },
+    {
+        "id": "f000247",
+        "sentence": "見ることはなかったけれど、",
+        "sentence_with_furigana": "見[み]ることはなかったけれど、"
+    },
+    {
+        "id": "f000248",
+        "sentence": "少年は毎日のように、",
+        "sentence_with_furigana": "少年[しょうねん]は 毎日[まいまち]のように、"
+    },
+    {
+        "id": "f000249",
+        "sentence": "水の中をのぞいて、",
+        "sentence_with_furigana": "水[みず]の 中[なか]をのぞいて、"
+    },
+    {
+        "id": "f000250",
+        "sentence": "餌をくれたり、",
+        "sentence_with_furigana": "餌[え]をくれたり、"
+    },
+    {
+        "id": "f000251",
+        "sentence": "新しい水をいれてくれたり、",
+        "sentence_with_furigana": "新[あたら]しい 水[みず]をいれてくれたり、"
+    },
+    {
+        "id": "f000252",
+        "sentence": "しんせつにしてくれたのであります。",
+        "sentence_with_furigana": "しんせつにしてくれたのであります。"
+    },
+    {
+        "id": "f000253",
+        "sentence": "金魚は、",
+        "sentence_with_furigana": "金魚[きんぎょ]は、"
+    },
+    {
+        "id": "f000254",
+        "sentence": "だんだんおじいさんのことを忘れるようになりました。",
+        "sentence_with_furigana": "だんだんおじいさんのことを 忘[わす]れるようになりました。"
+    },
+    {
+        "id": "f000255",
+        "sentence": "夏が過ぎ、",
+        "sentence_with_furigana": "夏[なつ]が 過[す]ぎ、"
+    },
+    {
+        "id": "f000256",
+        "sentence": "秋が逝き、",
+        "sentence_with_furigana": "秋[あき]が 逝[ゆ]き、"
+    },
+    {
+        "id": "f000257",
+        "sentence": "冬となり、",
+        "sentence_with_furigana": "冬[ふゆ]となり、"
+    },
+    {
+        "id": "f000258",
+        "sentence": "そしてまた、",
+        "sentence_with_furigana": "そしてまた、"
+    },
+    {
+        "id": "f000259",
+        "sentence": "春がめぐってきました。",
+        "sentence_with_furigana": "春[はる]がめぐってきました。"
+    },
+    {
+        "id": "f000260",
+        "sentence": "ある日のこと、",
+        "sentence_with_furigana": "ある 日[ひ]のこと、"
+    },
+    {
+        "id": "f000261",
+        "sentence": "少年は、",
+        "sentence_with_furigana": "少年[しょうねん]は、"
+    },
+    {
+        "id": "f000262",
+        "sentence": "外にあって、",
+        "sentence_with_furigana": "外[そと]にあって、"
+    },
+    {
+        "id": "f000263",
+        "sentence": "「金魚やい、",
+        "sentence_with_furigana": "「 金魚[きんぎょ]やい、"
+    },
+    {
+        "id": "f000264",
+        "sentence": "金魚やい——",
+        "sentence_with_furigana": "金魚[きんぎょ]やい——"
+    },
+    {
+        "id": "f000265",
+        "sentence": "。」と、",
+        "sentence_with_furigana": "。」と、"
+    },
+    {
+        "id": "f000266",
+        "sentence": "いう呼び声を聞いたのです。",
+        "sentence_with_furigana": "いう 呼[よ]び 声[ごえ]を 聞[き]いたのです。"
+    },
+    {
+        "id": "f000267",
+        "sentence": "「金魚売りがきた……。",
+        "sentence_with_furigana": "「 金魚[きんぎょ] 売[う]りがきた……。"
+    },
+    {
+        "id": "f000268",
+        "sentence": "」といって、",
+        "sentence_with_furigana": "」といって、"
+    },
+    {
+        "id": "f000269",
+        "sentence": "彼は、",
+        "sentence_with_furigana": "彼[かれ]は、"
+    },
+    {
+        "id": "f000270",
+        "sentence": "すぐに、",
+        "sentence_with_furigana": "すぐに、"
+    },
+    {
+        "id": "f000271",
+        "sentence": "家の外へ飛び出てみました。",
+        "sentence_with_furigana": "家[うち]の 外[そと]へ 飛[と]び 出[で]てみました。"
+    },
+    {
+        "id": "f000272",
+        "sentence": "心のうちで待っていた、",
+        "sentence_with_furigana": "心[こころ]のうちで 待[ま]っていた、"
+    },
+    {
+        "id": "f000273",
+        "sentence": "去年金魚を買ったおじいさんでありました。",
+        "sentence_with_furigana": "去年[きょねん] 金魚[きんぎょ]を 買[か]ったおじいさんでありました。"
+    },
+    {
+        "id": "f000274",
+        "sentence": "顔を見ると、",
+        "sentence_with_furigana": "顔[かお]を 見[み]ると、"
+    },
+    {
+        "id": "f000275",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、"
+    },
+    {
+        "id": "f000276",
+        "sentence": "にっこり笑いました。",
+        "sentence_with_furigana": "にっこり 笑[わら]いました。"
+    },
+    {
+        "id": "f000277",
+        "sentence": "「坊ちゃん、",
+        "sentence_with_furigana": "「 坊[ぼっ]ちゃん、"
+    },
+    {
+        "id": "f000278",
+        "sentence": "去年の金魚は達者ですか？",
+        "sentence_with_furigana": "去年[きょねん]の 金魚[きんぎょ]は 達者[たっしゃ]ですか？"
+    },
+    {
+        "id": "f000279",
+        "sentence": "」と聞きました。",
+        "sentence_with_furigana": "」と 聞[き]きました。"
+    },
+    {
+        "id": "f000280",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、"
+    },
+    {
+        "id": "f000281",
+        "sentence": "この子供が、",
+        "sentence_with_furigana": "この 子供[こども]が、"
+    },
+    {
+        "id": "f000282",
+        "sentence": "弱った金魚を大事に育てようといって、",
+        "sentence_with_furigana": "弱[よわ]った 金魚[きんぎょ]を 大事[だいじ]に 育[そだ]てようといって、"
+    },
+    {
+        "id": "f000283",
+        "sentence": "買ったことを忘れなかったのです。",
+        "sentence_with_furigana": "買[か]ったことを 忘[わす]れなかったのです。"
+    },
+    {
+        "id": "f000284",
+        "sentence": "「おじいさん、",
+        "sentence_with_furigana": "「おじいさん、"
+    },
+    {
+        "id": "f000285",
+        "sentence": "金魚は、",
+        "sentence_with_furigana": "金魚[きんぎょ]は、"
+    },
+    {
+        "id": "f000286",
+        "sentence": "みんなじょうぶで、",
+        "sentence_with_furigana": "みんなじょうぶで、"
+    },
+    {
+        "id": "f000287",
+        "sentence": "大きくなりましたよ。",
+        "sentence_with_furigana": "大[おお]きくなりましたよ。"
+    },
+    {
+        "id": "f000288",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000289",
+        "sentence": "少年は答えました。",
+        "sentence_with_furigana": "少年[しょうねん]は 答[こた]えました。"
+    },
+    {
+        "id": "f000290",
+        "sentence": "「どれ、",
+        "sentence_with_furigana": "「どれ、"
+    },
+    {
+        "id": "f000291",
+        "sentence": "どれ、",
+        "sentence_with_furigana": "どれ、"
+    },
+    {
+        "id": "f000292",
+        "sentence": "私に見せてください。",
+        "sentence_with_furigana": "私[わたし]に 見[み]せてください。"
+    },
+    {
+        "id": "f000293",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000294",
+        "sentence": "いって、",
+        "sentence_with_furigana": "いって、"
+    },
+    {
+        "id": "f000295",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、"
+    },
+    {
+        "id": "f000296",
+        "sentence": "山吹の花の咲いている庭さきへまわって、",
+        "sentence_with_furigana": "山吹[やまぶき]の 花[はな]の 咲[さ]いている 庭[にわ]さきへまわって、"
+    },
+    {
+        "id": "f000297",
+        "sentence": "金魚のはいっている大きな鉢をのぞきました。",
+        "sentence_with_furigana": "金魚[きんぎょ]のはいっている 大[おお]きな 鉢[はち]をのぞきました。"
+    },
+    {
+        "id": "f000298",
+        "sentence": "「よう、",
+        "sentence_with_furigana": "「よう、"
+    },
+    {
+        "id": "f000299",
+        "sentence": "よう、",
+        "sentence_with_furigana": "よう、"
+    },
+    {
+        "id": "f000300",
+        "sentence": "大きくなった。",
+        "sentence_with_furigana": "大[おお]きくなった。"
+    },
+    {
+        "id": "f000301",
+        "sentence": "」といって、",
+        "sentence_with_furigana": "」といって、"
+    },
+    {
+        "id": "f000302",
+        "sentence": "おじいさんは喜びました。",
+        "sentence_with_furigana": "おじいさんは 喜[よろこ]びました。"
+    },
+    {
+        "id": "f000303",
+        "sentence": "少年は、",
+        "sentence_with_furigana": "少年[しょうねん]は、"
+    },
+    {
+        "id": "f000304",
+        "sentence": "おじいさんから、",
+        "sentence_with_furigana": "おじいさんから、"
+    },
+    {
+        "id": "f000305",
+        "sentence": "二ひき金魚を買いました。",
+        "sentence_with_furigana": "二ひき 金魚[きんぎょ]を 買[か]いました。"
+    },
+    {
+        "id": "f000306",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、"
+    },
+    {
+        "id": "f000307",
+        "sentence": "別に一ぴきいい金魚をくれたのです。",
+        "sentence_with_furigana": "別[べつ]に一ぴきいい 金魚[きんぎょ]をくれたのです。"
+    },
+    {
+        "id": "f000308",
+        "sentence": "「おじいさん、",
+        "sentence_with_furigana": "「おじいさん、"
+    },
+    {
+        "id": "f000309",
+        "sentence": "また来年こっちへくるの？",
+        "sentence_with_furigana": "また 来年[らいねん]こっちへくるの？"
+    },
+    {
+        "id": "f000310",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000311",
+        "sentence": "別れる時分に、",
+        "sentence_with_furigana": "別[わか]れる 時分[じぶん]に、"
+    },
+    {
+        "id": "f000312",
+        "sentence": "少年が聞きました。",
+        "sentence_with_furigana": "少年[しょうねん]が 聞[き]きました。"
+    },
+    {
+        "id": "f000313",
+        "sentence": "「坊ちゃん、",
+        "sentence_with_furigana": "「 坊[ぼっ]ちゃん、"
+    },
+    {
+        "id": "f000314",
+        "sentence": "達者でしたら、",
+        "sentence_with_furigana": "達者[たっしゃ]でしたら、"
+    },
+    {
+        "id": "f000315",
+        "sentence": "また、",
+        "sentence_with_furigana": "また、"
+    },
+    {
+        "id": "f000316",
+        "sentence": "まいりますよ。",
+        "sentence_with_furigana": "まいりますよ。"
+    },
+    {
+        "id": "f000317",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000318",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、"
+    },
+    {
+        "id": "f000319",
+        "sentence": "答えました。",
+        "sentence_with_furigana": "答[こた]えました。"
+    },
+    {
+        "id": "f000320",
+        "sentence": "けれどかならずくるとはいいませんでした。",
+        "sentence_with_furigana": "けれどかならずくるとはいいませんでした。"
+    },
+    {
+        "id": "f000321",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、"
+    },
+    {
+        "id": "f000322",
+        "sentence": "年を取ったから、",
+        "sentence_with_furigana": "年[とし]を 取[と]ったから、"
+    },
+    {
+        "id": "f000323",
+        "sentence": "もうこうして歩くのは難儀となって、",
+        "sentence_with_furigana": "もうこうして 歩[ある]くのは 難儀[なんぎ]となって、"
+    },
+    {
+        "id": "f000324",
+        "sentence": "静かに、",
+        "sentence_with_furigana": "静[しず]かに、"
+    },
+    {
+        "id": "f000325",
+        "sentence": "故郷の圃でばらの花を造って暮らしたいと思っていたからであります。",
+        "sentence_with_furigana": "故郷[こきょう]の 圃[はたけ]でばらの 花[はな]を 造[つく]って 暮[く]らしたいと 思[おも]っていたからであります。"
+    }
+]

@@ -1,0 +1,987 @@
+[
+    {
+        "id": "f000001",
+        "sentence": "ハンス・クリスチャン・アンデルセン　Hans Christian Andersen　作",
+        "sentence_with_furigana": "ハンス・クリスチャン・アンデルセン　Hans Christian Andersen　作"
+    },
+    {
+        "id": "f000002",
+        "sentence": "大久保ゆう訳",
+        "sentence_with_furigana": "大久保ゆう訳"
+    },
+    {
+        "id": "f000003",
+        "sentence": "マッチ売りの少女",
+        "sentence_with_furigana": "マッチ売りの少女"
+    },
+    {
+        "id": "f000004",
+        "sentence": "それは、",
+        "sentence_with_furigana": "それは、"
+    },
+    {
+        "id": "f000005",
+        "sentence": "ひどく寒いおおみそかの夜のことでした。",
+        "sentence_with_furigana": "ひどく寒いおおみそかの夜のことでした。"
+    },
+    {
+        "id": "f000006",
+        "sentence": "あたりはもうまっくらで、",
+        "sentence_with_furigana": "あたりはもうまっくらで、"
+    },
+    {
+        "id": "f000007",
+        "sentence": "こんこんと雪が降っていました。",
+        "sentence_with_furigana": "こんこんと雪が降っていました。"
+    },
+    {
+        "id": "f000008",
+        "sentence": "寒い夜の中、",
+        "sentence_with_furigana": "寒い夜の中、"
+    },
+    {
+        "id": "f000009",
+        "sentence": "みすぼらしい一人の少女が歩いていました。",
+        "sentence_with_furigana": "みすぼらしい一人の少女が歩いていました。"
+    },
+    {
+        "id": "f000010",
+        "sentence": "ぼうしもかぶらず、",
+        "sentence_with_furigana": "ぼうしもかぶらず、"
+    },
+    {
+        "id": "f000011",
+        "sentence": "はだしでしたが、",
+        "sentence_with_furigana": "はだしでしたが、"
+    },
+    {
+        "id": "f000012",
+        "sentence": "どこへ行くというわけでもありません。",
+        "sentence_with_furigana": "どこへ行くというわけでもありません。"
+    },
+    {
+        "id": "f000013",
+        "sentence": "行くあてがないのです。",
+        "sentence_with_furigana": "行くあてがないのです。"
+    },
+    {
+        "id": "f000014",
+        "sentence": "ほんとうは家を出るときに一足の木ぐつをはいていました。",
+        "sentence_with_furigana": "ほんとうは家を出るときに一足の木ぐつをはいていました。"
+    },
+    {
+        "id": "f000015",
+        "sentence": "でも、",
+        "sentence_with_furigana": "でも、"
+    },
+    {
+        "id": "f000016",
+        "sentence": "サイズが大きくぶかぶかで、",
+        "sentence_with_furigana": "サイズが大きくぶかぶかで、"
+    },
+    {
+        "id": "f000017",
+        "sentence": "役に立ちませんでした。",
+        "sentence_with_furigana": "役に立ちませんでした。"
+    },
+    {
+        "id": "f000018",
+        "sentence": "実はお母さんのものだったので無理もありません。",
+        "sentence_with_furigana": "実はお母さんのものだったので無理もありません。"
+    },
+    {
+        "id": "f000019",
+        "sentence": "道路をわたるときに、",
+        "sentence_with_furigana": "道路をわたるときに、"
+    },
+    {
+        "id": "f000020",
+        "sentence": "二台の馬車がとんでもない速さで走ってきたのです。",
+        "sentence_with_furigana": "二台の馬車がとんでもない速さで走ってきたのです。"
+    },
+    {
+        "id": "f000021",
+        "sentence": "少女は馬車をよけようとして、",
+        "sentence_with_furigana": "少女は馬車をよけようとして、"
+    },
+    {
+        "id": "f000022",
+        "sentence": "木ぐつをなくしてしまいました。",
+        "sentence_with_furigana": "木ぐつをなくしてしまいました。"
+    },
+    {
+        "id": "f000023",
+        "sentence": "木ぐつの片方は見つかりませんでした。",
+        "sentence_with_furigana": "木ぐつの片方は見つかりませんでした。"
+    },
+    {
+        "id": "f000024",
+        "sentence": "もう片方は若者がすばやくひろって、",
+        "sentence_with_furigana": "もう片方は若者がすばやくひろって、"
+    },
+    {
+        "id": "f000025",
+        "sentence": "「子供ができたときに、",
+        "sentence_with_furigana": "「子供ができたときに、"
+    },
+    {
+        "id": "f000026",
+        "sentence": "ゆりかごの代わりになる。",
+        "sentence_with_furigana": "ゆりかごの代わりになる。"
+    },
+    {
+        "id": "f000027",
+        "sentence": "」と言って、",
+        "sentence_with_furigana": "」と言って、"
+    },
+    {
+        "id": "f000028",
+        "sentence": "持ちさってしまいました。",
+        "sentence_with_furigana": "持ちさってしまいました。"
+    },
+    {
+        "id": "f000029",
+        "sentence": "だから少女はその小さなあんよに何もはかないままでした。",
+        "sentence_with_furigana": "だから少女はその小さなあんよに何もはかないままでした。"
+    },
+    {
+        "id": "f000030",
+        "sentence": "あんよは寒さのために赤くはれて、",
+        "sentence_with_furigana": "あんよは寒さのために赤くはれて、"
+    },
+    {
+        "id": "f000031",
+        "sentence": "青じんでいます。",
+        "sentence_with_furigana": "青じんでいます。"
+    },
+    {
+        "id": "f000032",
+        "sentence": "少女の古びたエプロンの中にはたくさんのマッチが入っています。",
+        "sentence_with_furigana": "少女の古びたエプロンの中にはたくさんのマッチが入っています。"
+    },
+    {
+        "id": "f000033",
+        "sentence": "手の中にも一箱持っていました。",
+        "sentence_with_furigana": "手の中にも一箱持っていました。"
+    },
+    {
+        "id": "f000034",
+        "sentence": "一日中売り歩いても、",
+        "sentence_with_furigana": "一日中売り歩いても、"
+    },
+    {
+        "id": "f000035",
+        "sentence": "買ってくれる人も、",
+        "sentence_with_furigana": "買ってくれる人も、"
+    },
+    {
+        "id": "f000036",
+        "sentence": "一枚の銅貨すらくれる人もいませんでした。",
+        "sentence_with_furigana": "一枚の 銅貨[どうか]すらくれる人もいませんでした。"
+    },
+    {
+        "id": "f000037",
+        "sentence": "少女はおなかがへりました。",
+        "sentence_with_furigana": "少女はおなかがへりました。"
+    },
+    {
+        "id": "f000038",
+        "sentence": "寒さにぶるぶるふるえながらゆっくり歩いていました。",
+        "sentence_with_furigana": "寒さにぶるぶるふるえながらゆっくり歩いていました。"
+    },
+    {
+        "id": "f000039",
+        "sentence": "それはみすぼらしいと言うよりも、",
+        "sentence_with_furigana": "それはみすぼらしいと言うよりも、"
+    },
+    {
+        "id": "f000040",
+        "sentence": "あわれでした。",
+        "sentence_with_furigana": "あわれでした。"
+    },
+    {
+        "id": "f000041",
+        "sentence": "少女の肩でカールしている長い金色のかみの毛に、",
+        "sentence_with_furigana": "少女の肩でカールしている長い金色のかみの毛に、"
+    },
+    {
+        "id": "f000042",
+        "sentence": "雪のかけらがぴゅうぴゅうと降りかかっていました。",
+        "sentence_with_furigana": "雪のかけらがぴゅうぴゅうと降りかかっていました。"
+    },
+    {
+        "id": "f000043",
+        "sentence": "でも、",
+        "sentence_with_furigana": "でも、"
+    },
+    {
+        "id": "f000044",
+        "sentence": "少女はそんなことに気付いていませんでした。",
+        "sentence_with_furigana": "少女はそんなことに気付いていませんでした。"
+    },
+    {
+        "id": "f000045",
+        "sentence": "どの家のまども明かりがあかあかとついていて、",
+        "sentence_with_furigana": "どの家のまども明かりがあかあかとついていて、"
+    },
+    {
+        "id": "f000046",
+        "sentence": "おなかがグゥとなりそうなガチョウの丸焼きのにおいがします。",
+        "sentence_with_furigana": "おなかがグゥとなりそうなガチョウの丸焼きのにおいがします。"
+    },
+    {
+        "id": "f000047",
+        "sentence": "そっか、",
+        "sentence_with_furigana": "そっか、"
+    },
+    {
+        "id": "f000048",
+        "sentence": "今日はおおみそかなんだ、",
+        "sentence_with_furigana": "今日はおおみそかなんだ、"
+    },
+    {
+        "id": "f000049",
+        "sentence": "と少女は思いました。",
+        "sentence_with_furigana": "と少女は思いました。"
+    },
+    {
+        "id": "f000050",
+        "sentence": "一つの家がとなりの家よりも通りに出ていて、",
+        "sentence_with_furigana": "一つの家がとなりの家よりも通りに出ていて、"
+    },
+    {
+        "id": "f000051",
+        "sentence": "影になっている場所がありました。",
+        "sentence_with_furigana": "影になっている場所がありました。"
+    },
+    {
+        "id": "f000052",
+        "sentence": "地べたに少女はぐったりと座りこんで、",
+        "sentence_with_furigana": "地べたに少女はぐったりと座りこんで、"
+    },
+    {
+        "id": "f000053",
+        "sentence": "身をちぢめて丸くなりました。",
+        "sentence_with_furigana": "身をちぢめて丸くなりました。"
+    },
+    {
+        "id": "f000054",
+        "sentence": "小さなあんよをぎゅっと引きよせましたが、",
+        "sentence_with_furigana": "小さなあんよをぎゅっと引きよせましたが、"
+    },
+    {
+        "id": "f000055",
+        "sentence": "寒さをしのぐことはできません。",
+        "sentence_with_furigana": "寒さをしのぐことはできません。"
+    },
+    {
+        "id": "f000056",
+        "sentence": "少女には、",
+        "sentence_with_furigana": "少女には、"
+    },
+    {
+        "id": "f000057",
+        "sentence": "家に帰る勇気はありませんでした。",
+        "sentence_with_furigana": "家に帰る勇気はありませんでした。"
+    },
+    {
+        "id": "f000058",
+        "sentence": "なぜなら、",
+        "sentence_with_furigana": "なぜなら、"
+    },
+    {
+        "id": "f000059",
+        "sentence": "マッチが一箱も売れていないので、",
+        "sentence_with_furigana": "マッチが一箱も売れていないので、"
+    },
+    {
+        "id": "f000060",
+        "sentence": "一枚の銅貨さえ家に持ち帰ることができないのですから。",
+        "sentence_with_furigana": "一枚の銅貨さえ家に持ち帰ることができないのですから。"
+    },
+    {
+        "id": "f000061",
+        "sentence": "するとお父さんはぜったいほっぺをぶつにちがいありません。",
+        "sentence_with_furigana": "するとお父さんはぜったいほっぺをぶつにちがいありません。"
+    },
+    {
+        "id": "f000062",
+        "sentence": "ここも家も寒いのには変わりないのです、",
+        "sentence_with_furigana": "ここも家も寒いのには変わりないのです、"
+    },
+    {
+        "id": "f000063",
+        "sentence": "あそこは屋根があるだけ。",
+        "sentence_with_furigana": "あそこは屋根があるだけ。"
+    },
+    {
+        "id": "f000064",
+        "sentence": "その屋根だって、",
+        "sentence_with_furigana": "その屋根だって、"
+    },
+    {
+        "id": "f000065",
+        "sentence": "大きな穴があいていて、",
+        "sentence_with_furigana": "大きな穴があいていて、"
+    },
+    {
+        "id": "f000066",
+        "sentence": "すきま風をわらとぼろ布でふさいであるだけ。",
+        "sentence_with_furigana": "すきま風をわらとぼろ布でふさいであるだけ。"
+    },
+    {
+        "id": "f000067",
+        "sentence": "小さな少女の手は今にもこごえそうでした。",
+        "sentence_with_furigana": "小さな少女の手は今にもこごえそうでした。"
+    },
+    {
+        "id": "f000068",
+        "sentence": "そうです！",
+        "sentence_with_furigana": "そうです！"
+    },
+    {
+        "id": "f000069",
+        "sentence": "マッチの火が役に立つかもしれません。",
+        "sentence_with_furigana": "マッチの火が役に立つかもしれません。"
+    },
+    {
+        "id": "f000070",
+        "sentence": "マッチを箱から取り出して、",
+        "sentence_with_furigana": "マッチを箱から取り出して、"
+    },
+    {
+        "id": "f000071",
+        "sentence": "カベでこすれば手があたたまるかもしれません。",
+        "sentence_with_furigana": "カベでこすれば手があたたまるかもしれません。"
+    },
+    {
+        "id": "f000072",
+        "sentence": "少女は一本マッチを取り出して──「シュッ！",
+        "sentence_with_furigana": "少女は一本マッチを取り出して──「シュッ！"
+    },
+    {
+        "id": "f000073",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000074",
+        "sentence": "こすると、",
+        "sentence_with_furigana": "こすると、"
+    },
+    {
+        "id": "f000075",
+        "sentence": "マッチがメラメラもえだしました！",
+        "sentence_with_furigana": "マッチがメラメラもえだしました！"
+    },
+    {
+        "id": "f000076",
+        "sentence": "あたたかくて、",
+        "sentence_with_furigana": "あたたかくて、"
+    },
+    {
+        "id": "f000077",
+        "sentence": "明るくて、",
+        "sentence_with_furigana": "明るくて、"
+    },
+    {
+        "id": "f000078",
+        "sentence": "小さなロウソクみたいに少女の手の中でもえるのです。",
+        "sentence_with_furigana": "小さなロウソクみたいに少女の手の中でもえるのです。"
+    },
+    {
+        "id": "f000079",
+        "sentence": "本当にふしぎな火でした。",
+        "sentence_with_furigana": "本当にふしぎな火でした。"
+    },
+    {
+        "id": "f000080",
+        "sentence": "まるで、",
+        "sentence_with_furigana": "まるで、"
+    },
+    {
+        "id": "f000081",
+        "sentence": "大きな鉄のだるまストーブの前にいるみたいでした、",
+        "sentence_with_furigana": "大きな鉄のだるまストーブの前にいるみたいでした、"
+    },
+    {
+        "id": "f000082",
+        "sentence": "いえ、",
+        "sentence_with_furigana": "いえ、"
+    },
+    {
+        "id": "f000083",
+        "sentence": "本当にいたのです。",
+        "sentence_with_furigana": "本当にいたのです。"
+    },
+    {
+        "id": "f000084",
+        "sentence": "目の前にはぴかぴかの金属の足とふたのついた、",
+        "sentence_with_furigana": "目の前にはぴかぴかの 金属[きんぞく]の足とふたのついた、"
+    },
+    {
+        "id": "f000085",
+        "sentence": "だるまストーブがあるのです。",
+        "sentence_with_furigana": "だるまストーブがあるのです。"
+    },
+    {
+        "id": "f000086",
+        "sentence": "とてもあたたかい火がすぐ近くにあるのです。",
+        "sentence_with_furigana": "とてもあたたかい火がすぐ近くにあるのです。"
+    },
+    {
+        "id": "f000087",
+        "sentence": "少女はもっとあたたまろうと、",
+        "sentence_with_furigana": "少女はもっとあたたまろうと、"
+    },
+    {
+        "id": "f000088",
+        "sentence": "だるまストーブの方へ足をのばしました。",
+        "sentence_with_furigana": "だるまストーブの方へ足をのばしました。"
+    },
+    {
+        "id": "f000089",
+        "sentence": "と、",
+        "sentence_with_furigana": "と、"
+    },
+    {
+        "id": "f000090",
+        "sentence": "そのとき！",
+        "sentence_with_furigana": "そのとき！"
+    },
+    {
+        "id": "f000091",
+        "sentence": "マッチの火は消えて、",
+        "sentence_with_furigana": "マッチの火は消えて、"
+    },
+    {
+        "id": "f000092",
+        "sentence": "だるまストーブもパッとなくなってしまい、",
+        "sentence_with_furigana": "だるまストーブもパッとなくなってしまい、"
+    },
+    {
+        "id": "f000093",
+        "sentence": "手の中に残ったのはマッチのもえかすだけでした。",
+        "sentence_with_furigana": "手の中に残ったのはマッチのもえかすだけでした。"
+    },
+    {
+        "id": "f000094",
+        "sentence": "少女はべつのマッチをかべでこすりました。",
+        "sentence_with_furigana": "少女はべつのマッチをかべでこすりました。"
+    },
+    {
+        "id": "f000095",
+        "sentence": "すると、",
+        "sentence_with_furigana": "すると、"
+    },
+    {
+        "id": "f000096",
+        "sentence": "火はいきおいよくもえだしました。",
+        "sentence_with_furigana": "火はいきおいよくもえだしました。"
+    },
+    {
+        "id": "f000097",
+        "sentence": "光がとてもまぶしくて、",
+        "sentence_with_furigana": "光がとてもまぶしくて、"
+    },
+    {
+        "id": "f000098",
+        "sentence": "かべがヴェールのようにすき通ったかと思うと、",
+        "sentence_with_furigana": "かべがヴェールのようにすき通ったかと思うと、"
+    },
+    {
+        "id": "f000099",
+        "sentence": "いつのまにか部屋の中にいました。",
+        "sentence_with_furigana": "いつのまにか部屋の中にいました。"
+    },
+    {
+        "id": "f000100",
+        "sentence": "テーブルには雪のように白いテーブルクロスがかかっていて、",
+        "sentence_with_furigana": "テーブルには雪のように白いテーブルクロスがかかっていて、"
+    },
+    {
+        "id": "f000101",
+        "sentence": "上にごうかな銀食器、",
+        "sentence_with_furigana": "上にごうかな銀食器、"
+    },
+    {
+        "id": "f000102",
+        "sentence": "ガチョウの丸焼きがのっていました。",
+        "sentence_with_furigana": "ガチョウの丸焼きがのっていました。"
+    },
+    {
+        "id": "f000103",
+        "sentence": "ガチョウの丸焼きにはリンゴとかんそうモモのつめ物がしてあって、",
+        "sentence_with_furigana": "ガチョウの丸焼きにはリンゴとかんそうモモのつめ物がしてあって、"
+    },
+    {
+        "id": "f000104",
+        "sentence": "湯気が立っていてとてもおいしそうでした。",
+        "sentence_with_furigana": "湯気が立っていてとてもおいしそうでした。"
+    },
+    {
+        "id": "f000105",
+        "sentence": "しかし、",
+        "sentence_with_furigana": "しかし、"
+    },
+    {
+        "id": "f000106",
+        "sentence": "ふしぎなことにそのガチョウが胸にナイフとフォークがささったまま、",
+        "sentence_with_furigana": "ふしぎなことにそのガチョウが 胸[むね]にナイフとフォークがささったまま、"
+    },
+    {
+        "id": "f000107",
+        "sentence": "お皿から飛びおりて、",
+        "sentence_with_furigana": "お皿から飛びおりて、"
+    },
+    {
+        "id": "f000108",
+        "sentence": "ゆかをよちよち歩き出し、",
+        "sentence_with_furigana": "ゆかをよちよち歩き出し、"
+    },
+    {
+        "id": "f000109",
+        "sentence": "少女の方へ向かってきました。",
+        "sentence_with_furigana": "少女の方へ向かってきました。"
+    },
+    {
+        "id": "f000110",
+        "sentence": "そのとき、",
+        "sentence_with_furigana": "そのとき、"
+    },
+    {
+        "id": "f000111",
+        "sentence": "またマッチが消えてしまいました。",
+        "sentence_with_furigana": "またマッチが消えてしまいました。"
+    },
+    {
+        "id": "f000112",
+        "sentence": "よく見ると少女の前には、",
+        "sentence_with_furigana": "よく見ると少女の前には、"
+    },
+    {
+        "id": "f000113",
+        "sentence": "冷たくしめったぶ厚いかべしかありませんでした。",
+        "sentence_with_furigana": "冷たくしめったぶ厚いかべしかありませんでした。"
+    },
+    {
+        "id": "f000114",
+        "sentence": "少女はもう一つマッチをすると、",
+        "sentence_with_furigana": "少女はもう一つマッチをすると、"
+    },
+    {
+        "id": "f000115",
+        "sentence": "今度はあっというまもありませんでした。",
+        "sentence_with_furigana": "今度はあっというまもありませんでした。"
+    },
+    {
+        "id": "f000116",
+        "sentence": "少女はきれいなクリスマスツリーの下に座っていたのです。",
+        "sentence_with_furigana": "少女はきれいなクリスマスツリーの下に座っていたのです。"
+    },
+    {
+        "id": "f000117",
+        "sentence": "ツリーはとても大きく、",
+        "sentence_with_furigana": "ツリーはとても大きく、"
+    },
+    {
+        "id": "f000118",
+        "sentence": "きれいにかざられていました。",
+        "sentence_with_furigana": "きれいにかざられていました。"
+    },
+    {
+        "id": "f000119",
+        "sentence": "それは、",
+        "sentence_with_furigana": "それは、"
+    },
+    {
+        "id": "f000120",
+        "sentence": "少女がガラス戸ごしに見てきた、",
+        "sentence_with_furigana": "少女がガラス戸ごしに見てきた、"
+    },
+    {
+        "id": "f000121",
+        "sentence": "どんなお金持ちの家のツリーよりもきれいでごうかでした。",
+        "sentence_with_furigana": "どんなお金持ちの家のツリーよりもきれいでごうかでした。"
+    },
+    {
+        "id": "f000122",
+        "sentence": "ショーウィンドウの中にあるあざやかな絵みたいに、",
+        "sentence_with_furigana": "ショーウィンドウの中にあるあざやかな絵みたいに、"
+    },
+    {
+        "id": "f000123",
+        "sentence": "ツリーのまわりの何千本もの細長いロウソクが、",
+        "sentence_with_furigana": "ツリーのまわりの何千本もの細長いロウソクが、"
+    },
+    {
+        "id": "f000124",
+        "sentence": "少女の頭の上できらきらしていました。",
+        "sentence_with_furigana": "少女の頭の上できらきらしていました。"
+    },
+    {
+        "id": "f000125",
+        "sentence": "少女が手をのばそうとすると、",
+        "sentence_with_furigana": "少女が手をのばそうとすると、"
+    },
+    {
+        "id": "f000126",
+        "sentence": "マッチはふっと消えてしまいました。",
+        "sentence_with_furigana": "マッチはふっと消えてしまいました。"
+    },
+    {
+        "id": "f000127",
+        "sentence": "たくさんあったクリスマスのロウソクはみんな、",
+        "sentence_with_furigana": "たくさんあったクリスマスのロウソクはみんな、"
+    },
+    {
+        "id": "f000128",
+        "sentence": "ぐんぐん空にのぼっていって、",
+        "sentence_with_furigana": "ぐんぐん空にのぼっていって、"
+    },
+    {
+        "id": "f000129",
+        "sentence": "夜空にちりばめた星たちと見分けがつかなくなってしまいました。",
+        "sentence_with_furigana": "夜空にちりばめた星たちと見分けがつかなくなってしまいました。"
+    },
+    {
+        "id": "f000130",
+        "sentence": "そのとき少女は一すじの流れ星を見つけました。",
+        "sentence_with_furigana": "そのとき少女は一すじの流れ星を見つけました。"
+    },
+    {
+        "id": "f000131",
+        "sentence": "すぅっと黄色い線をえがいています。",
+        "sentence_with_furigana": "すぅっと黄色い線をえがいています。"
+    },
+    {
+        "id": "f000132",
+        "sentence": "「だれかが死ぬんだ……」と、",
+        "sentence_with_furigana": "「だれかが死ぬんだ……」と、"
+    },
+    {
+        "id": "f000133",
+        "sentence": "少女は思いました。",
+        "sentence_with_furigana": "少女は思いました。"
+    },
+    {
+        "id": "f000134",
+        "sentence": "なぜなら、",
+        "sentence_with_furigana": "なぜなら、"
+    },
+    {
+        "id": "f000135",
+        "sentence": "おばあさんが流れ星を見るといつもこう言ったからです。",
+        "sentence_with_furigana": "おばあさんが流れ星を見るといつもこう言ったからです。"
+    },
+    {
+        "id": "f000136",
+        "sentence": "人が死ぬと、",
+        "sentence_with_furigana": "人が死ぬと、"
+    },
+    {
+        "id": "f000137",
+        "sentence": "流れ星が落ちて命が神さまのところへ行く、",
+        "sentence_with_furigana": "流れ星が落ちて命が神さまのところへ行く、"
+    },
+    {
+        "id": "f000138",
+        "sentence": "と言っていました。",
+        "sentence_with_furigana": "と言っていました。"
+    },
+    {
+        "id": "f000139",
+        "sentence": "でも、",
+        "sentence_with_furigana": "でも、"
+    },
+    {
+        "id": "f000140",
+        "sentence": "そのなつかしいおばあさんはもういません。",
+        "sentence_with_furigana": "そのなつかしいおばあさんはもういません。"
+    },
+    {
+        "id": "f000141",
+        "sentence": "少女を愛してくれたたった一人の人はもう死んでいないのです。",
+        "sentence_with_furigana": "少女を愛してくれたたった一人の人はもう死んでいないのです。"
+    },
+    {
+        "id": "f000142",
+        "sentence": "少女はもう一度マッチをすりました。",
+        "sentence_with_furigana": "少女はもう一度マッチをすりました。"
+    },
+    {
+        "id": "f000143",
+        "sentence": "少女のまわりを光がつつみこんでいきます。",
+        "sentence_with_furigana": "少女のまわりを光がつつみこんでいきます。"
+    },
+    {
+        "id": "f000144",
+        "sentence": "前を見ると、",
+        "sentence_with_furigana": "前を見ると、"
+    },
+    {
+        "id": "f000145",
+        "sentence": "光の中におばあさんが立っていました。",
+        "sentence_with_furigana": "光の中におばあさんが立っていました。"
+    },
+    {
+        "id": "f000146",
+        "sentence": "明るくて、",
+        "sentence_with_furigana": "明るくて、"
+    },
+    {
+        "id": "f000147",
+        "sentence": "本当にそこにいるみたいでした。",
+        "sentence_with_furigana": "本当にそこにいるみたいでした。"
+    },
+    {
+        "id": "f000148",
+        "sentence": "むかしと同じように、",
+        "sentence_with_furigana": "むかしと同じように、"
+    },
+    {
+        "id": "f000149",
+        "sentence": "おばあさんはおだやかにやさしく笑っていました。",
+        "sentence_with_furigana": "おばあさんはおだやかにやさしく笑っていました。"
+    },
+    {
+        "id": "f000150",
+        "sentence": "「おばあちゃん！",
+        "sentence_with_furigana": "「おばあちゃん！"
+    },
+    {
+        "id": "f000151",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000152",
+        "sentence": "少女は大声を上げました。",
+        "sentence_with_furigana": "少女は大声を上げました。"
+    },
+    {
+        "id": "f000153",
+        "sentence": "「ねぇ、",
+        "sentence_with_furigana": "「ねぇ、"
+    },
+    {
+        "id": "f000154",
+        "sentence": "わたしをいっしょに連れてってくれるの？",
+        "sentence_with_furigana": "わたしをいっしょに連れてってくれるの？"
+    },
+    {
+        "id": "f000155",
+        "sentence": "でも……マッチがもえつきたら、",
+        "sentence_with_furigana": "でも……マッチがもえつきたら、"
+    },
+    {
+        "id": "f000156",
+        "sentence": "おばあちゃんもどこかへ行っちゃうんでしょ。",
+        "sentence_with_furigana": "おばあちゃんもどこかへ行っちゃうんでしょ。"
+    },
+    {
+        "id": "f000157",
+        "sentence": "あったかいストーブや、",
+        "sentence_with_furigana": "あったかいストーブや、"
+    },
+    {
+        "id": "f000158",
+        "sentence": "ガチョウの丸焼き、",
+        "sentence_with_furigana": "ガチョウの丸焼き、"
+    },
+    {
+        "id": "f000159",
+        "sentence": "大きくてきれいなクリスマスツリーみたいに、",
+        "sentence_with_furigana": "大きくてきれいなクリスマスツリーみたいに、"
+    },
+    {
+        "id": "f000160",
+        "sentence": "パッと消えちゃうんでしょ……」少女はマッチの束を全部だして、",
+        "sentence_with_furigana": "パッと消えちゃうんでしょ……」少女はマッチの 束[たば]を全部だして、"
+    },
+    {
+        "id": "f000161",
+        "sentence": "残らずマッチに火をつけました。",
+        "sentence_with_furigana": "残らずマッチに火をつけました。"
+    },
+    {
+        "id": "f000162",
+        "sentence": "そうしないとおばあさんが消えてしまうからです。",
+        "sentence_with_furigana": "そうしないとおばあさんが消えてしまうからです。"
+    },
+    {
+        "id": "f000163",
+        "sentence": "マッチの光は真昼の太陽よりも明るくなりました。",
+        "sentence_with_furigana": "マッチの光は真昼の太陽よりも明るくなりました。"
+    },
+    {
+        "id": "f000164",
+        "sentence": "赤々ともえました。",
+        "sentence_with_furigana": "赤々ともえました。"
+    },
+    {
+        "id": "f000165",
+        "sentence": "明るくなっても、",
+        "sentence_with_furigana": "明るくなっても、"
+    },
+    {
+        "id": "f000166",
+        "sentence": "おばあさんはいつもと同じでした。",
+        "sentence_with_furigana": "おばあさんはいつもと同じでした。"
+    },
+    {
+        "id": "f000167",
+        "sentence": "昔みたいに少女をうでの中に抱きしめました。",
+        "sentence_with_furigana": "昔みたいに少女をうでの中に抱きしめました。"
+    },
+    {
+        "id": "f000168",
+        "sentence": "そして二人はふわっとうかび上がって、",
+        "sentence_with_furigana": "そして二人はふわっとうかび上がって、"
+    },
+    {
+        "id": "f000169",
+        "sentence": "空の向こうの、",
+        "sentence_with_furigana": "空の向こうの、"
+    },
+    {
+        "id": "f000170",
+        "sentence": "ずっと遠いところにある光の中の方へ、",
+        "sentence_with_furigana": "ずっと遠いところにある光の中の方へ、"
+    },
+    {
+        "id": "f000171",
+        "sentence": "高く高くのぼっていきました。",
+        "sentence_with_furigana": "高く高くのぼっていきました。"
+    },
+    {
+        "id": "f000172",
+        "sentence": "そこには寒さもはらぺこも痛みもありません。",
+        "sentence_with_furigana": "そこには寒さもはらぺこも 痛[いた]みもありません。"
+    },
+    {
+        "id": "f000173",
+        "sentence": "なぜなら、",
+        "sentence_with_furigana": "なぜなら、"
+    },
+    {
+        "id": "f000174",
+        "sentence": "神さまがいるのですから。",
+        "sentence_with_furigana": "神さまがいるのですから。"
+    },
+    {
+        "id": "f000175",
+        "sentence": "朝になると、",
+        "sentence_with_furigana": "朝になると、"
+    },
+    {
+        "id": "f000176",
+        "sentence": "みすぼらしい服を着た少女がかべによりかかって、",
+        "sentence_with_furigana": "みすぼらしい服を着た少女がかべによりかかって、"
+    },
+    {
+        "id": "f000177",
+        "sentence": "動かなくなっていました。",
+        "sentence_with_furigana": "動かなくなっていました。"
+    },
+    {
+        "id": "f000178",
+        "sentence": "ほほは青ざめていましたが、",
+        "sentence_with_furigana": "ほほは青ざめていましたが、"
+    },
+    {
+        "id": "f000179",
+        "sentence": "口もとは笑っていました。",
+        "sentence_with_furigana": "口もとは笑っていました。"
+    },
+    {
+        "id": "f000180",
+        "sentence": "おおみそかの日に、",
+        "sentence_with_furigana": "おおみそかの日に、"
+    },
+    {
+        "id": "f000181",
+        "sentence": "少女は寒さのため死んでしまったのです。",
+        "sentence_with_furigana": "少女は寒さのため死んでしまったのです。"
+    },
+    {
+        "id": "f000182",
+        "sentence": "今日は一月一日、",
+        "sentence_with_furigana": "今日は一月一日、"
+    },
+    {
+        "id": "f000183",
+        "sentence": "一年の一番初めの太陽が、",
+        "sentence_with_furigana": "一年の一番初めの太陽が、"
+    },
+    {
+        "id": "f000184",
+        "sentence": "一体の小さななきがらを照らしていました。",
+        "sentence_with_furigana": "一体の小さななきがらを照らしていました。"
+    },
+    {
+        "id": "f000185",
+        "sentence": "少女は座ったまま、",
+        "sentence_with_furigana": "少女は座ったまま、"
+    },
+    {
+        "id": "f000186",
+        "sentence": "死んでかたくなっていて、",
+        "sentence_with_furigana": "死んでかたくなっていて、"
+    },
+    {
+        "id": "f000187",
+        "sentence": "その手の中に、",
+        "sentence_with_furigana": "その手の中に、"
+    },
+    {
+        "id": "f000188",
+        "sentence": "マッチのもえかすの束がにぎりしめられていました。",
+        "sentence_with_furigana": "マッチのもえかすの束がにぎりしめられていました。"
+    },
+    {
+        "id": "f000189",
+        "sentence": "「この子は自分をあたためようとしたんだ……」と、",
+        "sentence_with_furigana": "「この子は自分をあたためようとしたんだ……」と、"
+    },
+    {
+        "id": "f000190",
+        "sentence": "人々は言いました。",
+        "sentence_with_furigana": "人々は言いました。"
+    },
+    {
+        "id": "f000191",
+        "sentence": "でも、",
+        "sentence_with_furigana": "でも、"
+    },
+    {
+        "id": "f000192",
+        "sentence": "少女がマッチでふしぎできれいなものを見たことも、",
+        "sentence_with_furigana": "少女がマッチでふしぎできれいなものを見たことも、"
+    },
+    {
+        "id": "f000193",
+        "sentence": "おばあさんといっしょに新しい年をお祝いしに行ったことも、",
+        "sentence_with_furigana": "おばあさんといっしょに新しい年をお祝いしに行ったことも、"
+    },
+    {
+        "id": "f000194",
+        "sentence": "だれも知らないのです。",
+        "sentence_with_furigana": "だれも知らないのです。"
+    },
+    {
+        "id": "f000195",
+        "sentence": "だれも……",
+        "sentence_with_furigana": "だれも……"
+    },
+    {
+        "id": "f000196",
+        "sentence": "また、",
+        "sentence_with_furigana": "また、"
+    },
+    {
+        "id": "f000197",
+        "sentence": "新しい一年が始まりました。",
+        "sentence_with_furigana": "新しい一年が始まりました。"
+    }
+]

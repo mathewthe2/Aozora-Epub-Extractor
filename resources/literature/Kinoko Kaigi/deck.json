@@ -1,0 +1,547 @@
+[
+    {
+        "id": "f000001",
+        "sentence": "夢野久作　作",
+        "sentence_with_furigana": "夢野久作　作"
+    },
+    {
+        "id": "f000002",
+        "sentence": "きのこ会議",
+        "sentence_with_furigana": "きのこ会議"
+    },
+    {
+        "id": "f000003",
+        "sentence": "初茸、",
+        "sentence_with_furigana": "初茸、"
+    },
+    {
+        "id": "f000004",
+        "sentence": "松茸、",
+        "sentence_with_furigana": "松茸、"
+    },
+    {
+        "id": "f000005",
+        "sentence": "椎茸、",
+        "sentence_with_furigana": "椎茸、"
+    },
+    {
+        "id": "f000006",
+        "sentence": "木くらげ、",
+        "sentence_with_furigana": "木くらげ、"
+    },
+    {
+        "id": "f000007",
+        "sentence": "白茸、",
+        "sentence_with_furigana": "白茸、"
+    },
+    {
+        "id": "f000008",
+        "sentence": "鴈茸、",
+        "sentence_with_furigana": "鴈[がん]茸、"
+    },
+    {
+        "id": "f000009",
+        "sentence": "ぬめり茸、",
+        "sentence_with_furigana": "ぬめり茸、"
+    },
+    {
+        "id": "f000010",
+        "sentence": "霜降り茸、",
+        "sentence_with_furigana": "霜降り茸、"
+    },
+    {
+        "id": "f000011",
+        "sentence": "獅子茸、",
+        "sentence_with_furigana": "獅子茸、"
+    },
+    {
+        "id": "f000012",
+        "sentence": "鼠茸、",
+        "sentence_with_furigana": "鼠茸、"
+    },
+    {
+        "id": "f000013",
+        "sentence": "皮剥ぎ茸、",
+        "sentence_with_furigana": "皮剥ぎ茸、"
+    },
+    {
+        "id": "f000014",
+        "sentence": "米松露、",
+        "sentence_with_furigana": "米松露、"
+    },
+    {
+        "id": "f000015",
+        "sentence": "麦松露なぞいうきのこ連中がある夜集まって、",
+        "sentence_with_furigana": "麦松露なぞいうきのこ連中がある夜集まって、"
+    },
+    {
+        "id": "f000016",
+        "sentence": "談話会を始めました。",
+        "sentence_with_furigana": "談話会を始めました。"
+    },
+    {
+        "id": "f000017",
+        "sentence": "一番初めに、",
+        "sentence_with_furigana": "一番初めに、"
+    },
+    {
+        "id": "f000018",
+        "sentence": "初茸が立ち上って挨拶をしました。",
+        "sentence_with_furigana": "初茸が立ち上って挨拶をしました。"
+    },
+    {
+        "id": "f000019",
+        "sentence": "「皆さん。",
+        "sentence_with_furigana": "「皆さん。"
+    },
+    {
+        "id": "f000020",
+        "sentence": "この頃はだんだん寒くなりましたので、",
+        "sentence_with_furigana": "この頃はだんだん寒くなりましたので、"
+    },
+    {
+        "id": "f000021",
+        "sentence": "そろそろ私共は土の中へ引き込まねばならぬようになりました。",
+        "sentence_with_furigana": "そろそろ私共は土の中へ引き込まねばならぬようになりました。"
+    },
+    {
+        "id": "f000022",
+        "sentence": "今夜はお別れの宴会ですから、",
+        "sentence_with_furigana": "今夜はお別れの宴会ですから、"
+    },
+    {
+        "id": "f000023",
+        "sentence": "皆さんは何でも思う存分に演説をして下さい。",
+        "sentence_with_furigana": "皆さんは何でも思う存分に演説をして下さい。"
+    },
+    {
+        "id": "f000024",
+        "sentence": "私が書いて新聞に出しますから」",
+        "sentence_with_furigana": "私が書いて新聞に出しますから」"
+    },
+    {
+        "id": "f000025",
+        "sentence": "皆がパチパチと手をたたくと、",
+        "sentence_with_furigana": "皆がパチパチと手をたたくと、"
+    },
+    {
+        "id": "f000026",
+        "sentence": "お次に椎茸が立ち上りました。",
+        "sentence_with_furigana": "お次に椎茸が立ち上りました。"
+    },
+    {
+        "id": "f000027",
+        "sentence": "「皆さん、",
+        "sentence_with_furigana": "「皆さん、"
+    },
+    {
+        "id": "f000028",
+        "sentence": "私は椎茸というものです。",
+        "sentence_with_furigana": "私は椎茸というものです。"
+    },
+    {
+        "id": "f000029",
+        "sentence": "この頃人間は私を大変に重宝がって、",
+        "sentence_with_furigana": "この頃人間は私を大変に重宝がって、"
+    },
+    {
+        "id": "f000030",
+        "sentence": "わざわざ木を腐らして私共の畑を作ってくれますから、",
+        "sentence_with_furigana": "わざわざ木を腐らして私共の畑を作ってくれますから、"
+    },
+    {
+        "id": "f000031",
+        "sentence": "私共はだんだん大きな立派な子孫が殖えて行くばかりです。",
+        "sentence_with_furigana": "私共はだんだん大きな立派な子孫が殖えて行くばかりです。"
+    },
+    {
+        "id": "f000032",
+        "sentence": "今にどんな茸でも人間が畠を作ってくれるようになって貰いたいと思います」",
+        "sentence_with_furigana": "今にどんな茸でも人間が畠を作ってくれるようになって貰いたいと思います」"
+    },
+    {
+        "id": "f000033",
+        "sentence": "皆は大賛成で手をたたきました。",
+        "sentence_with_furigana": "皆は大賛成で手をたたきました。"
+    },
+    {
+        "id": "f000034",
+        "sentence": "その次に松茸がエヘンと咳払いをして演説をしました。",
+        "sentence_with_furigana": "その次に松茸がエヘンと咳払いをして演説をしました。"
+    },
+    {
+        "id": "f000035",
+        "sentence": "「皆さん、",
+        "sentence_with_furigana": "「皆さん、"
+    },
+    {
+        "id": "f000036",
+        "sentence": "私共のつとめは、",
+        "sentence_with_furigana": "私共のつとめは、"
+    },
+    {
+        "id": "f000037",
+        "sentence": "第一に傘をひろげて種子を撒き散らして子孫を殖やすこと、",
+        "sentence_with_furigana": "第一に傘をひろげて 種子[たね]を撒き散らして子孫を殖やすこと、"
+    },
+    {
+        "id": "f000038",
+        "sentence": "その次は人間に食べられることですが、",
+        "sentence_with_furigana": "その次は人間に食べられることですが、"
+    },
+    {
+        "id": "f000039",
+        "sentence": "人間は何故だか私共がまだ傘を開かないうちを喜んで持って行ってしまいます。",
+        "sentence_with_furigana": "人間は何故だか私共がまだ傘を開かないうちを喜んで持って行ってしまいます。"
+    },
+    {
+        "id": "f000040",
+        "sentence": "そのくせ椎茸さんのような畠も作ってくれません。",
+        "sentence_with_furigana": "そのくせ椎茸さんのような畠も作ってくれません。"
+    },
+    {
+        "id": "f000041",
+        "sentence": "こんな風だと今に私共は種子を撒く事が出来ず、",
+        "sentence_with_furigana": "こんな風だと今に私共は種子を撒く事が出来ず、"
+    },
+    {
+        "id": "f000042",
+        "sentence": "子孫を根絶やしにされねばなりません。",
+        "sentence_with_furigana": "子孫を根絶やしにされねばなりません。"
+    },
+    {
+        "id": "f000043",
+        "sentence": "人間は何故この理屈がわからないかと思うと、",
+        "sentence_with_furigana": "人間は何故この理屈がわからないかと思うと、"
+    },
+    {
+        "id": "f000044",
+        "sentence": "残念でたまりません」",
+        "sentence_with_furigana": "残念でたまりません」"
+    },
+    {
+        "id": "f000045",
+        "sentence": "と涙を流して申しますと、",
+        "sentence_with_furigana": "と涙を流して申しますと、"
+    },
+    {
+        "id": "f000046",
+        "sentence": "皆も口々に、",
+        "sentence_with_furigana": "皆も口々に、"
+    },
+    {
+        "id": "f000047",
+        "sentence": "「そうだ、",
+        "sentence_with_furigana": "「そうだ、"
+    },
+    {
+        "id": "f000048",
+        "sentence": "そうだ」",
+        "sentence_with_furigana": "そうだ」"
+    },
+    {
+        "id": "f000049",
+        "sentence": "と同情をしました。",
+        "sentence_with_furigana": "と同情をしました。"
+    },
+    {
+        "id": "f000050",
+        "sentence": "するとこの時皆のうしろからケラケラと笑うものがあります。",
+        "sentence_with_furigana": "するとこの時皆のうしろからケラケラと笑うものがあります。"
+    },
+    {
+        "id": "f000051",
+        "sentence": "見るとそれは蠅取り茸、",
+        "sentence_with_furigana": "見るとそれは蠅取り茸、"
+    },
+    {
+        "id": "f000052",
+        "sentence": "紅茸、",
+        "sentence_with_furigana": "紅茸、"
+    },
+    {
+        "id": "f000053",
+        "sentence": "草鞋茸、",
+        "sentence_with_furigana": "草鞋茸、"
+    },
+    {
+        "id": "f000054",
+        "sentence": "馬糞茸、",
+        "sentence_with_furigana": "馬糞茸、"
+    },
+    {
+        "id": "f000055",
+        "sentence": "狐の火ともし、",
+        "sentence_with_furigana": "狐の火ともし、"
+    },
+    {
+        "id": "f000056",
+        "sentence": "狐の茶袋なぞいう毒茸の連中でした。",
+        "sentence_with_furigana": "狐の茶袋なぞいう毒茸の連中でした。"
+    },
+    {
+        "id": "f000057",
+        "sentence": "その大勢の毒茸の中でも一番大きい蠅取り茸は大勢の真中に立ち上って、",
+        "sentence_with_furigana": "その大勢の毒茸の中でも一番大きい蠅取り茸は大勢の真中に立ち上って、"
+    },
+    {
+        "id": "f000058",
+        "sentence": "「お前達は皆馬鹿だ。",
+        "sentence_with_furigana": "「お前達は皆馬鹿だ。"
+    },
+    {
+        "id": "f000059",
+        "sentence": "世の中の役に立つからそんなに取られてしまうのだ。",
+        "sentence_with_furigana": "世の中の役に立つからそんなに取られてしまうのだ。"
+    },
+    {
+        "id": "f000060",
+        "sentence": "役にさえ立たなければいじめられはしないのだ。",
+        "sentence_with_furigana": "役にさえ立たなければいじめられはしないのだ。"
+    },
+    {
+        "id": "f000061",
+        "sentence": "自分の仲間だけ繁昌すればそれでいいではないか。",
+        "sentence_with_furigana": "自分の仲間だけ繁昌すればそれでいいではないか。"
+    },
+    {
+        "id": "f000062",
+        "sentence": "俺達を見ろ。",
+        "sentence_with_furigana": "俺達を見ろ。"
+    },
+    {
+        "id": "f000063",
+        "sentence": "役に立つ処でなく世間の毒になるのだ。",
+        "sentence_with_furigana": "役に立つ処でなく世間の毒になるのだ。"
+    },
+    {
+        "id": "f000064",
+        "sentence": "蠅でも何でも片っぱしから殺してしまう。",
+        "sentence_with_furigana": "蠅でも何でも片っぱしから殺してしまう。"
+    },
+    {
+        "id": "f000065",
+        "sentence": "えらい茸は人間さえも毎年毎年殺している位だ。",
+        "sentence_with_furigana": "えらい茸は人間さえも毎年毎年殺している位だ。"
+    },
+    {
+        "id": "f000066",
+        "sentence": "だからすこしも世の中の御厄介にならずに、",
+        "sentence_with_furigana": "だからすこしも世の中の御厄介にならずに、"
+    },
+    {
+        "id": "f000067",
+        "sentence": "繁昌して行くのだ。",
+        "sentence_with_furigana": "繁昌して行くのだ。"
+    },
+    {
+        "id": "f000068",
+        "sentence": "お前達も早く人間の毒になるように勉強しろ」",
+        "sentence_with_furigana": "お前達も早く人間の毒になるように勉強しろ」"
+    },
+    {
+        "id": "f000069",
+        "sentence": "と大声でわめき立てました。",
+        "sentence_with_furigana": "と大声でわめき立てました。"
+    },
+    {
+        "id": "f000070",
+        "sentence": "これを聞いた他の連中は皆理屈に負けて",
+        "sentence_with_furigana": "これを聞いた他の連中は皆理屈に負けて"
+    },
+    {
+        "id": "f000071",
+        "sentence": "「成る程、毒にさえなればこわい事はない」と思う者さえありました。",
+        "sentence_with_furigana": "「成る程、毒にさえなればこわい事はない」と思う者さえありました。"
+    },
+    {
+        "id": "f000072",
+        "sentence": "そのうちに夜があけて茸狩りの人が来たようですから、",
+        "sentence_with_furigana": "そのうちに夜があけて茸狩りの人が来たようですから、"
+    },
+    {
+        "id": "f000073",
+        "sentence": "皆は本当に毒茸のいう通り毒があるがよいか、",
+        "sentence_with_furigana": "皆は本当に毒茸のいう通り毒があるがよいか、"
+    },
+    {
+        "id": "f000074",
+        "sentence": "ないがよいか、",
+        "sentence_with_furigana": "ないがよいか、"
+    },
+    {
+        "id": "f000075",
+        "sentence": "試験してみる事にしてわかれました。",
+        "sentence_with_furigana": "試験してみる事にしてわかれました。"
+    },
+    {
+        "id": "f000076",
+        "sentence": "茸狩りに来たのは、",
+        "sentence_with_furigana": "茸狩りに来たのは、"
+    },
+    {
+        "id": "f000077",
+        "sentence": "どこかのお父さんとお母さんと姉さんと坊ちゃんでしたが、",
+        "sentence_with_furigana": "どこかのお父さんとお母さんと姉さんと坊ちゃんでしたが、"
+    },
+    {
+        "id": "f000078",
+        "sentence": "ここへ来ると皆大喜びで、",
+        "sentence_with_furigana": "ここへ来ると皆大喜びで、"
+    },
+    {
+        "id": "f000079",
+        "sentence": "「もはやこんなに茸はあるまいと思っていたが、",
+        "sentence_with_furigana": "「もはやこんなに茸はあるまいと思っていたが、"
+    },
+    {
+        "id": "f000080",
+        "sentence": "いろいろの茸がずいぶん沢山ある」",
+        "sentence_with_furigana": "いろいろの茸がずいぶん沢山ある」"
+    },
+    {
+        "id": "f000081",
+        "sentence": "「あれ、",
+        "sentence_with_furigana": "「あれ、"
+    },
+    {
+        "id": "f000082",
+        "sentence": "お前のようにむやみに取っては駄目よ。",
+        "sentence_with_furigana": "お前のようにむやみに取っては駄目よ。"
+    },
+    {
+        "id": "f000083",
+        "sentence": "こわさないように大切に取らなくては」",
+        "sentence_with_furigana": "こわさないように大切に取らなくては」"
+    },
+    {
+        "id": "f000084",
+        "sentence": "「小さな茸は残してお置きよ。",
+        "sentence_with_furigana": "「小さな茸は残してお置きよ。"
+    },
+    {
+        "id": "f000085",
+        "sentence": "かわいそうだから」",
+        "sentence_with_furigana": "かわいそうだから」"
+    },
+    {
+        "id": "f000086",
+        "sentence": "「ヤアあすこにも。",
+        "sentence_with_furigana": "「ヤアあすこにも。"
+    },
+    {
+        "id": "f000087",
+        "sentence": "ホラここにも」",
+        "sentence_with_furigana": "ホラここにも」"
+    },
+    {
+        "id": "f000088",
+        "sentence": "と大変な騒ぎです。",
+        "sentence_with_furigana": "と大変な騒ぎです。"
+    },
+    {
+        "id": "f000089",
+        "sentence": "そのうちにお父さんは気が付いて、",
+        "sentence_with_furigana": "そのうちにお父さんは気が付いて、"
+    },
+    {
+        "id": "f000090",
+        "sentence": "「オイオイみんな気を付けろ。",
+        "sentence_with_furigana": "「オイオイみんな気を付けろ。"
+    },
+    {
+        "id": "f000091",
+        "sentence": "ここに毒茸が固まって生えているぞ。",
+        "sentence_with_furigana": "ここに毒茸が固まって生えているぞ。"
+    },
+    {
+        "id": "f000092",
+        "sentence": "よくおぼえておけ。",
+        "sentence_with_furigana": "よくおぼえておけ。"
+    },
+    {
+        "id": "f000093",
+        "sentence": "こんなのはみんな毒茸だ。",
+        "sentence_with_furigana": "こんなのはみんな毒茸だ。"
+    },
+    {
+        "id": "f000094",
+        "sentence": "取って食べたら死んでしまうぞ」",
+        "sentence_with_furigana": "取って食べたら死んでしまうぞ」"
+    },
+    {
+        "id": "f000095",
+        "sentence": "とおっしゃいました。",
+        "sentence_with_furigana": "とおっしゃいました。"
+    },
+    {
+        "id": "f000096",
+        "sentence": "茸共は、",
+        "sentence_with_furigana": "茸共は、"
+    },
+    {
+        "id": "f000097",
+        "sentence": "成る程毒茸はえらいものだと思いました。",
+        "sentence_with_furigana": "成る程毒茸はえらいものだと思いました。"
+    },
+    {
+        "id": "f000098",
+        "sentence": "毒茸も「それ見ろ」と威張っておりました。",
+        "sentence_with_furigana": "毒茸も「それ見ろ」と威張っておりました。"
+    },
+    {
+        "id": "f000099",
+        "sentence": "処が、",
+        "sentence_with_furigana": "処が、"
+    },
+    {
+        "id": "f000100",
+        "sentence": "あらかた茸を取ってしまってお父さんが、",
+        "sentence_with_furigana": "あらかた茸を取ってしまってお父さんが、"
+    },
+    {
+        "id": "f000101",
+        "sentence": "「さあ行こう」",
+        "sentence_with_furigana": "「さあ行こう」"
+    },
+    {
+        "id": "f000102",
+        "sentence": "と言われますと、",
+        "sentence_with_furigana": "と言われますと、"
+    },
+    {
+        "id": "f000103",
+        "sentence": "姉さんと坊ちゃんが立ち止まって、",
+        "sentence_with_furigana": "姉さんと坊ちゃんが立ち止まって、"
+    },
+    {
+        "id": "f000104",
+        "sentence": "「まあ、",
+        "sentence_with_furigana": "「まあ、"
+    },
+    {
+        "id": "f000105",
+        "sentence": "毒茸はみんな憎らしい恰好をしている事ねえ」",
+        "sentence_with_furigana": "毒茸はみんな憎らしい恰好をしている事ねえ」"
+    },
+    {
+        "id": "f000106",
+        "sentence": "「ウン、",
+        "sentence_with_furigana": "「ウン、"
+    },
+    {
+        "id": "f000107",
+        "sentence": "僕が征伐してやろう」",
+        "sentence_with_furigana": "僕が征伐してやろう」"
+    },
+    {
+        "id": "f000108",
+        "sentence": "といううちに、",
+        "sentence_with_furigana": "といううちに、"
+    },
+    {
+        "id": "f000109",
+        "sentence": "片っ端から毒茸共は大きいのも小さいのも根本まで木っ葉微塵に踏み潰されてしまいました。",
+        "sentence_with_furigana": "片っ端から毒茸共は大きいのも小さいのも根本まで木っ葉微塵に踏み潰されてしまいました。"
+    }
+]

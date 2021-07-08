@@ -1,0 +1,317 @@
+[
+    {
+        "id": "f000001",
+        "sentence": "北大路魯山人　作",
+        "sentence_with_furigana": "北大路魯山人　作"
+    },
+    {
+        "id": "f000002",
+        "sentence": "胡瓜",
+        "sentence_with_furigana": "胡瓜"
+    },
+    {
+        "id": "f000003",
+        "sentence": "今日では温室栽培の向上によって、",
+        "sentence_with_furigana": "今日では温室栽培の向上によって、"
+    },
+    {
+        "id": "f000004",
+        "sentence": "くだもの、",
+        "sentence_with_furigana": "くだもの、"
+    },
+    {
+        "id": "f000005",
+        "sentence": "野菜など季節がなくなってしまった。",
+        "sentence_with_furigana": "野菜など季節がなくなってしまった。"
+    },
+    {
+        "id": "f000006",
+        "sentence": "早晩、",
+        "sentence_with_furigana": "早晩、"
+    },
+    {
+        "id": "f000007",
+        "sentence": "俳諧歳時記など書き改めねばならなくなりそうだ。",
+        "sentence_with_furigana": "俳諧[はいかい]歳時記など書き改めねばならなくなりそうだ。"
+    },
+    {
+        "id": "f000008",
+        "sentence": "とはいっても、",
+        "sentence_with_furigana": "とはいっても、"
+    },
+    {
+        "id": "f000009",
+        "sentence": "やはり旬のものに越したことはない。",
+        "sentence_with_furigana": "やはり 旬[しゅん]のものに越したことはない。"
+    },
+    {
+        "id": "f000010",
+        "sentence": "あえてきゅうりにはかぎらないが、",
+        "sentence_with_furigana": "あえてきゅうりにはかぎらないが、"
+    },
+    {
+        "id": "f000011",
+        "sentence": "旬がうまいということは、",
+        "sentence_with_furigana": "旬がうまいということは、"
+    },
+    {
+        "id": "f000012",
+        "sentence": "今も昔も変わらない。",
+        "sentence_with_furigana": "今も昔も変わらない。"
+    },
+    {
+        "id": "f000013",
+        "sentence": "しかし、",
+        "sentence_with_furigana": "しかし、"
+    },
+    {
+        "id": "f000014",
+        "sentence": "促成野菜を味なきもののようにいうのは、",
+        "sentence_with_furigana": "促成野菜を味なきもののようにいうのは、"
+    },
+    {
+        "id": "f000015",
+        "sentence": "促成野菜の価値を認識しない批評であって、",
+        "sentence_with_furigana": "促成野菜の価値を認識しない批評であって、"
+    },
+    {
+        "id": "f000016",
+        "sentence": "促成野菜は、",
+        "sentence_with_furigana": "促成野菜は、"
+    },
+    {
+        "id": "f000017",
+        "sentence": "いわゆる旬のものにない味わいを持っている。",
+        "sentence_with_furigana": "いわゆる旬のものにない味わいを持っている。"
+    },
+    {
+        "id": "f000018",
+        "sentence": "従って、",
+        "sentence_with_furigana": "従って、"
+    },
+    {
+        "id": "f000019",
+        "sentence": "軽々に取り扱うのは考えものである。",
+        "sentence_with_furigana": "軽々に取り扱うのは考えものである。"
+    },
+    {
+        "id": "f000020",
+        "sentence": "昔は旬のきゅうりという一つのものであったが、",
+        "sentence_with_furigana": "昔は旬のきゅうりという一つのものであったが、"
+    },
+    {
+        "id": "f000021",
+        "sentence": "今日では促成野菜というものができて、",
+        "sentence_with_furigana": "今日では促成野菜というものができて、"
+    },
+    {
+        "id": "f000022",
+        "sentence": "きゅうりもなすも二種類になっているわけである。",
+        "sentence_with_furigana": "きゅうりもなすも二種類になっているわけである。"
+    },
+    {
+        "id": "f000023",
+        "sentence": "その他にも一が二になっている促成野菜というものは多種多様に発明されている。",
+        "sentence_with_furigana": "その他にも一が二になっている促成野菜というものは多種多様に発明されている。"
+    },
+    {
+        "id": "f000024",
+        "sentence": "従って促成と季節と楽しみは二つにふえているわけである。",
+        "sentence_with_furigana": "従って促成と季節と楽しみは二つにふえているわけである。"
+    },
+    {
+        "id": "f000025",
+        "sentence": "ところできゅうりはまっすぐなのがよく、",
+        "sentence_with_furigana": "ところできゅうりはまっすぐなのがよく、"
+    },
+    {
+        "id": "f000026",
+        "sentence": "ひょうたん形のものはまずい。",
+        "sentence_with_furigana": "ひょうたん形のものはまずい。"
+    },
+    {
+        "id": "f000027",
+        "sentence": "総じてよいきゅうりは形が平均している。",
+        "sentence_with_furigana": "総じてよいきゅうりは形が平均している。"
+    },
+    {
+        "id": "f000028",
+        "sentence": "真盛りになると、",
+        "sentence_with_furigana": "真盛りになると、"
+    },
+    {
+        "id": "f000029",
+        "sentence": "大きくなっても種がないうちはうまいが、",
+        "sentence_with_furigana": "大きくなっても種がないうちはうまいが、"
+    },
+    {
+        "id": "f000030",
+        "sentence": "種ができるように成長してしまっては落第である。",
+        "sentence_with_furigana": "種ができるように成長してしまっては落第である。"
+    },
+    {
+        "id": "f000031",
+        "sentence": "一般に、",
+        "sentence_with_furigana": "一般に、"
+    },
+    {
+        "id": "f000032",
+        "sentence": "温室など利用して作った小さなきゅうり、",
+        "sentence_with_furigana": "温室など利用して作った小さなきゅうり、"
+    },
+    {
+        "id": "f000033",
+        "sentence": "俗に初物と呼ぶような出たてのきゅうりで、",
+        "sentence_with_furigana": "俗に 初物[はつもの]と呼ぶような出たてのきゅうりで、"
+    },
+    {
+        "id": "f000034",
+        "sentence": "料理屋などで使うのは、",
+        "sentence_with_furigana": "料理屋などで使うのは、"
+    },
+    {
+        "id": "f000035",
+        "sentence": "小さなのがよい。",
+        "sentence_with_furigana": "小さなのがよい。"
+    },
+    {
+        "id": "f000036",
+        "sentence": "これは贅沢なシャレた食べ物の場合だが、",
+        "sentence_with_furigana": "これは贅沢なシャレた食べ物の場合だが、"
+    },
+    {
+        "id": "f000037",
+        "sentence": "いいきゅうりの漬けものを賞味しようと思ったら、",
+        "sentence_with_furigana": "いいきゅうりの漬けものを賞味しようと思ったら、"
+    },
+    {
+        "id": "f000038",
+        "sentence": "やはりあとさきの揃ったものを選ぶべきだ。",
+        "sentence_with_furigana": "やはりあとさきの 揃[そろ]ったものを選ぶべきだ。"
+    },
+    {
+        "id": "f000039",
+        "sentence": "漬けものの漬かり加減は非常にむずかしく、",
+        "sentence_with_furigana": "漬けものの漬かり加減は非常にむずかしく、"
+    },
+    {
+        "id": "f000040",
+        "sentence": "気候とぬかみそ漬けの置き場で、",
+        "sentence_with_furigana": "気候とぬかみそ漬けの置き場で、"
+    },
+    {
+        "id": "f000041",
+        "sentence": "漬かり方の速度に非常な差異ができるから、",
+        "sentence_with_furigana": "漬かり方の速度に非常な差異ができるから、"
+    },
+    {
+        "id": "f000042",
+        "sentence": "その点、",
+        "sentence_with_furigana": "その点、"
+    },
+    {
+        "id": "f000043",
+        "sentence": "注意深く心がける必要がある。",
+        "sentence_with_furigana": "注意深く心がける必要がある。"
+    },
+    {
+        "id": "f000044",
+        "sentence": "不精して漬け過ぎると、",
+        "sentence_with_furigana": "不精して漬け過ぎると、"
+    },
+    {
+        "id": "f000045",
+        "sentence": "きゅうりはすっぱくなるから、",
+        "sentence_with_furigana": "きゅうりはすっぱくなるから、"
+    },
+    {
+        "id": "f000046",
+        "sentence": "いい加減の時にぬかみそから取り出しておく。",
+        "sentence_with_furigana": "いい加減の時にぬかみそから取り出しておく。"
+    },
+    {
+        "id": "f000047",
+        "sentence": "取り出しておいても味は急に変わらない。",
+        "sentence_with_furigana": "取り出しておいても味は急に変わらない。"
+    },
+    {
+        "id": "f000048",
+        "sentence": "そのまま漬けておいたのでは酸っぱくなってしまう。",
+        "sentence_with_furigana": "そのまま漬けておいたのでは酸っぱくなってしまう。"
+    },
+    {
+        "id": "f000049",
+        "sentence": "ちょうどいいと思える時に取り出して、",
+        "sentence_with_furigana": "ちょうどいいと思える時に取り出して、"
+    },
+    {
+        "id": "f000050",
+        "sentence": "ぬかのついたまま包み、",
+        "sentence_with_furigana": "ぬかのついたまま包み、"
+    },
+    {
+        "id": "f000051",
+        "sentence": "冷たいところに置いておく。",
+        "sentence_with_furigana": "冷たいところに置いておく。"
+    },
+    {
+        "id": "f000052",
+        "sentence": "そうすれば二、",
+        "sentence_with_furigana": "そうすれば二、"
+    },
+    {
+        "id": "f000053",
+        "sentence": "三時間経ってもうまく食べられる。",
+        "sentence_with_furigana": "三時間 経[た]ってもうまく食べられる。"
+    },
+    {
+        "id": "f000054",
+        "sentence": "そのわけは塩が中まで浸潤していかないので味が変わらないからである。",
+        "sentence_with_furigana": "そのわけは塩が中まで浸潤していかないので味が変わらないからである。"
+    },
+    {
+        "id": "f000055",
+        "sentence": "そういったコツは、",
+        "sentence_with_furigana": "そういったコツは、"
+    },
+    {
+        "id": "f000056",
+        "sentence": "万人の苦労の集積から生み出されたものであろうが、",
+        "sentence_with_furigana": "万人の苦労の集積から生み出されたものであろうが、"
+    },
+    {
+        "id": "f000057",
+        "sentence": "そのコツを会得し、",
+        "sentence_with_furigana": "そのコツを会得し、"
+    },
+    {
+        "id": "f000058",
+        "sentence": "利用することはよいことである。",
+        "sentence_with_furigana": "利用することはよいことである。"
+    },
+    {
+        "id": "f000059",
+        "sentence": "しかし、",
+        "sentence_with_furigana": "しかし、"
+    },
+    {
+        "id": "f000060",
+        "sentence": "なすの場合は出すと、",
+        "sentence_with_furigana": "なすの場合は出すと、"
+    },
+    {
+        "id": "f000061",
+        "sentence": "間もなく色が変わるからそういうわけにはいかない。",
+        "sentence_with_furigana": "間もなく色が変わるからそういうわけにはいかない。"
+    },
+    {
+        "id": "f000062",
+        "sentence": "出し置きの利かないなすは、",
+        "sentence_with_furigana": "出し置きの利かないなすは、"
+    },
+    {
+        "id": "f000063",
+        "sentence": "適当な時にぬかみそから出して食べることだ。",
+        "sentence_with_furigana": "適当な時にぬかみそから出して食べることだ。"
+    }
+]

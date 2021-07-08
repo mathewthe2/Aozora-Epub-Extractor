@@ -1,0 +1,922 @@
+[
+    {
+        "id": "f000001",
+        "sentence": "小川未明　作",
+        "sentence_with_furigana": "小川未明　作"
+    },
+    {
+        "id": "f000002",
+        "sentence": "小鳥と兄妹",
+        "sentence_with_furigana": "小鳥と兄妹"
+    },
+    {
+        "id": "f000003",
+        "sentence": "町からはなれて、",
+        "sentence_with_furigana": "町[まち]からはなれて、"
+    },
+    {
+        "id": "f000004",
+        "sentence": "静かな村に、",
+        "sentence_with_furigana": "静[しず]かな 村[むら]に、"
+    },
+    {
+        "id": "f000005",
+        "sentence": "仲のいい兄妹が住んでいました。",
+        "sentence_with_furigana": "仲[なか]のいい 兄妹[きょうだい]が 住[す]んでいました。"
+    },
+    {
+        "id": "f000006",
+        "sentence": "兄を太郎といい、",
+        "sentence_with_furigana": "兄[あに]を 太郎[たろう]といい、"
+    },
+    {
+        "id": "f000007",
+        "sentence": "妹を雪子といいました。",
+        "sentence_with_furigana": "妹[いもうと]を 雪子[ゆきこ]といいました。"
+    },
+    {
+        "id": "f000008",
+        "sentence": "二人は、",
+        "sentence_with_furigana": "二人[ふたり]は、"
+    },
+    {
+        "id": "f000009",
+        "sentence": "毎月、",
+        "sentence_with_furigana": "毎月[まいげつ]、"
+    },
+    {
+        "id": "f000010",
+        "sentence": "町へくる新しい雑誌を買ってきて、",
+        "sentence_with_furigana": "町[まち]へくる 新[あたら]しい 雑誌[ざっし]を 買[か]ってきて、"
+    },
+    {
+        "id": "f000011",
+        "sentence": "いっしょに読むのをなによりの楽しみとしていました。",
+        "sentence_with_furigana": "いっしょに 読[よ]むのをなによりの 楽[たの]しみとしていました。"
+    },
+    {
+        "id": "f000012",
+        "sentence": "ある日のこと、",
+        "sentence_with_furigana": "ある 日[ひ]のこと、"
+    },
+    {
+        "id": "f000013",
+        "sentence": "二人は、",
+        "sentence_with_furigana": "二人[ふたり]は、"
+    },
+    {
+        "id": "f000014",
+        "sentence": "雑誌を開いて見ていますと、",
+        "sentence_with_furigana": "雑誌[ざっし]を 開[ひら]いて 見[み]ていますと、"
+    },
+    {
+        "id": "f000015",
+        "sentence": "その月のには、",
+        "sentence_with_furigana": "その 月[つき]のには、"
+    },
+    {
+        "id": "f000016",
+        "sentence": "美しい花や鳥の写真がたくさんに載っていました。",
+        "sentence_with_furigana": "美[うつく]しい 花[はな]や 鳥[とり]の 写真[しゃしん]がたくさんに 載[の]っていました。"
+    },
+    {
+        "id": "f000017",
+        "sentence": "「まあ、",
+        "sentence_with_furigana": "「まあ、"
+    },
+    {
+        "id": "f000018",
+        "sentence": "きれいだこと、",
+        "sentence_with_furigana": "きれいだこと、"
+    },
+    {
+        "id": "f000019",
+        "sentence": "兄さん、",
+        "sentence_with_furigana": "兄[にい]さん、"
+    },
+    {
+        "id": "f000020",
+        "sentence": "この鳥は、",
+        "sentence_with_furigana": "この 鳥[とり]は、"
+    },
+    {
+        "id": "f000021",
+        "sentence": "よく見る鳥じゃありませんか。",
+        "sentence_with_furigana": "よく 見[み]る 鳥[とり]じゃありませんか。"
+    },
+    {
+        "id": "f000022",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000023",
+        "sentence": "雪子はいいました。",
+        "sentence_with_furigana": "雪子[ゆきこ]はいいました。"
+    },
+    {
+        "id": "f000024",
+        "sentence": "その鳥は、",
+        "sentence_with_furigana": "その 鳥[とり]は、"
+    },
+    {
+        "id": "f000025",
+        "sentence": "すずめほどの大きさで、",
+        "sentence_with_furigana": "すずめほどの 大[おお]きさで、"
+    },
+    {
+        "id": "f000026",
+        "sentence": "くびのまわりが紅く、",
+        "sentence_with_furigana": "くびのまわりが 紅[あか]く、"
+    },
+    {
+        "id": "f000027",
+        "sentence": "まことに美しかったのであります。",
+        "sentence_with_furigana": "まことに 美[うつく]しかったのであります。"
+    },
+    {
+        "id": "f000028",
+        "sentence": "「ああ、",
+        "sentence_with_furigana": "「ああ、"
+    },
+    {
+        "id": "f000029",
+        "sentence": "この鳥は、",
+        "sentence_with_furigana": "この 鳥[とり]は、"
+    },
+    {
+        "id": "f000030",
+        "sentence": "よく庭の木にやってくるうそという鳥だ。",
+        "sentence_with_furigana": "よく 庭[にわ]の 木[き]にやってくるうそという 鳥[とり]だ。"
+    },
+    {
+        "id": "f000031",
+        "sentence": "こちらにはたくさんいて珍しい鳥でないけれど、",
+        "sentence_with_furigana": "こちらにはたくさんいて 珍[めずら]しい 鳥[とり]でないけれど、"
+    },
+    {
+        "id": "f000032",
+        "sentence": "東京へゆくと、",
+        "sentence_with_furigana": "東京[とうきょう]へゆくと、"
+    },
+    {
+        "id": "f000033",
+        "sentence": "この鳥は少ないとみえて、",
+        "sentence_with_furigana": "この 鳥[とり]は 少[すく]ないとみえて、"
+    },
+    {
+        "id": "f000034",
+        "sentence": "たいせつに飼われるのだね。",
+        "sentence_with_furigana": "たいせつに 飼[か]われるのだね。"
+    },
+    {
+        "id": "f000035",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000036",
+        "sentence": "兄はいって、",
+        "sentence_with_furigana": "兄[あに]はいって、"
+    },
+    {
+        "id": "f000037",
+        "sentence": "雑誌に書いてあることを妹に読んで聞かせたのです。",
+        "sentence_with_furigana": "雑誌[ざっし]に 書[か]いてあることを 妹[いもうと]に 読[よ]んで 聞[き]かせたのです。"
+    },
+    {
+        "id": "f000038",
+        "sentence": "このとき、",
+        "sentence_with_furigana": "このとき、"
+    },
+    {
+        "id": "f000039",
+        "sentence": "うそが、",
+        "sentence_with_furigana": "うそが、"
+    },
+    {
+        "id": "f000040",
+        "sentence": "ちょうど庭の木にきてとまっていました。",
+        "sentence_with_furigana": "ちょうど 庭[にわ]の 木[き]にきてとまっていました。"
+    },
+    {
+        "id": "f000041",
+        "sentence": "兄と妹が、",
+        "sentence_with_furigana": "兄[あに]と 妹[いもうと]が、"
+    },
+    {
+        "id": "f000042",
+        "sentence": "雑誌を開いて、",
+        "sentence_with_furigana": "雑誌[ざっし]を 開[ひら]いて、"
+    },
+    {
+        "id": "f000043",
+        "sentence": "自分の写真を指さしながら、",
+        "sentence_with_furigana": "自分[じぶん]の 写真[しゃしん]を 指[ゆび]さしながら、"
+    },
+    {
+        "id": "f000044",
+        "sentence": "話をしているのをじっとながめていました。",
+        "sentence_with_furigana": "話[はなし]をしているのをじっとながめていました。"
+    },
+    {
+        "id": "f000045",
+        "sentence": "鳥というものは耳ざといものでありますから、",
+        "sentence_with_furigana": "鳥[とり]というものは 耳[みみ]ざといものでありますから、"
+    },
+    {
+        "id": "f000046",
+        "sentence": "二人の話はなんでもよくわかりました。",
+        "sentence_with_furigana": "二人[ふたり]の 話[はなし]はなんでもよくわかりました。"
+    },
+    {
+        "id": "f000047",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、"
+    },
+    {
+        "id": "f000048",
+        "sentence": "目もよくききましたから、",
+        "sentence_with_furigana": "目[め]もよくききましたから、"
+    },
+    {
+        "id": "f000049",
+        "sentence": "二人が、",
+        "sentence_with_furigana": "二人[ふたり]が、"
+    },
+    {
+        "id": "f000050",
+        "sentence": "窓の下で見ている雑誌の絵もわかりました。",
+        "sentence_with_furigana": "窓[まど]の 下[した]で 見[み]ている 雑誌[ざっし]の 絵[え]もわかりました。"
+    },
+    {
+        "id": "f000051",
+        "sentence": "「いま、",
+        "sentence_with_furigana": "「いま、"
+    },
+    {
+        "id": "f000052",
+        "sentence": "あの子供さんたちがいっているのを聞くと、",
+        "sentence_with_furigana": "あの 子供[こども]さんたちがいっているのを 聞[き]くと、"
+    },
+    {
+        "id": "f000053",
+        "sentence": "ほかの国へゆけば、",
+        "sentence_with_furigana": "ほかの 国[くに]へゆけば、"
+    },
+    {
+        "id": "f000054",
+        "sentence": "自分は大事にされるということであるが、",
+        "sentence_with_furigana": "自分[じぶん]は 大事[だいじ]にされるということであるが、"
+    },
+    {
+        "id": "f000055",
+        "sentence": "いったいどこだろう……。",
+        "sentence_with_furigana": "いったいどこだろう……。"
+    },
+    {
+        "id": "f000056",
+        "sentence": "ああして、",
+        "sentence_with_furigana": "ああして、"
+    },
+    {
+        "id": "f000057",
+        "sentence": "絵にまで自分の姿をかいて出してあるのを見れば、",
+        "sentence_with_furigana": "絵[え]にまで 自分[じぶん]の 姿[すがた]をかいて 出[だ]してあるのを 見[み]れば、"
+    },
+    {
+        "id": "f000058",
+        "sentence": "まんざらうそのことではない。",
+        "sentence_with_furigana": "まんざらうそのことではない。"
+    },
+    {
+        "id": "f000059",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000060",
+        "sentence": "うそは思いました。",
+        "sentence_with_furigana": "うそは 思[おも]いました。"
+    },
+    {
+        "id": "f000061",
+        "sentence": "この小鳥は、",
+        "sentence_with_furigana": "この 小鳥[ことり]は、"
+    },
+    {
+        "id": "f000062",
+        "sentence": "寒い、",
+        "sentence_with_furigana": "寒[さむ]い、"
+    },
+    {
+        "id": "f000063",
+        "sentence": "寒い、",
+        "sentence_with_furigana": "寒[さむ]い、"
+    },
+    {
+        "id": "f000064",
+        "sentence": "北の国に産まれたのでした。",
+        "sentence_with_furigana": "北[きた]の 国[くに]に 産[う]まれたのでした。"
+    },
+    {
+        "id": "f000065",
+        "sentence": "もう夏もやがてくるので仲間といっしょに、",
+        "sentence_with_furigana": "もう 夏[なつ]もやがてくるので 仲間[なかま]といっしょに、"
+    },
+    {
+        "id": "f000066",
+        "sentence": "ふたたび故郷へ帰る約束をしたのであります。",
+        "sentence_with_furigana": "ふたたび 故郷[こきょう]へ 帰[かえ]る 約束[やくそく]をしたのであります。"
+    },
+    {
+        "id": "f000067",
+        "sentence": "天気のいい日を、",
+        "sentence_with_furigana": "天気[てんき]のいい 日[ひ]を、"
+    },
+    {
+        "id": "f000068",
+        "sentence": "見はからって、",
+        "sentence_with_furigana": "見[み]はからって、"
+    },
+    {
+        "id": "f000069",
+        "sentence": "彼らは旅立つことになっていました。",
+        "sentence_with_furigana": "彼[かれ]らは 旅立[たびだ]つことになっていました。"
+    },
+    {
+        "id": "f000070",
+        "sentence": "うそは、",
+        "sentence_with_furigana": "うそは、"
+    },
+    {
+        "id": "f000071",
+        "sentence": "友だちとした約束を忘れなかったけれど、",
+        "sentence_with_furigana": "友[とも]だちとした 約束[やくそく]を 忘[わす]れなかったけれど、"
+    },
+    {
+        "id": "f000072",
+        "sentence": "「どうか、",
+        "sentence_with_furigana": "「どうか、"
+    },
+    {
+        "id": "f000073",
+        "sentence": "自分をかわいがってくれる、",
+        "sentence_with_furigana": "自分[じぶん]をかわいがってくれる、"
+    },
+    {
+        "id": "f000074",
+        "sentence": "その知らない土地へいってみたいものだ。",
+        "sentence_with_furigana": "その 知[し]らない 土地[とち]へいってみたいものだ。"
+    },
+    {
+        "id": "f000075",
+        "sentence": "」と思いました。",
+        "sentence_with_furigana": "」と 思[おも]いました。"
+    },
+    {
+        "id": "f000076",
+        "sentence": "彼は、",
+        "sentence_with_furigana": "彼[かれ]は、"
+    },
+    {
+        "id": "f000077",
+        "sentence": "木から飛びたつと、",
+        "sentence_with_furigana": "木[き]から 飛[と]びたつと、"
+    },
+    {
+        "id": "f000078",
+        "sentence": "はるかあちらへ飛んでゆきました。",
+        "sentence_with_furigana": "はるかあちらへ 飛[と]んでゆきました。"
+    },
+    {
+        "id": "f000079",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、"
+    },
+    {
+        "id": "f000080",
+        "sentence": "街道にあった、",
+        "sentence_with_furigana": "街道[かいどう]にあった、"
+    },
+    {
+        "id": "f000081",
+        "sentence": "一本の電信柱にきて止まったのです。",
+        "sentence_with_furigana": "一 本[ぽん]の 電信柱[でんしんばしら]にきて 止[と]まったのです。"
+    },
+    {
+        "id": "f000082",
+        "sentence": "いつであったか、",
+        "sentence_with_furigana": "いつであったか、"
+    },
+    {
+        "id": "f000083",
+        "sentence": "電信柱が、",
+        "sentence_with_furigana": "電信柱[でんしんばしら]が、"
+    },
+    {
+        "id": "f000084",
+        "sentence": "なんでも自分に聞けば、",
+        "sentence_with_furigana": "なんでも 自分[じぶん]に 聞[き]けば、"
+    },
+    {
+        "id": "f000085",
+        "sentence": "この世の中のことで、",
+        "sentence_with_furigana": "この 世[よ]の 中[なか]のことで、"
+    },
+    {
+        "id": "f000086",
+        "sentence": "知らないものはないといった、",
+        "sentence_with_furigana": "知[し]らないものはないといった、"
+    },
+    {
+        "id": "f000087",
+        "sentence": "そのことを思い出したからでした。",
+        "sentence_with_furigana": "そのことを 思[おも]い 出[だ]したからでした。"
+    },
+    {
+        "id": "f000088",
+        "sentence": "青く晴れた、",
+        "sentence_with_furigana": "青[あお]く 晴[は]れた、"
+    },
+    {
+        "id": "f000089",
+        "sentence": "空の下で、",
+        "sentence_with_furigana": "空[そら]の 下[した]で、"
+    },
+    {
+        "id": "f000090",
+        "sentence": "電信柱は居眠りをしていました。",
+        "sentence_with_furigana": "電信柱[でんしんばしら]は 居眠[いねむ]りをしていました。"
+    },
+    {
+        "id": "f000091",
+        "sentence": "その頭の上に止まると、",
+        "sentence_with_furigana": "その 頭[あたま]の 上[うえ]に 止[と]まると、"
+    },
+    {
+        "id": "f000092",
+        "sentence": "小鳥は、",
+        "sentence_with_furigana": "小鳥[ことり]は、"
+    },
+    {
+        "id": "f000093",
+        "sentence": "黒いくちばしでコツ、",
+        "sentence_with_furigana": "黒[くろ]いくちばしでコツ、"
+    },
+    {
+        "id": "f000094",
+        "sentence": "コツとつついて、",
+        "sentence_with_furigana": "コツとつついて、"
+    },
+    {
+        "id": "f000095",
+        "sentence": "彼の眠りをさました。",
+        "sentence_with_furigana": "彼[かれ]の 眠[ねむ]りをさました。"
+    },
+    {
+        "id": "f000096",
+        "sentence": "「ああ、",
+        "sentence_with_furigana": "「ああ、"
+    },
+    {
+        "id": "f000097",
+        "sentence": "眠いことだ。",
+        "sentence_with_furigana": "眠[ねむ]いことだ。"
+    },
+    {
+        "id": "f000098",
+        "sentence": "いい風が、",
+        "sentence_with_furigana": "いい 風[かぜ]が、"
+    },
+    {
+        "id": "f000099",
+        "sentence": "そよそよと吹くので、",
+        "sentence_with_furigana": "そよそよと 吹[ふ]くので、"
+    },
+    {
+        "id": "f000100",
+        "sentence": "ぐっすり眠ってしまったが、",
+        "sentence_with_furigana": "ぐっすり 眠[ねむ]ってしまったが、"
+    },
+    {
+        "id": "f000101",
+        "sentence": "俺を起こしたのは、",
+        "sentence_with_furigana": "俺[おれ]を 起[お]こしたのは、"
+    },
+    {
+        "id": "f000102",
+        "sentence": "何者だ？",
+        "sentence_with_furigana": "何者[なにもの]だ？"
+    },
+    {
+        "id": "f000103",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000104",
+        "sentence": "電信柱は、",
+        "sentence_with_furigana": "電信柱[でんしんばしら]は、"
+    },
+    {
+        "id": "f000105",
+        "sentence": "不平をいわずには、",
+        "sentence_with_furigana": "不平[ふへい]をいわずには、"
+    },
+    {
+        "id": "f000106",
+        "sentence": "いられなかったのです。",
+        "sentence_with_furigana": "いられなかったのです。"
+    },
+    {
+        "id": "f000107",
+        "sentence": "「私ですよ。",
+        "sentence_with_furigana": "「 私[わたし]ですよ。"
+    },
+    {
+        "id": "f000108",
+        "sentence": "いつか、",
+        "sentence_with_furigana": "いつか、"
+    },
+    {
+        "id": "f000109",
+        "sentence": "あなたから、",
+        "sentence_with_furigana": "あなたから、"
+    },
+    {
+        "id": "f000110",
+        "sentence": "おもしろい話を聞かせていただいたことのある、",
+        "sentence_with_furigana": "おもしろい 話[はなし]を 聞[き]かせていただいたことのある、"
+    },
+    {
+        "id": "f000111",
+        "sentence": "旅の小鳥です。」",
+        "sentence_with_furigana": "旅[たび]の 小鳥[ことり]です。」"
+    },
+    {
+        "id": "f000112",
+        "sentence": "「ああ、",
+        "sentence_with_furigana": "「ああ、"
+    },
+    {
+        "id": "f000113",
+        "sentence": "そうでしたか。",
+        "sentence_with_furigana": "そうでしたか。"
+    },
+    {
+        "id": "f000114",
+        "sentence": "まだおまえさんたちは、",
+        "sentence_with_furigana": "まだおまえさんたちは、"
+    },
+    {
+        "id": "f000115",
+        "sentence": "北の国へ帰らないのですか。",
+        "sentence_with_furigana": "北[きた]の 国[くに]へ 帰[かえ]らないのですか。"
+    },
+    {
+        "id": "f000116",
+        "sentence": "あの雲をごらんなさい。",
+        "sentence_with_furigana": "あの 雲[くも]をごらんなさい。"
+    },
+    {
+        "id": "f000117",
+        "sentence": "これからは、",
+        "sentence_with_furigana": "これからは、"
+    },
+    {
+        "id": "f000118",
+        "sentence": "だんだん暑くなります。",
+        "sentence_with_furigana": "だんだん 暑[あつ]くなります。"
+    },
+    {
+        "id": "f000119",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、"
+    },
+    {
+        "id": "f000120",
+        "sentence": "日中の旅が困難になりますよ。",
+        "sentence_with_furigana": "日中[にっちゅう]の 旅[たび]が 困難[こんなん]になりますよ。"
+    },
+    {
+        "id": "f000121",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000122",
+        "sentence": "電信柱がいいました。",
+        "sentence_with_furigana": "電信柱[でんしんばしら]がいいました。"
+    },
+    {
+        "id": "f000123",
+        "sentence": "「私だけは、",
+        "sentence_with_furigana": "「 私[わたし]だけは、"
+    },
+    {
+        "id": "f000124",
+        "sentence": "故郷へ帰らないと思うのです。",
+        "sentence_with_furigana": "故郷[こきょう]へ 帰[かえ]らないと 思[おも]うのです。"
+    },
+    {
+        "id": "f000125",
+        "sentence": "それで、",
+        "sentence_with_furigana": "それで、"
+    },
+    {
+        "id": "f000126",
+        "sentence": "あなたにお聞きしたいと思うのですが、",
+        "sentence_with_furigana": "あなたにお 聞[き]きしたいと 思[おも]うのですが、"
+    },
+    {
+        "id": "f000127",
+        "sentence": "どこかの国で、",
+        "sentence_with_furigana": "どこかの 国[くに]で、"
+    },
+    {
+        "id": "f000128",
+        "sentence": "自分たちを大事にして飼って、",
+        "sentence_with_furigana": "自分[じぶん]たちを 大事[だいじ]にして 飼[か]って、"
+    },
+    {
+        "id": "f000129",
+        "sentence": "もてなしてくれるところがあるということですが、",
+        "sentence_with_furigana": "もてなしてくれるところがあるということですが、"
+    },
+    {
+        "id": "f000130",
+        "sentence": "ほんとうでしょうか。",
+        "sentence_with_furigana": "ほんとうでしょうか。"
+    },
+    {
+        "id": "f000131",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000132",
+        "sentence": "うそはたずねました。",
+        "sentence_with_furigana": "うそはたずねました。"
+    },
+    {
+        "id": "f000133",
+        "sentence": "すると、",
+        "sentence_with_furigana": "すると、"
+    },
+    {
+        "id": "f000134",
+        "sentence": "電信柱は、",
+        "sentence_with_furigana": "電信柱[でんしんばしら]は、"
+    },
+    {
+        "id": "f000135",
+        "sentence": "脊伸びをしながら、",
+        "sentence_with_furigana": "脊伸[せの]びをしながら、"
+    },
+    {
+        "id": "f000136",
+        "sentence": "「それは、",
+        "sentence_with_furigana": "「それは、"
+    },
+    {
+        "id": "f000137",
+        "sentence": "ほんとうのことらしい。",
+        "sentence_with_furigana": "ほんとうのことらしい。"
+    },
+    {
+        "id": "f000138",
+        "sentence": "いつか、",
+        "sentence_with_furigana": "いつか、"
+    },
+    {
+        "id": "f000139",
+        "sentence": "下の街道を通る旅人が、",
+        "sentence_with_furigana": "下[した]の 街道[かいどう]を 通[とお]る 旅人[たびびと]が、"
+    },
+    {
+        "id": "f000140",
+        "sentence": "いろいろ小鳥の名をいって、",
+        "sentence_with_furigana": "いろいろ 小鳥[ことり]の 名[な]をいって、"
+    },
+    {
+        "id": "f000141",
+        "sentence": "金になるなどといっていたが、",
+        "sentence_with_furigana": "金[かね]になるなどといっていたが、"
+    },
+    {
+        "id": "f000142",
+        "sentence": "たしかその中におまえさんの名もあったと思う。",
+        "sentence_with_furigana": "たしかその 中[なか]におまえさんの 名[な]もあったと 思[おも]う。"
+    },
+    {
+        "id": "f000143",
+        "sentence": "」と答えました。",
+        "sentence_with_furigana": "」と 答[こた]えました。"
+    },
+    {
+        "id": "f000144",
+        "sentence": "うそは、",
+        "sentence_with_furigana": "うそは、"
+    },
+    {
+        "id": "f000145",
+        "sentence": "体じゅうが熱く、",
+        "sentence_with_furigana": "体[からだ]じゅうが 熱[あつ]く、"
+    },
+    {
+        "id": "f000146",
+        "sentence": "赤くなったように感じました。",
+        "sentence_with_furigana": "赤[あか]くなったように 感[かん]じました。"
+    },
+    {
+        "id": "f000147",
+        "sentence": "「電信柱さん、",
+        "sentence_with_furigana": "「 電信柱[でんしんばしら]さん、"
+    },
+    {
+        "id": "f000148",
+        "sentence": "そこへはどうしてゆけるか、",
+        "sentence_with_furigana": "そこへはどうしてゆけるか、"
+    },
+    {
+        "id": "f000149",
+        "sentence": "教えてください。",
+        "sentence_with_furigana": "教[おし]えてください。"
+    },
+    {
+        "id": "f000150",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000151",
+        "sentence": "小鳥は頼んだ。",
+        "sentence_with_furigana": "小鳥[ことり]は 頼[たの]んだ。"
+    },
+    {
+        "id": "f000152",
+        "sentence": "「さあ、",
+        "sentence_with_furigana": "「さあ、"
+    },
+    {
+        "id": "f000153",
+        "sentence": "なんというところか、",
+        "sentence_with_furigana": "なんというところか、"
+    },
+    {
+        "id": "f000154",
+        "sentence": "場所さえわかれば、",
+        "sentence_with_furigana": "場所[ばしょ]さえわかれば、"
+    },
+    {
+        "id": "f000155",
+        "sentence": "汽車に乗ってゆくとも、",
+        "sentence_with_furigana": "汽車[きしゃ]に 乗[の]ってゆくとも、"
+    },
+    {
+        "id": "f000156",
+        "sentence": "また、",
+        "sentence_with_furigana": "また、"
+    },
+    {
+        "id": "f000157",
+        "sentence": "あちらの港からたつ汽船に乗ってゆくとも、",
+        "sentence_with_furigana": "あちらの 港[みなと]からたつ 汽船[きせん]に 乗[の]ってゆくとも、"
+    },
+    {
+        "id": "f000158",
+        "sentence": "また方法はいくらもあるが、",
+        "sentence_with_furigana": "また 方法[ほうほう]はいくらもあるが、"
+    },
+    {
+        "id": "f000159",
+        "sentence": "その町の名は、",
+        "sentence_with_furigana": "その 町[まち]の 名[な]は、"
+    },
+    {
+        "id": "f000160",
+        "sentence": "私にもわかりません……。",
+        "sentence_with_furigana": "私[わたし]にもわかりません……。"
+    },
+    {
+        "id": "f000161",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000162",
+        "sentence": "電信柱はいいました。",
+        "sentence_with_furigana": "電信柱[でんしんばしら]はいいました。"
+    },
+    {
+        "id": "f000163",
+        "sentence": "あわれな小鳥は、",
+        "sentence_with_furigana": "あわれな 小鳥[ことり]は、"
+    },
+    {
+        "id": "f000164",
+        "sentence": "そこから飛び立つと、",
+        "sentence_with_furigana": "そこから 飛[と]び 立[た]つと、"
+    },
+    {
+        "id": "f000165",
+        "sentence": "もう一度、",
+        "sentence_with_furigana": "もう一 度[ど]、"
+    },
+    {
+        "id": "f000166",
+        "sentence": "あの兄と妹が雑誌を開いて話をしていた窓の前にあった木にきて止まりました。",
+        "sentence_with_furigana": "あの 兄[あに]と 妹[いもうと]が 雑誌[ざっし]を 開[ひら]いて 話[はなし]をしていた 窓[まど]の 前[まえ]にあった 木[き]にきて 止[と]まりました。"
+    },
+    {
+        "id": "f000167",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、"
+    },
+    {
+        "id": "f000168",
+        "sentence": "自分たちをかわいがってくれる町の名を知りたいと思いました。",
+        "sentence_with_furigana": "自分[じぶん]たちをかわいがってくれる 町[まち]の 名[な]を 知[し]りたいと 思[おも]いました。"
+    },
+    {
+        "id": "f000169",
+        "sentence": "しかしきてみると、",
+        "sentence_with_furigana": "しかしきてみると、"
+    },
+    {
+        "id": "f000170",
+        "sentence": "その窓は、",
+        "sentence_with_furigana": "その 窓[まど]は、"
+    },
+    {
+        "id": "f000171",
+        "sentence": "閉まって、",
+        "sentence_with_furigana": "閉[し]まって、"
+    },
+    {
+        "id": "f000172",
+        "sentence": "仲のいい兄と妹の姿は見えなかったのです。",
+        "sentence_with_furigana": "仲[なか]のいい 兄[あに]と 妹[いもうと]の 姿[すがた]は 見[み]えなかったのです。"
+    },
+    {
+        "id": "f000173",
+        "sentence": "うそは、",
+        "sentence_with_furigana": "うそは、"
+    },
+    {
+        "id": "f000174",
+        "sentence": "いい声を出して鳴きました。",
+        "sentence_with_furigana": "いい 声[こえ]を 出[だ]して 鳴[な]きました。"
+    },
+    {
+        "id": "f000175",
+        "sentence": "けれど、",
+        "sentence_with_furigana": "けれど、"
+    },
+    {
+        "id": "f000176",
+        "sentence": "ついに窓の障子は開きませんでした。",
+        "sentence_with_furigana": "ついに 窓[まど]の 障子[しょうじ]は 開[ひら]きませんでした。"
+    },
+    {
+        "id": "f000177",
+        "sentence": "うそは、",
+        "sentence_with_furigana": "うそは、"
+    },
+    {
+        "id": "f000178",
+        "sentence": "このとき、",
+        "sentence_with_furigana": "このとき、"
+    },
+    {
+        "id": "f000179",
+        "sentence": "はかない希望を捨て、",
+        "sentence_with_furigana": "はかない 希望[きぼう]を 捨[す]て、"
+    },
+    {
+        "id": "f000180",
+        "sentence": "みんなといっしょに故郷へ旅立つことを決心しました。",
+        "sentence_with_furigana": "みんなといっしょに 故郷[こきょう]へ 旅立[たびだ]つことを 決心[けっしん]しました。"
+    },
+    {
+        "id": "f000181",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、"
+    },
+    {
+        "id": "f000182",
+        "sentence": "青い空を、",
+        "sentence_with_furigana": "青[あお]い 空[そら]を、"
+    },
+    {
+        "id": "f000183",
+        "sentence": "あちらに駆けて、",
+        "sentence_with_furigana": "あちらに 駆[か]けて、"
+    },
+    {
+        "id": "f000184",
+        "sentence": "自分を待っている友だちのいる方へ去ったのであります。",
+        "sentence_with_furigana": "自分[じぶん]を 待[ま]っている 友[とも]だちのいる 方[ほう]へ 去[さ]ったのであります。"
+    }
+]
