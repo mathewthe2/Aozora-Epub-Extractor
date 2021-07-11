@@ -2,6 +2,7 @@ import zipfile
 import os
 import json
 from pathlib import Path
+from glob import glob
 from bs4 import BeautifulSoup
 from pydub import AudioSegment
 
@@ -52,6 +53,22 @@ def get_audio_timestamps(file):
                 items.append(item)
     return items
 
+def get_audio_timestamps_map(file):
+    items_map = {}
+    archive = zipfile.ZipFile(file, 'r')
+    with archive.open(AOZORA_TIMESTAMP_FILE) as f:
+        data = f.read()
+        a = data.decode("utf-8").split('window.rb_smil_emulator.smil_data = [')[1].split(']')[0]
+        timestamps = a.replace('\n', '').split('},')
+        for timestamp in timestamps:
+            item = {}
+            item["id"] = timestamp.split("id: '")[1].split("',")[0]
+            item["begin"] = timestamp.split("begin:")[1].split(",")[0]
+            item["end"] = timestamp.split("end:")[1].split(' ')[0]
+            if item["id"][0] == 'f':
+                items_map[item["id"]] = item
+    return items_map
+
 def get_text(file):
     archive = zipfile.ZipFile(file, 'r')
     with archive.open(AOZORA_TEXT_FILE) as f:
@@ -59,6 +76,8 @@ def get_text(file):
         soup = BeautifulSoup(data, 'html.parser')
         # TODO: get spaces with paragraphs
         items = []
+        audio_timestamps_map = get_audio_timestamps_map(file)
+        # print(audio_timestamps_map)
         for span in soup.find_all('span'):
             if span.get("id"):
                 if span.get("id")[0] == 'f':
@@ -67,6 +86,9 @@ def get_text(file):
                     "sentence": parse_sentence_to_anki_format(span.decode_contents().strip())["sentence"],
                     "sentence_with_furigana": parse_sentence_to_anki_format(span.decode_contents().strip())["sentence_with_furigana"],
                     } 
+                    if item["id"] in audio_timestamps_map:
+                        item["audio_begin"] = int(float(audio_timestamps_map[item["id"]]['begin'])*1000)
+                        item["audio_end"] = int(float(audio_timestamps_map[item["id"]]['end'])*1000)
                     items.append(item)
         return items
 
@@ -118,6 +140,15 @@ def unpack_aozora_epub(file, skip_media=False):
     with open(Path(file_directory, TEXT_FILE_NAME), 'w', encoding='utf-8') as f:
         json.dump(text_objects, f, indent=4, ensure_ascii=False)
 
-name = "Ichono Mi"
-file = Path(bundle_path, 'resources', 'literature', name, name + '.epub')
-unpack_aozora_epub(file, skip_media=False)
+def unpack_all(skip_media=True):
+    deck_folders = glob(str(Path(bundle_path, 'resources', 'literature')) + '/*/')
+    for deck_folder in deck_folders:
+        deck_name = Path(deck_folder).name
+        print('parsing', deck_name)
+        unpack_aozora_epub(Path(bundle_path, 'resources', 'literature', deck_name, deck_name + '.epub'), skip_media)
+
+
+unpack_all()
+# name = "Ashi"
+# file = Path(bundle_path, 'resources', 'literature', name, name + '.epub')
+# unpack_aozora_epub(file, skip_media=True)
