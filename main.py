@@ -83,13 +83,14 @@ def get_text(file):
                 if span.get("id")[0] == 'f':
                     item = {
                     "id": span.get("id"), 
-                    "sentence": parse_sentence_to_anki_format(span.decode_contents().strip())["sentence"],
-                    "sentence_with_furigana": parse_sentence_to_anki_format(span.decode_contents().strip())["sentence_with_furigana"],
+                    "sentence": parse_sentence(span.decode_contents().strip())["sentence"],
+                    "sentence_with_furigana": parse_sentence(span.decode_contents().strip())["sentence_with_furigana"],
                     } 
                     if item["id"] in audio_timestamps_map:
                         item["audio_begin"] = int(float(audio_timestamps_map[item["id"]]['begin'])*1000)
                         item["audio_end"] = int(float(audio_timestamps_map[item["id"]]['end'])*1000)
-                    items.append(item)
+                    if len(item["sentence"]) > 0:
+                        items.append(item)
         return items
 
 def remove_class_from_sentence(s):
@@ -102,6 +103,18 @@ def remove_class_from_sentence(s):
         else:
             print('parsing failed for ', s)
     return s
+
+def parse_sentence(s):
+    x = s
+    s = s.replace('思ひ', '思い')
+    s = s.replace('云ふ', '云う')
+    s = s.replace('といふ', 'という')
+    s = s.replace('訴へ', '訴え')
+    s = s.replace('たとへ', 'たとえ')
+    s = s.replace('ゐ', 'い')
+    if (x != s):
+        print('replaced text')
+    return parse_sentence_to_anki_format(s)
 
 def parse_sentence_to_anki_format(s):
     pre = s.split("<ruby>")[0]
