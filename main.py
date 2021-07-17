@@ -12,6 +12,10 @@ TEXT_FILE_NAME = 'deck.json'
 AOZORA_TIMESTAMP_FILE = 'item/js/p-001.xhtml.smil.js'
 AOZORA_TEXT_FILE = 'item/xhtml/p-001.xhtml'
 
+replacements = {}
+with open('replacements.json', encoding='utf-8') as json_file:
+    replacements = json.load(json_file)
+
 def cut_audio(mp3_file, audio_timestamp, target_directory):
     song = AudioSegment.from_mp3(mp3_file)
     begin = float(audio_timestamp['begin'])*1000
@@ -106,12 +110,8 @@ def remove_class_from_sentence(s):
 
 def parse_sentence(s):
     x = s
-    s = s.replace('思ひ', '思い')
-    s = s.replace('云ふ', '云う')
-    s = s.replace('といふ', 'という')
-    s = s.replace('訴へ', '訴え')
-    s = s.replace('たとへ', 'たとえ')
-    s = s.replace('ゐ', 'い')
+    for replacement in replacements:
+        s = s.replace(replacement, replacements[replacement])
     if (x != s):
         print('replaced text')
     return parse_sentence_to_anki_format(s)
