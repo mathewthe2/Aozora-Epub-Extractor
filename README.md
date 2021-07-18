@@ -31,3 +31,10 @@ unpack_aozora_epub(file)
 After extraction, you will get
 - *deck.json* file contaiing each sentence with extracted furigana and matching id to the audio
 - media folder containing al the mp3 files named *[id].mp3* as well as the full mp3 file *full_audio.mp3*
+
+## Options
+
+| Parameter  | Type | Use | Default |
+| --------  | ------------------- | --------------------- | --------------------- |
+| skip_media | Boolean     | Whether to extract and cut audio  | True
+| normalization| Boolean | Whether to replace older writing styles with modern styles | True
