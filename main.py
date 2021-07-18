@@ -73,7 +73,7 @@ def get_audio_timestamps_map(file):
                 items_map[item["id"]] = item
     return items_map
 
-def get_text(file):
+def get_text(file, normalization=True):
     archive = zipfile.ZipFile(file, 'r')
     with archive.open(AOZORA_TEXT_FILE) as f:
         data = f.read()
@@ -87,8 +87,8 @@ def get_text(file):
                 if span.get("id")[0] == 'f':
                     item = {
                     "id": span.get("id"), 
-                    "sentence": parse_sentence(span.decode_contents().strip())["sentence"],
-                    "sentence_with_furigana": parse_sentence(span.decode_contents().strip())["sentence_with_furigana"],
+                    "sentence": parse_sentence(span.decode_contents().strip(), normalization)["sentence"],
+                    "sentence_with_furigana": parse_sentence(span.decode_contents().strip(), normalization)["sentence_with_furigana"],
                     } 
                     if item["id"] in audio_timestamps_map:
                         item["audio_begin"] = int(float(audio_timestamps_map[item["id"]]['begin'])*1000)
@@ -108,12 +108,13 @@ def remove_class_from_sentence(s):
             print('parsing failed for ', s)
     return s
 
-def parse_sentence(s):
-    x = s
-    for replacement in replacements:
-        s = s.replace(replacement, replacements[replacement])
-    if (x != s):
-        print('replaced text')
+def parse_sentence(s, normalization=True):
+    if normalization:
+        x = s
+        for replacement in replacements:
+            s = s.replace(replacement, replacements[replacement])
+        if (x != s):
+            print('replaced text')
     return parse_sentence_to_anki_format(s)
 
 def parse_sentence_to_anki_format(s):
@@ -135,7 +136,7 @@ def parse_sentence_to_anki_format(s):
         "sentence_with_furigana": remove_class_from_sentence(sentence_with_furigana)
     }
 
-def unpack_aozora_epub(file, skip_media=False):
+def unpack_aozora_epub(file, skip_media=False, normalization=True):
     file_directory = Path(file).parent
     if not skip_media:
         target_directory = Path(file_directory, 'media')
@@ -149,19 +150,19 @@ def unpack_aozora_epub(file, skip_media=False):
         for audio_timestamp in audio_timestamps:
             print('cutting audio', audio_timestamp['id'])
             cut_audio(audio_file, audio_timestamp, target_directory)
-    text_objects = get_text(file)
+    text_objects = get_text(file, normalization)
     with open(Path(file_directory, TEXT_FILE_NAME), 'w', encoding='utf-8') as f:
         json.dump(text_objects, f, indent=4, ensure_ascii=False)
 
-def unpack_all(skip_media=True):
+def unpack_all(skip_media=True, normalization=True):
     deck_folders = glob(str(Path(bundle_path, 'resources', 'literature')) + '/*/')
     for deck_folder in deck_folders:
         deck_name = Path(deck_folder).name
         print('parsing', deck_name)
-        unpack_aozora_epub(Path(bundle_path, 'resources', 'literature', deck_name, deck_name + '.epub'), skip_media)
+        unpack_aozora_epub(Path(bundle_path, 'resources', 'literature', deck_name, deck_name + '.epub'), skip_media, normalization)
 
 
-unpack_all()
+# unpack_all()
 # name = "Ashi"
 # file = Path(bundle_path, 'resources', 'literature', name, name + '.epub')
 # unpack_aozora_epub(file, skip_media=True)
